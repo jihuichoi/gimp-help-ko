@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GIMP Help 2\n"
 "POT-Creation-Date: 2013-05-17 13:09+0000\n"
-"PO-Revision-Date: 2013-05-20 23:25+0900\n"
+"PO-Revision-Date: 2013-06-26 18:54+0900\n"
 "Last-Translator: Jihui Choi <jihui.choi@gmail.com>\n"
 "Language-Team: Korean <jihui.choi@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -105,16 +105,16 @@ msgstr ""
 "된 실행 취소 이력부터 삭제됩니다."
 
 #: src/concepts/undo.xml:77(para)
-#, fuzzy
 msgid ""
 "Even though the Undo History is a component of an image, it is not saved "
 "when you save the image using <acronym>GIMP</acronym>'s native XCF format, "
 "which preserves every other image property. When the image is reopened, it "
 "will have an empty Undo History."
 msgstr ""
-"실행 취소 이력이 이미지의 한 구성요소이긴 하지만, 김프 고유 포맷인 XCF 포맷으"
-"로 저장하더라도 실행 취소 이력은 저장되지 않습니다. 따라서 저장한 이미지를 다"
-"시 열면 실행 취소 이력은 비어있게 됩니다."
+"실행 취소 이력이 이미지의 한 구성요소이긴 하지만, 거의 대부분의 이미지 정보"
+"를 보존하는 <acronym>김프</acronym> 고유 포맷인 XCF 포맷으로 저장하더라도 실"
+"행 취소 이력은 저장되지 않습니다. 따라서 저장한 이미지를 다시 열면 실행 취소 "
+"이력은 비어있게 됩니다."
 
 #: src/concepts/undo.xml:85(para)
 #, fuzzy
