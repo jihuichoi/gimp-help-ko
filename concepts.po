@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GIMP Help 2\n"
 "POT-Creation-Date: 2013-05-17 13:09+0000\n"
-"PO-Revision-Date: 2013-06-26 18:54+0900\n"
+"PO-Revision-Date: 2013-07-07 20:33+0900\n"
 "Last-Translator: Jihui Choi <jihui.choi@gmail.com>\n"
 "Language-Team: Korean <jihui.choi@gmail.com>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.5\n"
-"Language: ko\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: src/concepts/undo.xml:12(title) src/concepts/concepts.xml:223(term)
@@ -117,7 +117,6 @@ msgstr ""
 "이력은 비어있게 됩니다."
 
 #: src/concepts/undo.xml:85(para)
-#, fuzzy
 msgid ""
 "<acronym>GIMP</acronym>'s implementation of Undo is rather sophisticated. "
 "Many operations require very little Undo memory (e.g., changing visibility "
@@ -132,23 +131,21 @@ msgid ""
 "and after the operation. You might only be able to perform a few such "
 "operations before they drop out of the Undo History."
 msgstr ""
-"김프에서는 실행 취소가 꽤 근사하게 구현되어 있습니다. 대부분의 작업들은 아주 "
-"작은 실행 취소 메모리를 필요로 할 뿐이기 때문에(레이어의 보기 전환처럼), 꽤 "
-"많은 과정들을 저장해둘 수 있습니다. 앞서 말한 레이어의 보기전환과 같은 몇몇 "
-"작업들은 <emphasis>압축</emphasis>되어, 단지 하나의 포인트만을 기억해둠으로"
-"써 여러번 해당 과정을 반복할 수 있습니다. 그에 반면 필터와 같이 꽤 많은 실행 "
-"취소 메모리를 소모하는 작업들도 있습니다. 이 경우는 김프 코어가 플러그인에 의"
-"한 작업에 직접적으로 관여하지 않기 때문에, 플러그인에 의해 변화된 점에 대해 "
-"알 수 없기 때문입니다. 따라서 이러한 경우에는 실행 취소 이력에 플러그인 적용 "
-"전과 후를 모두 기록해 두어야 하기 때문에 많은 메모리를 사용하게 됩니다. 이러"
-"한 작업들은 실행 취소 이력에 겨우 몇번만 기록될 수 있습니다."
+"<acronym>김프</acronym>의 실행 취소 기능은 꽤 근사하게 구현되어 있습니다. 대"
+"부분의 작업들은 아주 작은 실행 취소 메모리만으로 많은 과정들을 저장해둘 수 있"
+"습니다. 예를 들어 레이어의 보기전환과 같은 몇몇 작업들은 <emphasis>압축</"
+"emphasis>되어, 단지 하나의 포인트만을 기억해둠으로써 여러번 해당 과정을 반복"
+"할 수 있습니다. 그에 반면 필터와 같이 꽤 많은 실행 취소 메모리를 소모하는 작"
+"업들도 있습니다. 대부분의 필터들은 플러그인 형식으로 구현되므로 <acronym>김프"
+"</acronym> 코어는 필터 적용 전후의 자세한 변화 내용을 확인할 수 없습니다. 따"
+"라서 아예 필터 적용 전후의 모든 내용을 기록하므로 많은 메모리를 사용하게 됩니"
+"다. 이러한 작업들은 실행 취소 이력에 겨우 몇번만 기록할 수 있습니다."
 
 #: src/concepts/undo.xml:102(title)
 msgid "Things That Cannot be Undone"
 msgstr "실행 취소를 할 수 없는 것들"
 
 #: src/concepts/undo.xml:103(para)
-#, fuzzy
 msgid ""
 "Most actions that alter an image can be undone. Actions that do not alter "
 "the image generally cannot be undone. Examples include saving the image to a "
@@ -158,12 +155,11 @@ msgid ""
 "There are, however, exceptions: toggling QuickMask on or off can be undone, "
 "even though it does not alter the image data."
 msgstr ""
-"이미지를 편집하는 대부분의 작업들은 취소를 할 수 있습니다. 그에 반면 이미지 "
-"편집과 관련이 없는 작업들은 취소를 할 수가 없습니다. 예를 들어 이미지를 파일"
-"로 저장하거나 복사하거나, 이미지의 일부를 클립보드로 복사하는 경우입니다. 그"
-"리고 확대해서 보기 등 이미지에 어떠한 변형이 없는 작업도 마찬가지로 취소할 "
-"수 없습니다. 예외적으로 퀵마스크 전환은 이미지에 변형을 가하진 않지만 실행 취"
-"소가 가능합니다."
+"이미지를 수정하는 대부분의 작업들은 취소를 할 수 있습니다. 반면, 이미지를 파"
+"일로 저장하거나 복사하거나, 이미지의 일부를 클립보드로 복사하는 작업처럼, 이"
+"미지 수정과 관련이 없는 작업들은 취소를 할 수가 없습니다. 그리고 확대해서 보"
+"기 등 이미지에 어떠한 변형이 없는 작업도 취소할 수 없습니다. 예외적으로 퀵마"
+"스크 전환은 이미지에 변형을 가하진 않지만 실행 취소가 가능합니다."
 
 #: src/concepts/undo.xml:113(para)
 msgid ""
@@ -176,7 +172,6 @@ msgid "Closing the image"
 msgstr "이미지 닫기"
 
 #: src/concepts/undo.xml:121(para)
-#, fuzzy
 msgid ""
 "The Undo History is a component of the image, so when the image is closed "
 "and all of its resources are freed, the Undo History is gone. Because of "
@@ -187,18 +182,17 @@ msgid ""
 "you do, you are assuming responsibility for thinking about what you are "
 "doing.)"
 msgstr ""
-"실행 취소 이력은 이미지의 구성 요소입니다. 하지만 이미지가 닫히면 그 기록은 "
-"모두 사라집니다. 그런 까닭에 이미지를 변경한 후 저장하지 않고 닫을 경우 김프"
-"는 항상 확인을 합니다(기본 설정 대화 상자의 환경 페이지에서 이 기능을 중지시"
-"킬 수도 있습니다. 하지만 그로 인해 발생되는 문제는 스스로 책임을 져야 합니"
-"다)."
+"실행 취소 이력은 이미지의 구성 요소 중 하나이므로, 이미지가 닫히면 그 기록은 "
+"모두 사라집니다. 따라서 이미지를 변경한 후 저장하지 않고 닫을 경우 <acronym>"
+"김프</acronym>는 항상 확인 창을 띄웁니다.(기본 설정 대화 상자의 <link "
+"linkend=\"gimp-prefs-environment\">환경</link> 페이지에서 이 기능을 중지시킬 "
+"수도 있습니다. 하지만 그로 인해 발생되는 문제는 스스로 책임을 져야 합니다.)"
 
 #: src/concepts/undo.xml:135(term)
 msgid "Reverting the image"
 msgstr "이미지 원래대로 만들기"
 
 #: src/concepts/undo.xml:137(para)
-#, fuzzy
 msgid ""
 "<quote>Reverting</quote> means reloading the image from the file. "
 "<acronym>GIMP</acronym> actually implements this by closing the image and "
@@ -207,9 +201,9 @@ msgid ""
 "confirm that you really want to revert the image."
 msgstr ""
 "<quote>원래대로</quote> 라는 것은 이미지를 파일로부터 다시 읽어들이는 것을 말"
-"합니다. 김프에서 이 메뉴를 실행시키면 현재 이미지를 닫고 새로 이미지를 다시 "
-"열기 때문에 실행 취소 이력은 모두 사라지게 됩니다. 이 역시 이미지가 변형되었"
-"다면 원래대로 만들기 전에 항상 실행 여부를 확인합니다."
+"합니다. <acronym>김프</acronym>에서 이 메뉴를 실행시키면, 현재 이미지를 닫고 "
+"새로 이미지를 다시 열엽니다. 따라서 실행 취소 이력은 모두 사라지게 됩니다. 그"
+"리고 이미지가 변형되었다면 원래대로 만들기 전에 항상 실행 여부를 확인합니다."
 
 #: src/concepts/undo.xml:148(term)
 msgid "<quote>Pieces</quote> of actions"
@@ -270,6 +264,8 @@ msgid ""
 "@@image: 'images/toolbox/presets-buttons.png'; "
 "md5=6fe73088d0ec95f7f53e45e6d9fcb0d6"
 msgstr ""
+"@@image: 'images/toolbox/presets-buttons.png'; "
+"md5=6fe73088d0ec95f7f53e45e6d9fcb0d6"
 
 #: src/concepts/tools-presets.xml:9(title)
 #: src/concepts/tools-presets.xml:12(primary)
@@ -324,6 +320,8 @@ msgid ""
 "@@image: 'images/using/toolbox-description.png'; "
 "md5=53382765536fb6aeb60cf626e23bb6e0"
 msgstr ""
+"@@image: 'images/using/toolbox-description.png'; "
+"md5=53382765536fb6aeb60cf626e23bb6e0"
 
 #: src/concepts/toolbox.xml:11(title)
 msgid "The Toolbox"
@@ -486,6 +484,8 @@ msgid ""
 "@@image: 'images/using/text-example.png'; "
 "md5=2bf8b291be4c90da216a468ac9c3526d"
 msgstr ""
+"@@image: 'images/using/text-example.png'; "
+"md5=2bf8b291be4c90da216a468ac9c3526d"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -494,6 +494,8 @@ msgid ""
 "@@image: 'images/using/text-example-2.png'; "
 "md5=032ec03928d2bfad3e40b3d8b14f8d1f"
 msgstr ""
+"@@image: 'images/using/text-example-2.png'; "
+"md5=032ec03928d2bfad3e40b3d8b14f8d1f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -502,6 +504,8 @@ msgid ""
 "@@image: 'images/using/text-toolbar.png'; "
 "md5=833ae1a50dd02ad22fc20a9cb0c6c22d"
 msgstr ""
+"@@image: 'images/using/text-toolbar.png'; "
+"md5=833ae1a50dd02ad22fc20a9cb0c6c22d"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -511,6 +515,8 @@ msgid ""
 "@@image: 'images/using/text-warning.png'; "
 "md5=6ca0b319eeeaa4e0acbc5ba19bbf37bf"
 msgstr ""
+"@@image: 'images/using/text-warning.png'; "
+"md5=6ca0b319eeeaa4e0acbc5ba19bbf37bf"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -519,6 +525,8 @@ msgid ""
 "@@image: 'images/toolbox/text-editing-context-menu.png'; "
 "md5=0ed64fc40c3395fdbb9cfc16fd624ce7"
 msgstr ""
+"@@image: 'images/toolbox/text-editing-context-menu.png'; "
+"md5=0ed64fc40c3395fdbb9cfc16fd624ce7"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -527,6 +535,8 @@ msgid ""
 "@@image: 'images/menus/layer/text-commands.png'; "
 "md5=8236fc6413fba25a0eb649b8bfd80729"
 msgstr ""
+"@@image: 'images/menus/layer/text-commands.png'; "
+"md5=8236fc6413fba25a0eb649b8bfd80729"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -535,6 +545,8 @@ msgid ""
 "@@image: 'images/toolbox/text-along-path.png'; "
 "md5=f389f0801b96adb64ed23fb5c09b0eee"
 msgstr ""
+"@@image: 'images/toolbox/text-along-path.png'; "
+"md5=f389f0801b96adb64ed23fb5c09b0eee"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -542,6 +554,7 @@ msgstr ""
 msgid ""
 "@@image: 'images/toolbox/text-path.png'; md5=76e6f9c38366374d6efd8143b6d14836"
 msgstr ""
+"@@image: 'images/toolbox/text-path.png'; md5=76e6f9c38366374d6efd8143b6d14836"
 
 #: src/concepts/text-management.xml:8(title)
 msgid "Text Management"
@@ -891,6 +904,8 @@ msgid ""
 "@@image: 'images/using/fog-tree-example.png'; "
 "md5=8babda1b2e89fb7da2093a400850de23"
 msgstr ""
+"@@image: 'images/using/fog-tree-example.png'; "
+"md5=8babda1b2e89fb7da2093a400850de23"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -899,6 +914,8 @@ msgid ""
 "@@image: 'images/using/select-outline.png'; "
 "md5=3d90a0551f202ceee63d1e97286f91e5"
 msgstr ""
+"@@image: 'images/using/select-outline.png'; "
+"md5=3d90a0551f202ceee63d1e97286f91e5"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -907,6 +924,8 @@ msgid ""
 "@@image: 'images/using/select-outline-qmask.png'; "
 "md5=7105ae8ad295eacccaef32ebeacf47ee"
 msgstr ""
+"@@image: 'images/using/select-outline-qmask.png'; "
+"md5=7105ae8ad295eacccaef32ebeacf47ee"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -915,6 +934,8 @@ msgid ""
 "@@image: 'images/using/select-outline-qmask-feather.png'; "
 "md5=4a680eba96e279239f02182832d1e988"
 msgstr ""
+"@@image: 'images/using/select-outline-qmask-feather.png'; "
+"md5=4a680eba96e279239f02182832d1e988"
 
 #: src/concepts/selection.xml:18(title)
 msgid "The Selection"
@@ -1239,6 +1260,8 @@ msgid ""
 "@@image: 'images/using/script-fu-exts.png'; "
 "md5=0e5f00a392b0b6721b462e433889ea05"
 msgstr ""
+"@@image: 'images/using/script-fu-exts.png'; "
+"md5=0e5f00a392b0b6721b462e433889ea05"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -1247,6 +1270,8 @@ msgid ""
 "@@image: 'images/using/script-fu-image.png'; "
 "md5=43644d35e3ae0e5cd4e34cc8ffee0992"
 msgstr ""
+"@@image: 'images/using/script-fu-image.png'; "
+"md5=43644d35e3ae0e5cd4e34cc8ffee0992"
 
 #: src/concepts/script-fu.xml:15(title)
 msgid "Using Script-Fu Scripts"
@@ -1708,6 +1733,8 @@ msgid ""
 "@@image: 'images/dialogs/channel-quickmask.png'; "
 "md5=339a3364ffa87f2e59a161718089e00e"
 msgstr ""
+"@@image: 'images/dialogs/channel-quickmask.png'; "
+"md5=339a3364ffa87f2e59a161718089e00e"
 
 #: src/concepts/qmask.xml:15(title)
 #, fuzzy
@@ -2324,6 +2351,8 @@ msgid ""
 "@@image: 'images/using/patterns-usage.png'; "
 "md5=1186700f4888b6793e00d2e84e0c0932"
 msgstr ""
+"@@image: 'images/using/patterns-usage.png'; "
+"md5=1186700f4888b6793e00d2e84e0c0932"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -2332,6 +2361,8 @@ msgid ""
 "@@image: 'images/using/pattern-checked.png'; "
 "md5=e9750b262b9eab8ba17e3d6cbc3b2246"
 msgstr ""
+"@@image: 'images/using/pattern-checked.png'; "
+"md5=e9750b262b9eab8ba17e3d6cbc3b2246"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -2340,6 +2371,8 @@ msgid ""
 "@@image: 'images/using/pattern-script-examples.png'; "
 "md5=b04e9b7ac2a850341bd6ca1c038f9a15"
 msgstr ""
+"@@image: 'images/using/pattern-script-examples.png'; "
+"md5=b04e9b7ac2a850341bd6ca1c038f9a15"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -2348,6 +2381,8 @@ msgid ""
 "@@image: 'images/using/pattern-create.png'; "
 "md5=2705c954fc97b8be012f30f63376a4d5"
 msgstr ""
+"@@image: 'images/using/pattern-create.png'; "
+"md5=2705c954fc97b8be012f30f63376a4d5"
 
 #: src/concepts/patterns.xml:25(para)
 msgid ""
@@ -2604,6 +2639,8 @@ msgid ""
 "@@image: 'images/dialogs/palettes-dialog.png'; "
 "md5=f96ee8ecd86d1f85ef47297720bde03e"
 msgstr ""
+"@@image: 'images/dialogs/palettes-dialog.png'; "
+"md5=f96ee8ecd86d1f85ef47297720bde03e"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -2612,6 +2649,8 @@ msgid ""
 "@@image: 'images/dialogs/palette-editor.png'; "
 "md5=2946a1ceeee1c80d35d6577bbbd9a10c"
 msgstr ""
+"@@image: 'images/dialogs/palette-editor.png'; "
+"md5=2946a1ceeee1c80d35d6577bbbd9a10c"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -2620,6 +2659,8 @@ msgid ""
 "@@image: 'images/dialogs/colormap-dialog.png'; "
 "md5=4baad04bc5ae20490663a3ea138281ce"
 msgstr ""
+"@@image: 'images/dialogs/colormap-dialog.png'; "
+"md5=4baad04bc5ae20490663a3ea138281ce"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -2627,6 +2668,7 @@ msgstr ""
 msgid ""
 "@@image: 'images/using/palettes.png'; md5=e363ee3750e5644521f3106c365f0401"
 msgstr ""
+"@@image: 'images/using/palettes.png'; md5=e363ee3750e5644521f3106c365f0401"
 
 #: src/concepts/palettes.xml:16(title)
 msgid "Palettes"
@@ -2883,6 +2925,8 @@ msgid ""
 "@@image: 'images/glossary/alpha-channel-0.png'; "
 "md5=675957994dc1c2e4bad61103ecb0b105"
 msgstr ""
+"@@image: 'images/glossary/alpha-channel-0.png'; "
+"md5=675957994dc1c2e4bad61103ecb0b105"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -2891,6 +2935,8 @@ msgid ""
 "@@image: 'images/glossary/alpha-channel-1.png'; "
 "md5=3c43a2b795aab79f356ccb6efd49e20a"
 msgstr ""
+"@@image: 'images/glossary/alpha-channel-1.png'; "
+"md5=3c43a2b795aab79f356ccb6efd49e20a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -2899,6 +2945,8 @@ msgid ""
 "@@image: 'images/glossary/alpha-channel-2.png'; "
 "md5=e4904e90efcb34afeb717518aeb0e35a"
 msgstr ""
+"@@image: 'images/glossary/alpha-channel-2.png'; "
+"md5=e4904e90efcb34afeb717518aeb0e35a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -2907,6 +2955,8 @@ msgid ""
 "@@image: 'images/glossary/alpha-channel-3a.png'; "
 "md5=22995cb49cf3a1ba6d6a4b818653eff4"
 msgstr ""
+"@@image: 'images/glossary/alpha-channel-3a.png'; "
+"md5=22995cb49cf3a1ba6d6a4b818653eff4"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -2915,6 +2965,8 @@ msgid ""
 "@@image: 'images/glossary/alpha-channel-3b.png'; "
 "md5=8fe29e00575211078ba9c9ba4c1261bc"
 msgstr ""
+"@@image: 'images/glossary/alpha-channel-3b.png'; "
+"md5=8fe29e00575211078ba9c9ba4c1261bc"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -2923,6 +2975,8 @@ msgid ""
 "@@image: 'images/dialogs/stock-eye-20.png'; "
 "md5=c18c92f7336693c8962da99cd9405df5"
 msgstr ""
+"@@image: 'images/dialogs/stock-eye-20.png'; "
+"md5=c18c92f7336693c8962da99cd9405df5"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -2931,6 +2985,8 @@ msgid ""
 "@@image: 'images/dialogs/stock-vchain-24.png'; "
 "md5=7c1f223b72d0d77f316a2ee9b96a08fb"
 msgstr ""
+"@@image: 'images/dialogs/stock-vchain-24.png'; "
+"md5=7c1f223b72d0d77f316a2ee9b96a08fb"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -2939,6 +2995,8 @@ msgid ""
 "@@image: 'images/dialogs/link-visibility.png'; "
 "md5=f457af6c6a1d10009815665755da7bbc"
 msgstr ""
+"@@image: 'images/dialogs/link-visibility.png'; "
+"md5=f457af6c6a1d10009815665755da7bbc"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -2947,6 +3005,8 @@ msgid ""
 "@@image: 'images/dialogs/lock-alpha.png'; "
 "md5=6a6c7ce8cf037b7993c61ea1e34e6feb"
 msgstr ""
+"@@image: 'images/dialogs/lock-alpha.png'; "
+"md5=6a6c7ce8cf037b7993c61ea1e34e6feb"
 
 #: src/concepts/layers.xml:18(title)
 msgid "Introduction to Layers"
@@ -3474,6 +3534,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-mask1.jpg'; "
 "md5=028754ae7bfb6e43064483d69a3e8d52"
 msgstr ""
+"@@image: 'images/using/layer-mode-mask1.jpg'; "
+"md5=028754ae7bfb6e43064483d69a3e8d52"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3482,6 +3544,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-mask2.jpg'; "
 "md5=c908cbc72134f840986cbd875dbfff68"
 msgstr ""
+"@@image: 'images/using/layer-mode-mask2.jpg'; "
+"md5=c908cbc72134f840986cbd875dbfff68"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3489,6 +3553,7 @@ msgstr ""
 msgid ""
 "@@image: 'images/using/keyfob_orig.png'; md5=37c64b68b614718071d29ffc24576ab9"
 msgstr ""
+"@@image: 'images/using/keyfob_orig.png'; md5=37c64b68b614718071d29ffc24576ab9"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3496,6 +3561,7 @@ msgstr ""
 msgid ""
 "@@image: 'images/using/duck_orig.png'; md5=6546b2d38c98d78ec203b8b090bc675f"
 msgstr ""
+"@@image: 'images/using/duck_orig.png'; md5=6546b2d38c98d78ec203b8b090bc675f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3504,6 +3570,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-normal-50.jpg'; "
 "md5=4f0cb3c15c685330bebbeafe5197e1cb"
 msgstr ""
+"@@image: 'images/using/layer-mode-normal-50.jpg'; "
+"md5=4f0cb3c15c685330bebbeafe5197e1cb"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3512,6 +3580,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-normal-100.jpg'; "
 "md5=40c1955056eb79d7ca20f4400b9732db"
 msgstr ""
+"@@image: 'images/using/layer-mode-normal-100.jpg'; "
+"md5=40c1955056eb79d7ca20f4400b9732db"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3520,6 +3590,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-dissolve-50.jpg'; "
 "md5=1f3140614827ce62c8c29615481d2e33"
 msgstr ""
+"@@image: 'images/using/layer-mode-dissolve-50.jpg'; "
+"md5=1f3140614827ce62c8c29615481d2e33"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3528,6 +3600,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-dissolve-100.jpg'; "
 "md5=365105ed44d7677c6c6f8f79bbe86b3a"
 msgstr ""
+"@@image: 'images/using/layer-mode-dissolve-100.jpg'; "
+"md5=365105ed44d7677c6c6f8f79bbe86b3a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3536,6 +3610,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-dissolve-nbig.jpg'; "
 "md5=148f9482ed9c10805d1a333fe1d23dc3"
 msgstr ""
+"@@image: 'images/using/layer-mode-dissolve-nbig.jpg'; "
+"md5=148f9482ed9c10805d1a333fe1d23dc3"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3544,6 +3620,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-dissolve-dbig.jpg'; "
 "md5=ff41150df7ac54ee590f5c499ff16f60"
 msgstr ""
+"@@image: 'images/using/layer-mode-dissolve-dbig.jpg'; "
+"md5=ff41150df7ac54ee590f5c499ff16f60"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3552,6 +3630,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-multiply-mask1.jpg'; "
 "md5=b53f7a4f7c895c6bbe015c8ff6a536a0"
 msgstr ""
+"@@image: 'images/using/layer-mode-multiply-mask1.jpg'; "
+"md5=b53f7a4f7c895c6bbe015c8ff6a536a0"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3560,6 +3640,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-multiply-mask2.jpg'; "
 "md5=af839510e2d09a773243775f56f5db06"
 msgstr ""
+"@@image: 'images/using/layer-mode-multiply-mask2.jpg'; "
+"md5=af839510e2d09a773243775f56f5db06"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3568,6 +3650,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-divide-mask1.jpg'; "
 "md5=b17f691ca8a357cc759eac210c796759"
 msgstr ""
+"@@image: 'images/using/layer-mode-divide-mask1.jpg'; "
+"md5=b17f691ca8a357cc759eac210c796759"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3576,6 +3660,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-divide-mask2.jpg'; "
 "md5=ebdb15b630ae00cec64c429e5b3e7801"
 msgstr ""
+"@@image: 'images/using/layer-mode-divide-mask2.jpg'; "
+"md5=ebdb15b630ae00cec64c429e5b3e7801"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3584,6 +3670,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-screen-mask1.jpg'; "
 "md5=af0fdd8f64b35219a3b3801f7051f145"
 msgstr ""
+"@@image: 'images/using/layer-mode-screen-mask1.jpg'; "
+"md5=af0fdd8f64b35219a3b3801f7051f145"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3592,6 +3680,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-screen-mask2.jpg'; "
 "md5=de96ffd40e975be2d2197d5054d67b63"
 msgstr ""
+"@@image: 'images/using/layer-mode-screen-mask2.jpg'; "
+"md5=de96ffd40e975be2d2197d5054d67b63"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3600,6 +3690,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-overlay-mask1.jpg'; "
 "md5=ac2863c42bddeb33d0878ac2f9d204e0"
 msgstr ""
+"@@image: 'images/using/layer-mode-overlay-mask1.jpg'; "
+"md5=ac2863c42bddeb33d0878ac2f9d204e0"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3608,6 +3700,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-overlay-mask2.jpg'; "
 "md5=ddaf2be550c4906337d4762ca65c87db"
 msgstr ""
+"@@image: 'images/using/layer-mode-overlay-mask2.jpg'; "
+"md5=ddaf2be550c4906337d4762ca65c87db"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3616,6 +3710,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-dodge-mask1.jpg'; "
 "md5=9d273db48c49f06adc3c2c4371b143f2"
 msgstr ""
+"@@image: 'images/using/layer-mode-dodge-mask1.jpg'; "
+"md5=9d273db48c49f06adc3c2c4371b143f2"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3624,6 +3720,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-dodge-mask2.jpg'; "
 "md5=510e749d935bcdef5443c503be133a1a"
 msgstr ""
+"@@image: 'images/using/layer-mode-dodge-mask2.jpg'; "
+"md5=510e749d935bcdef5443c503be133a1a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3632,6 +3730,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-burn-mask1.jpg'; "
 "md5=152fe2f10d8ea53e16d34f1890c9afac"
 msgstr ""
+"@@image: 'images/using/layer-mode-burn-mask1.jpg'; "
+"md5=152fe2f10d8ea53e16d34f1890c9afac"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3640,6 +3740,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-burn-mask2.jpg'; "
 "md5=579701defeeb0f8f599546ec78b00bdf"
 msgstr ""
+"@@image: 'images/using/layer-mode-burn-mask2.jpg'; "
+"md5=579701defeeb0f8f599546ec78b00bdf"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3648,6 +3750,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-hard-light-mask1.jpg'; "
 "md5=7945ef6b1b0237e71e65943f82025730"
 msgstr ""
+"@@image: 'images/using/layer-mode-hard-light-mask1.jpg'; "
+"md5=7945ef6b1b0237e71e65943f82025730"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3656,6 +3760,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-hard-light-mask2.jpg'; "
 "md5=68a709c6b0792baf87856bcab44bb92b"
 msgstr ""
+"@@image: 'images/using/layer-mode-hard-light-mask2.jpg'; "
+"md5=68a709c6b0792baf87856bcab44bb92b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3664,6 +3770,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-soft-light-mask1.jpg'; "
 "md5=cbc376b9beadbe465ed7b02b5229600e"
 msgstr ""
+"@@image: 'images/using/layer-mode-soft-light-mask1.jpg'; "
+"md5=cbc376b9beadbe465ed7b02b5229600e"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3672,6 +3780,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-soft-light-mask2.jpg'; "
 "md5=ec2a8b3485636ba9e4ff3ce51f52446e"
 msgstr ""
+"@@image: 'images/using/layer-mode-soft-light-mask2.jpg'; "
+"md5=ec2a8b3485636ba9e4ff3ce51f52446e"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3680,6 +3790,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-grain-extract-mask1.jpg'; "
 "md5=316e5f1ef43da3e5077f84e5e006908c"
 msgstr ""
+"@@image: 'images/using/layer-mode-grain-extract-mask1.jpg'; "
+"md5=316e5f1ef43da3e5077f84e5e006908c"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3688,6 +3800,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-grain-extract-mask2.jpg'; "
 "md5=c64d14d799fbc35462eb6e3070d8d7a1"
 msgstr ""
+"@@image: 'images/using/layer-mode-grain-extract-mask2.jpg'; "
+"md5=c64d14d799fbc35462eb6e3070d8d7a1"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3696,6 +3810,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-grain-merge-mask1.jpg'; "
 "md5=2950d91535a6878d269eb4852af62a7f"
 msgstr ""
+"@@image: 'images/using/layer-mode-grain-merge-mask1.jpg'; "
+"md5=2950d91535a6878d269eb4852af62a7f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3704,6 +3820,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-grain-merge-mask2.jpg'; "
 "md5=a4da3a6506e11b41e22af2de96c13eab"
 msgstr ""
+"@@image: 'images/using/layer-mode-grain-merge-mask2.jpg'; "
+"md5=a4da3a6506e11b41e22af2de96c13eab"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3712,6 +3830,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-difference-mask1.jpg'; "
 "md5=f13708cf2c07e7a96bde2edde5326236"
 msgstr ""
+"@@image: 'images/using/layer-mode-difference-mask1.jpg'; "
+"md5=f13708cf2c07e7a96bde2edde5326236"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3720,6 +3840,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-difference-mask2.jpg'; "
 "md5=4f6bd694f1e0787a53b546439824e583"
 msgstr ""
+"@@image: 'images/using/layer-mode-difference-mask2.jpg'; "
+"md5=4f6bd694f1e0787a53b546439824e583"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3728,6 +3850,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-addition-mask1.jpg'; "
 "md5=53b007a017fb8fc4ada73d78fb011227"
 msgstr ""
+"@@image: 'images/using/layer-mode-addition-mask1.jpg'; "
+"md5=53b007a017fb8fc4ada73d78fb011227"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3736,6 +3860,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-addition-mask2.jpg'; "
 "md5=4cdf46a9e0d123ea7ff421ca5e04eb6b"
 msgstr ""
+"@@image: 'images/using/layer-mode-addition-mask2.jpg'; "
+"md5=4cdf46a9e0d123ea7ff421ca5e04eb6b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3744,6 +3870,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-subtract-mask1.jpg'; "
 "md5=9bb7e9ab8f5830e54e0270c9c4c2c00d"
 msgstr ""
+"@@image: 'images/using/layer-mode-subtract-mask1.jpg'; "
+"md5=9bb7e9ab8f5830e54e0270c9c4c2c00d"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3752,6 +3880,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-subtract-mask2.jpg'; "
 "md5=42b7f546beaf55560cc5dcc037b46488"
 msgstr ""
+"@@image: 'images/using/layer-mode-subtract-mask2.jpg'; "
+"md5=42b7f546beaf55560cc5dcc037b46488"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3760,6 +3890,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-darken-only-mask1.jpg'; "
 "md5=bbb4b9cb464d857886a5d9327f2e0c2a"
 msgstr ""
+"@@image: 'images/using/layer-mode-darken-only-mask1.jpg'; "
+"md5=bbb4b9cb464d857886a5d9327f2e0c2a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3768,6 +3900,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-darken-only-mask2.jpg'; "
 "md5=fc4e61ec2aa826f4db6be5589c46c5b4"
 msgstr ""
+"@@image: 'images/using/layer-mode-darken-only-mask2.jpg'; "
+"md5=fc4e61ec2aa826f4db6be5589c46c5b4"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3776,6 +3910,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-lighten-only-mask1.jpg'; "
 "md5=f235aadd047856fde28101bc357524e2"
 msgstr ""
+"@@image: 'images/using/layer-mode-lighten-only-mask1.jpg'; "
+"md5=f235aadd047856fde28101bc357524e2"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3784,6 +3920,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-lighten-only-mask2.jpg'; "
 "md5=ea3aa20711403aa2106202850014923c"
 msgstr ""
+"@@image: 'images/using/layer-mode-lighten-only-mask2.jpg'; "
+"md5=ea3aa20711403aa2106202850014923c"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3792,6 +3930,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-hue-mask1.jpg'; "
 "md5=4632ac26ea953a1f18b0d4d0bb41c986"
 msgstr ""
+"@@image: 'images/using/layer-mode-hue-mask1.jpg'; "
+"md5=4632ac26ea953a1f18b0d4d0bb41c986"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3800,6 +3940,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-hue-mask2.jpg'; "
 "md5=f21fe0896adbe402e6871e6f9429a2c5"
 msgstr ""
+"@@image: 'images/using/layer-mode-hue-mask2.jpg'; "
+"md5=f21fe0896adbe402e6871e6f9429a2c5"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3808,6 +3950,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-saturation-mask1.jpg'; "
 "md5=2af0a3ecc73ac4d50fc5d44aa776ffc8"
 msgstr ""
+"@@image: 'images/using/layer-mode-saturation-mask1.jpg'; "
+"md5=2af0a3ecc73ac4d50fc5d44aa776ffc8"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3816,6 +3960,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-saturation-mask2.jpg'; "
 "md5=556626e96b4f4e9356188cd2ed18d14d"
 msgstr ""
+"@@image: 'images/using/layer-mode-saturation-mask2.jpg'; "
+"md5=556626e96b4f4e9356188cd2ed18d14d"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3824,6 +3970,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-color-mask1.jpg'; "
 "md5=1c086e9001b32c62d9fed9d1203add7c"
 msgstr ""
+"@@image: 'images/using/layer-mode-color-mask1.jpg'; "
+"md5=1c086e9001b32c62d9fed9d1203add7c"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3832,6 +3980,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-color-mask2.jpg'; "
 "md5=fbf733f2ce0b12fb8d33a5798a4c85fb"
 msgstr ""
+"@@image: 'images/using/layer-mode-color-mask2.jpg'; "
+"md5=fbf733f2ce0b12fb8d33a5798a4c85fb"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3840,6 +3990,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-value-mask1.jpg'; "
 "md5=cd3b87d52f0c7030f9fe4b226768941d"
 msgstr ""
+"@@image: 'images/using/layer-mode-value-mask1.jpg'; "
+"md5=cd3b87d52f0c7030f9fe4b226768941d"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3848,6 +4000,8 @@ msgid ""
 "@@image: 'images/using/layer-mode-value-mask2.jpg'; "
 "md5=b75542ef3a465239a6d9db10852c20a8"
 msgstr ""
+"@@image: 'images/using/layer-mode-value-mask2.jpg'; "
+"md5=b75542ef3a465239a6d9db10852c20a8"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3856,6 +4010,8 @@ msgid ""
 "@@image: 'images/glossary/modes-multilayer.png'; "
 "md5=02945f352c86c2496cf05330393e3fe6"
 msgstr ""
+"@@image: 'images/glossary/modes-multilayer.png'; "
+"md5=02945f352c86c2496cf05330393e3fe6"
 
 #: src/concepts/layer-modes.xml:19(title)
 #: src/concepts/layer-modes.xml:152(primary)
@@ -3994,7 +4150,7 @@ msgstr "예제"
 
 #: src/concepts/layer-modes.xml:115(alt)
 msgid "$$E = M + I$$"
-msgstr ""
+msgstr "$$E = M + I$$"
 
 #: src/concepts/layer-modes.xml:118(para)
 #, fuzzy
@@ -4094,7 +4250,7 @@ msgstr "<quote>번(Burn)</quote> 모드의 공식"
 
 #: src/concepts/layer-modes.xml:191(alt)
 msgid "$$E = M$$"
-msgstr ""
+msgstr "$$E = M$$"
 
 #: src/concepts/layer-modes.xml:198(term)
 #: src/concepts/layer-modes.xml:202(secondary)
@@ -4929,6 +5085,8 @@ msgid ""
 "@@image: 'images/dialogs/layer-group.png'; "
 "md5=0e8bf81ed639ac3015aa631caf9b4990"
 msgstr ""
+"@@image: 'images/dialogs/layer-group.png'; "
+"md5=0e8bf81ed639ac3015aa631caf9b4990"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -4937,6 +5095,8 @@ msgid ""
 "@@image: 'images/dialogs/fold-unfold.png'; "
 "md5=85e619387be3a8817accfee909599dcd"
 msgstr ""
+"@@image: 'images/dialogs/fold-unfold.png'; "
+"md5=85e619387be3a8817accfee909599dcd"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -4945,6 +5105,8 @@ msgid ""
 "@@image: 'images/dialogs/layer-group-original.png'; "
 "md5=194a49613012cbfcf8caa69f6c625f10"
 msgstr ""
+"@@image: 'images/dialogs/layer-group-original.png'; "
+"md5=194a49613012cbfcf8caa69f6c625f10"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -4953,6 +5115,8 @@ msgid ""
 "@@image: 'images/dialogs/layer-group-merge-in.png'; "
 "md5=5511d5ecd49bed1033693c7963ac3546"
 msgstr ""
+"@@image: 'images/dialogs/layer-group-merge-in.png'; "
+"md5=5511d5ecd49bed1033693c7963ac3546"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -4961,6 +5125,8 @@ msgid ""
 "@@image: 'images/dialogs/layer-group-merge-out.png'; "
 "md5=9c37191ebd158cedfb83a70a15df2962"
 msgstr ""
+"@@image: 'images/dialogs/layer-group-merge-out.png'; "
+"md5=9c37191ebd158cedfb83a70a15df2962"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -4969,6 +5135,8 @@ msgid ""
 "@@image: 'images/dialogs/layer-group-mask.png'; "
 "md5=39927b249afcb0293f019966953d690f"
 msgstr ""
+"@@image: 'images/dialogs/layer-group-mask.png'; "
+"md5=39927b249afcb0293f019966953d690f"
 
 #: src/concepts/layer-groups.xml:10(title)
 msgid "Layer Groups"
@@ -5687,6 +5855,8 @@ msgid ""
 "@@image: 'images/using/image-window-multi.png'; "
 "md5=d1b4a308f230d51f0d94dc591e18ac7d"
 msgstr ""
+"@@image: 'images/using/image-window-multi.png'; "
+"md5=d1b4a308f230d51f0d94dc591e18ac7d"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -5695,6 +5865,8 @@ msgid ""
 "@@image: 'images/using/image-window-single.png'; "
 "md5=6237829fb98bd7b1a604b286c320c96f"
 msgstr ""
+"@@image: 'images/using/image-window-single.png'; "
+"md5=6237829fb98bd7b1a604b286c320c96f"
 
 #: src/concepts/imagewindow.xml:8(title)
 msgid "Image Window"
@@ -6528,6 +6700,8 @@ msgid ""
 "@@image: 'images/glossary/color-model-additive.png'; "
 "md5=768bb4d50d1b49aaf5ec7ce7af7ac693"
 msgstr ""
+"@@image: 'images/glossary/color-model-additive.png'; "
+"md5=768bb4d50d1b49aaf5ec7ce7af7ac693"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -6536,6 +6710,8 @@ msgid ""
 "@@image: 'images/glossary/color-model-subtractive.png'; "
 "md5=b28a8bfbda939acb39b82883b8be422b"
 msgstr ""
+"@@image: 'images/glossary/color-model-subtractive.png'; "
+"md5=b28a8bfbda939acb39b82883b8be422b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -6544,6 +6720,8 @@ msgid ""
 "@@image: 'images/using/wilber-channel-rgb.png'; "
 "md5=8e0fe401c2ea88c164707f0fafc28389"
 msgstr ""
+"@@image: 'images/using/wilber-channel-rgb.png'; "
+"md5=8e0fe401c2ea88c164707f0fafc28389"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -6552,6 +6730,8 @@ msgid ""
 "@@image: 'images/using/wilber-channel-gray.png'; "
 "md5=8f2d20cd9a07685d6413da15e7d30c1e"
 msgstr ""
+"@@image: 'images/using/wilber-channel-gray.png'; "
+"md5=8f2d20cd9a07685d6413da15e7d30c1e"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -6560,6 +6740,8 @@ msgid ""
 "@@image: 'images/dialogs/wilber-channels-red.png'; "
 "md5=06757160d5b8ec5228bf80f2374b685b"
 msgstr ""
+"@@image: 'images/dialogs/wilber-channels-red.png'; "
+"md5=06757160d5b8ec5228bf80f2374b685b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -6568,6 +6750,8 @@ msgid ""
 "@@image: 'images/dialogs/wilber-channels-green.png'; "
 "md5=9cb0a78a7d3db6fc0e14138bbbd8ff69"
 msgstr ""
+"@@image: 'images/dialogs/wilber-channels-green.png'; "
+"md5=9cb0a78a7d3db6fc0e14138bbbd8ff69"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -6576,6 +6760,8 @@ msgid ""
 "@@image: 'images/dialogs/wilber-channels-blue.png'; "
 "md5=3a04441a2721eab40f0eda1a22803cd6"
 msgstr ""
+"@@image: 'images/dialogs/wilber-channels-blue.png'; "
+"md5=3a04441a2721eab40f0eda1a22803cd6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -6584,6 +6770,8 @@ msgid ""
 "@@image: 'images/dialogs/wilber-channels-alpha.png'; "
 "md5=4408a37d5cda31f94508d16d42671725"
 msgstr ""
+"@@image: 'images/dialogs/wilber-channels-alpha.png'; "
+"md5=4408a37d5cda31f94508d16d42671725"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -6592,6 +6780,8 @@ msgid ""
 "@@image: 'images/dialogs/wilber-channels-combined.png'; "
 "md5=8eabd21a9f0cf299dfc3670ec5fb4a74"
 msgstr ""
+"@@image: 'images/dialogs/wilber-channels-combined.png'; "
+"md5=8eabd21a9f0cf299dfc3670ec5fb4a74"
 
 #: src/concepts/image-types.xml:12(title)
 msgid "Image Types"
@@ -6848,6 +7038,8 @@ msgid ""
 "@@image: 'images/using/wilber-simple-nogrid.png'; "
 "md5=efa1201d495b617d6cf778e3d1bc4a96"
 msgstr ""
+"@@image: 'images/using/wilber-simple-nogrid.png'; "
+"md5=efa1201d495b617d6cf778e3d1bc4a96"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -6856,6 +7048,8 @@ msgid ""
 "@@image: 'images/using/wilber-simple-defaultgrid.png'; "
 "md5=49ba2a197111fc7f59d59c614a5dbfdd"
 msgstr ""
+"@@image: 'images/using/wilber-simple-defaultgrid.png'; "
+"md5=49ba2a197111fc7f59d59c614a5dbfdd"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -6864,6 +7058,8 @@ msgid ""
 "@@image: 'images/using/wilber-simple-othergrid.png'; "
 "md5=003180dbddba0c339a1c54b2cb2fafec"
 msgstr ""
+"@@image: 'images/using/wilber-simple-othergrid.png'; "
+"md5=003180dbddba0c339a1c54b2cb2fafec"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -6872,6 +7068,8 @@ msgid ""
 "@@image: 'images/using/wilber-simple-guides.png'; "
 "md5=4b7d180ee1e84f5dc4d5a229c3430702"
 msgstr ""
+"@@image: 'images/using/wilber-simple-guides.png'; "
+"md5=4b7d180ee1e84f5dc4d5a229c3430702"
 
 #: src/concepts/grid-and-guides.xml:16(title)
 msgid "Grids and Guides"
@@ -7104,6 +7302,8 @@ msgid ""
 "@@image: 'images/using/gradient-examples.png'; "
 "md5=99dbccd875234d4f305f90501d02ef20"
 msgstr ""
+"@@image: 'images/using/gradient-examples.png'; "
+"md5=99dbccd875234d4f305f90501d02ef20"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -7112,6 +7312,8 @@ msgid ""
 "@@image: 'images/using/gradient-draw.png'; "
 "md5=3dff4b59a3ad75746473176ba9c073b2"
 msgstr ""
+"@@image: 'images/using/gradient-draw.png'; "
+"md5=3dff4b59a3ad75746473176ba9c073b2"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -7120,6 +7322,8 @@ msgid ""
 "@@image: 'images/using/color-gradient-pencil.png'; "
 "md5=5d0f45fb8aeb86fe34219e4074478906"
 msgstr ""
+"@@image: 'images/using/color-gradient-pencil.png'; "
+"md5=5d0f45fb8aeb86fe34219e4074478906"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -7128,6 +7332,8 @@ msgid ""
 "@@image: 'images/using/gradient-usage.png'; "
 "md5=d70171cbaaccc00565123fae0277ec01"
 msgstr ""
+"@@image: 'images/using/gradient-usage.png'; "
+"md5=d70171cbaaccc00565123fae0277ec01"
 
 #: src/concepts/gradients.xml:10(title)
 msgid "Gradients"
@@ -7497,6 +7703,8 @@ msgid ""
 "@@image: 'images/using/dock-integrate-dialog.png'; "
 "md5=b2137d575c84eefd920a4d5dc39262db"
 msgstr ""
+"@@image: 'images/using/dock-integrate-dialog.png'; "
+"md5=b2137d575c84eefd920a4d5dc39262db"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -7505,6 +7713,8 @@ msgid ""
 "@@image: 'images/using/dock-anchor-dialog.png'; "
 "md5=7eaed8946bb99915a615492ade57c083"
 msgstr ""
+"@@image: 'images/using/dock-anchor-dialog.png'; "
+"md5=7eaed8946bb99915a615492ade57c083"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -7513,6 +7723,8 @@ msgid ""
 "@@image: 'images/using/dialog-highlight-tabmenu.png'; "
 "md5=466ac9bb03f2c6cba67301badf3f1978"
 msgstr ""
+"@@image: 'images/using/dialog-highlight-tabmenu.png'; "
+"md5=466ac9bb03f2c6cba67301badf3f1978"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -7520,6 +7732,7 @@ msgstr ""
 msgid ""
 "@@image: 'images/using/tab-menu.png'; md5=23db244b35d5390b421613c9dbe68e5c"
 msgstr ""
+"@@image: 'images/using/tab-menu.png'; md5=23db244b35d5390b421613c9dbe68e5c"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -7528,6 +7741,8 @@ msgid ""
 "@@image: 'images/using/tab-menu-add-tab.png'; "
 "md5=4de67464b93594b5555ffb361c46452c"
 msgstr ""
+"@@image: 'images/using/tab-menu-add-tab.png'; "
+"md5=4de67464b93594b5555ffb361c46452c"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -7536,6 +7751,8 @@ msgid ""
 "@@image: 'images/using/tab-menu-preview-size.png'; "
 "md5=0b8c69588b2f1242225aeb34cd201a0f"
 msgstr ""
+"@@image: 'images/using/tab-menu-preview-size.png'; "
+"md5=0b8c69588b2f1242225aeb34cd201a0f"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -7544,6 +7761,8 @@ msgid ""
 "@@image: 'images/using/tab-menu-tab-style.png'; "
 "md5=f5cb89d826b424d04a4ff3851cebf0c6"
 msgstr ""
+"@@image: 'images/using/tab-menu-tab-style.png'; "
+"md5=f5cb89d826b424d04a4ff3851cebf0c6"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -7552,6 +7771,8 @@ msgid ""
 "@@image: 'images/using/list-search-field.png'; "
 "md5=b89ad7579e3868af0a3aecf900c2e959"
 msgstr ""
+"@@image: 'images/using/list-search-field.png'; "
+"md5=b89ad7579e3868af0a3aecf900c2e959"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -7560,6 +7781,8 @@ msgid ""
 "@@image: 'images/using/dialog-button-bar.png'; "
 "md5=743fc1206f320d55264f0484be98ecc9"
 msgstr ""
+"@@image: 'images/using/dialog-button-bar.png'; "
+"md5=743fc1206f320d55264f0484be98ecc9"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -7568,6 +7791,8 @@ msgid ""
 "@@image: 'images/using/dialog-highlight-imagemenu.png'; "
 "md5=0a19452333698af739374894af7f581c"
 msgstr ""
+"@@image: 'images/using/dialog-highlight-imagemenu.png'; "
+"md5=0a19452333698af739374894af7f581c"
 
 #: src/concepts/docks.xml:9(title)
 msgid "Dialogs and Docking"
@@ -8091,6 +8316,7 @@ msgstr ""
 msgid ""
 "@@image: 'images/using/wilber.png'; md5=4b08b4728cebdd66519caa628050b532"
 msgstr ""
+"@@image: 'images/using/wilber.png'; md5=4b08b4728cebdd66519caa628050b532"
 
 #: src/concepts/concepts.xml:13(title)
 msgid "Basic Concepts"
@@ -8423,6 +8649,8 @@ msgid ""
 "@@image: 'images/using/colormanagement-workflow1.png'; "
 "md5=da9515b5a0fed129d6a468c11cf6746a"
 msgstr ""
+"@@image: 'images/using/colormanagement-workflow1.png'; "
+"md5=da9515b5a0fed129d6a468c11cf6746a"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -8431,6 +8659,8 @@ msgid ""
 "@@image: 'images/using/colormanagement-workflow2.png'; "
 "md5=ad33d034b942aadb640238785030788e"
 msgstr ""
+"@@image: 'images/using/colormanagement-workflow2.png'; "
+"md5=ad33d034b942aadb640238785030788e"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -8438,6 +8668,7 @@ msgstr ""
 msgid ""
 "@@image: 'images/using/icc-apply.png'; md5=e36046e68cb58644169be97f19332cbf"
 msgstr ""
+"@@image: 'images/using/icc-apply.png'; md5=e36046e68cb58644169be97f19332cbf"
 
 #: src/concepts/color-management.xml:10(title)
 msgid "Color Management in GIMP"
@@ -8985,6 +9216,8 @@ msgid ""
 "@@image: 'images/using/multi-window.png'; "
 "md5=9beb1ef57b563a10bcc5ae1419d35b8b"
 msgstr ""
+"@@image: 'images/using/multi-window.png'; "
+"md5=9beb1ef57b563a10bcc5ae1419d35b8b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -8993,6 +9226,8 @@ msgid ""
 "@@image: 'images/using/single-window.png'; "
 "md5=a0e2585ef7dac285a35b9b2902243989"
 msgstr ""
+"@@image: 'images/using/single-window.png'; "
+"md5=a0e2585ef7dac285a35b9b2902243989"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -9001,6 +9236,8 @@ msgid ""
 "@@image: 'images/using/scroll-through-tabs.png'; "
 "md5=95c16941f0e72b8c5a8bf72e53c903d3"
 msgstr ""
+"@@image: 'images/using/scroll-through-tabs.png'; "
+"md5=95c16941f0e72b8c5a8bf72e53c903d3"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
