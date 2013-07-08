@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GIMP Help 2\n"
 "POT-Creation-Date: 2013-05-17 13:09+0000\n"
-"PO-Revision-Date: 2013-07-07 20:33+0900\n"
+"PO-Revision-Date: 2013-07-08 08:19+0900\n"
 "Last-Translator: Jihui Choi <jihui.choi@gmail.com>\n"
 "Language-Team: Korean <jihui.choi@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Poedit 1.5.7\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: src/concepts/undo.xml:12(title) src/concepts/concepts.xml:223(term)
@@ -231,7 +231,6 @@ msgstr ""
 "면 텍스트 레이어가 사라지며 새로운 텍스트 레이어가 나타납니다."
 
 #: src/concepts/undo.xml:166(para)
-#, fuzzy
 msgid ""
 "Filters, and other actions performed by plugins or scripts, can be undone "
 "just like actions implemented by the <acronym>GIMP</acronym> core, but this "
@@ -246,16 +245,17 @@ msgid ""
 "have accidentally done something whose consequences are going to be very "
 "harmful."
 msgstr ""
-"플러그인이나 스크립트에 의해 실행된 필터나 다른 작업들 역시 김프에 의해 직접 "
-"실행된 작업들처럼 실행 취소를 할 수 있는데, 단 실행 취소 기능의 사용에 문제"
-"가 없을 때만 가능합니다. 이것은 해당 플러그인이나 스크립트의 코드가 정확하지 "
-"않아서 김프의 실행 취소 기능과 충돌할 가능성이 있을 경우, 해당 작업뿐만 아니"
-"라 그 전의 작업들마저도 취소할 수 없는 일이 발생될 수 있다라는 말입니다. 김프"
-"에 포함되어 배포되는 플러그인이나 스크립트를 제외한 다른 경로로 설치한 플러그"
-"인이나 스크립트의 경우에 이런 문제가 발생할 수 있습니다. 또한 코드가 정확하더"
-"라도 해당 플러그인이 동작하는 중간에 취소를 하는 경우, 실행 취소 이력에 문제"
-"가 생길 수도 있습니다. 따라서 순차적으로 진행되는 과정 중간에 종료하지 않는 "
-"것이 이러한 문제를 피하는 최선의 방법입니다."
+"플러그인이나 스크립트에 의해 실행된 필터나 다른 작업들 역시 <acronym>김프</"
+"acronym>에 의해 직접 실행된 작업들처럼 실행 취소를 할 수 있습니다. 단, 해당 "
+"플러그인이나 필터에서 <acronym>김프</acronym>의 실행 취소 기능을 정확히 사용"
+"했을 때만 가능합니다. 그렇지 않으면 <acronym>김프</acronym>의 실행 취소 기능"
+"과 충돌을 일으켜 해당 작업뿐만 아니라 그 전의 작업들마저도 취소할 수 없는 일"
+"이 발생될 수 있습니다. <acronym>김프</acronym>에 포함되어 배포되는 플러그인이"
+"나 스크립트를 제외한 다른 경로로 설치한 플러그인이나 스크립트의 경우에 이런 "
+"문제가 발생할 수 있습니다. 또한 코드가 정확하더라도 해당 플러그인이 동작하는 "
+"중간에 취소를 하는 경우, 실행 취소 이력에 문제가 생길 수도 있습니다. 따라서 "
+"순차적으로 진행되는 과정 중간에 종료하지 않는 것이 이러한 문제를 피하는 최선"
+"의 방법입니다."
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -336,14 +336,11 @@ msgid "Screenshot of the Toolbox"
 msgstr "도구 상자의 모습"
 
 #: src/concepts/toolbox.xml:26(para)
-#, fuzzy
 msgid ""
 "The Toolbox is the heart of <acronym>GIMP</acronym>. Here is a quick tour of "
 "what you will find there."
 msgstr ""
-"기본 도구 상자는 <acronym>김프</acronym>의 핵심적인 부분으로, 기본 도구 상자"
-"를 닫으면 <acronym>김프</acronym>가 종료됩니다. 다음은 도구 상자에 대한 개괄"
-"적인 설명입니다."
+"다음에 설명할 기본 도구 상자는 <acronym>김프</acronym>의 핵심적인 부분입니다."
 
 #: src/concepts/toolbox.xml:31(para)
 msgid ""
@@ -370,7 +367,6 @@ msgid ""
 msgstr ""
 
 #: src/concepts/toolbox.xml:52(para)
-#, fuzzy
 msgid ""
 "<emphasis>Tool icons:</emphasis> These icons are buttons which activate "
 "tools for a wide variety of purposes: selecting parts of images, painting an "
@@ -418,7 +414,6 @@ msgstr ""
 "는데, 그 대화 상자에서 원하는 것으로 바꿀 수 있습니다."
 
 #: src/concepts/toolbox.xml:87(para)
-#, fuzzy
 msgid ""
 "<emphasis>Active Image:</emphasis> In <acronym>GIMP</acronym>, you can work "
 "with many images at once, but at any given moment, only one image is the "
@@ -432,8 +427,9 @@ msgstr ""
 "러 이미지들을 열어 두고 작업을 할 수 있습니다. 하지만 그러할지라도 어느 한 순"
 "간에는 한 이미지만 작업을 하게 되는데, 그 이미지의 미리 보기가 이 영역에 표시"
 "됩니다. 이것을 클릭하면, 현재 열린 이미지의 목록이 담긴 대화 상자가 호출됩니"
-"다. 대화 상자에 있는 이미지 중 하나를 선택해 활성화시킬 수 있습니다.(활성화시"
-"키려는 이미지의 창을 직접 선택해도 됩니다)"
+"다. 대화 상자에 있는 이미지 중 하나를 선택하면 해당 이미지가 활성화됩니다. 다"
+"중 창 모드에서는 이미지 창을 클릭하거나 싱글창 모드에서는 이미지 탭을 클릭해"
+"서 원하는 이미지를 활성화시킬 수도 있습니다."
 
 #: src/concepts/toolbox.xml:97(para)
 msgid ""
@@ -6312,22 +6308,22 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/concepts/images-loading.xml:57(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/using/file-open-dialog.png'; "
 "md5=2b863864385c348f332a49437a2b22ed"
 msgstr ""
-"@@image: 'images/using/file-open-dialog.png'; md5=THIS FILE DOESN'T EXIST"
+"@@image: 'images/using/file-open-dialog.png'; "
+"md5=2b863864385c348f332a49437a2b22ed"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/concepts/images-loading.xml:135(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/menus/file/open-location.png'; "
 "md5=5a91b60af69b2bb16217d745ac73dceb"
 msgstr ""
-"@@image: 'images/menus/file/open-location.png'; md5=THIS FILE DOESN'T EXIST"
+"@@image: 'images/menus/file/open-location.png'; "
+"md5=5a91b60af69b2bb16217d745ac73dceb"
 
 #: src/concepts/images-loading.xml:10(title)
 msgid "Opening Files"
@@ -7638,12 +7634,12 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/concepts/fonts-and-text.xml:66(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tool-dialog-text.png'; "
 "md5=caeb4f66591b7d5c2373eaa4486b7fd0"
 msgstr ""
-"@@image: 'images/toolbox/tool-dialog-text.png'; md5=THIS FILE DOESN'T EXIST"
+"@@image: 'images/toolbox/tool-dialog-text.png'; "
+"md5=caeb4f66591b7d5c2373eaa4486b7fd0"
 
 #: src/concepts/fonts-and-text.xml:17(title)
 msgid "Text and Fonts"
@@ -8939,22 +8935,22 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/concepts/brushes.xml:26(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/using/brush-examples.png'; "
 "md5=32c7707d3ab7847c572cdcfde7a5b11b"
 msgstr ""
-"@@image: 'images/using/brush-examples.png'; md5=THIS FILE DOESN'T EXIST"
+"@@image: 'images/using/brush-examples.png'; "
+"md5=32c7707d3ab7847c572cdcfde7a5b11b"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/concepts/brushes.xml:133(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/using/select-to-brush.png'; "
 "md5=ee2f4dd55ec8221baacb5184f952efdc"
 msgstr ""
-"@@image: 'images/using/select-to-brush.png'; md5=THIS FILE DOESN'T EXIST"
+"@@image: 'images/using/select-to-brush.png'; "
+"md5=ee2f4dd55ec8221baacb5184f952efdc"
 
 #: src/concepts/brushes.xml:15(title) src/concepts/brushes.xml:18(primary)
 #: src/concepts/brushes.xml:78(primary) src/concepts/brushes.xml:102(primary)
@@ -9242,10 +9238,10 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/concepts/basic-setup.xml:236(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/using/tab-icon.png'; md5=f2c25667016e8f2a545b814ad943bc42"
-msgstr "@@image: 'images/using/tab-icon.png'; md5=THIS FILE DOESN'T EXIST"
+msgstr ""
+"@@image: 'images/using/tab-icon.png'; md5=f2c25667016e8f2a545b814ad943bc42"
 
 #: src/concepts/basic-setup.xml:10(title)
 msgid "Main Windows"
