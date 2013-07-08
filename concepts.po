@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GIMP Help 2\n"
 "POT-Creation-Date: 2013-05-17 13:09+0000\n"
-"PO-Revision-Date: 2013-07-08 08:19+0900\n"
+"PO-Revision-Date: 2013-07-09 00:32+0900\n"
 "Last-Translator: Jihui Choi <jihui.choi@gmail.com>\n"
 "Language-Team: Korean <jihui.choi@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.5.5\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: src/concepts/undo.xml:12(title) src/concepts/concepts.xml:223(term)
@@ -847,7 +847,6 @@ msgid "Setup"
 msgstr "설치"
 
 #: src/concepts/setup.xml:20(para)
-#, fuzzy
 msgid ""
 "When first run, <acronym>GIMP</acronym> performs a series of steps to "
 "configure options and directories. The configuration process creates a "
@@ -861,11 +860,11 @@ msgid ""
 msgstr ""
 "<acronym>김프</acronym>를 처음 실행하면 필요한 설정과 디렉토리들을 생성하는 "
 "과정을 거치게 됩니다. 이 과정에서 사용자의 홈 디렉토리에 <filename class="
-"\"directory\">.gimp-2.6</filename> 디렉토리가 생성되며, 설치 과정 중의 모든 "
+"\"directory\">.gimp-2.8</filename> 디렉토리가 생성되며, 설치 과정 중의 모든 "
 "선택에 대한 내용이 이 디렉토리에 저장됩니다. 따라서 나중에 이 디렉토리를 삭제"
-"하거나, <filename class=\"directory\">.gimp-2.6.bak</filename> 라는 식으로 이"
+"하거나, <filename class=\"directory\">.gimp-2.8.bak</filename> 라는 식으로 이"
 "름을 바꾸고 <acronym>김프</acronym>를 다시 시작하면, 새로운 <filename class="
-"\"directory\">.gimp-2.6</filename> 디렉토리를 만들며 설치 과정을 다시 반복하"
+"\"directory\">.gimp-2.8</filename> 디렉토리를 만들며 설치 과정을 다시 반복하"
 "게 됩니다. 기존의 설정을 망가뜨리지 않고 새로운 설정을 시도해보고 싶다던가, "
 "기존의 설정에 문제가 있어 설정만 바꿔야한다면, 이 디렉토리를 제거하거나 이름"
 "을 변경하여 새로운 설치 과정을 진행합니다."
@@ -5354,7 +5353,6 @@ msgid "Running GIMP"
 msgstr "김프 실행하기"
 
 #: src/concepts/intro.xml:17(para)
-#, fuzzy
 msgid ""
 "Most often, you start <acronym>GIMP</acronym> either by clicking on an icon "
 "(if your system is set up to provide you with one), or by typing "
@@ -5368,10 +5366,10 @@ msgid ""
 msgstr ""
 "일반적으로 <acronym>김프</acronym> 아이콘을 더블 클릭하면 김프가 실행됩니다. "
 "또는 명령줄에 <command>gimp</command> 라고 입력합니다.(만약 여러 버전의 "
-"<acronym>김프</acronym>를 설치했다면 <command>gimp-2.6</command> 과 같이 실행"
+"<acronym>김프</acronym>를 설치했다면 <command>gimp-2.8</command> 과 같이 실행"
 "할 버전의 버전 번호를 입력해야 합니다.) 그리고 프로그램명 뒤에 이미지 파일들"
-"의 이름을 덧붙여 <acronym>김프</acronym> 시작과 동시에 해당 파일들을 열 수도 "
-"있습니다. 물론 <acronym>김프</acronym>를 실행한 후에도 파일을 열 수 있습니다."
+"의 이름을 덧붙이면, <acronym>김프</acronym> 시작 후 자동으로 해당 파일들이 열"
+"립니다. 물론 <acronym>김프</acronym>를 실행한 후에도 파일을 열 수 있습니다."
 
 #: src/concepts/intro.xml:30(para)
 msgid ""
@@ -5441,7 +5439,6 @@ msgid "Languages"
 msgstr "Languages(지원하는 언어)"
 
 #: src/concepts/intro.xml:72(para)
-#, fuzzy
 msgid ""
 "<acronym>GIMP</acronym> automatically detects and uses the system language. "
 "In the unlikely event that language detection fails, or if you just want to "
@@ -5450,17 +5447,18 @@ msgid ""
 "guisubmenu><guimenuitem>Interface</guimenuitem></menuchoice>."
 msgstr ""
 "<acronym>김프</acronym>는 자동으로 시스템 언어를 감지하여 해당 언어를 사용합"
-"니다. 간혹 시스템 언어를 찾지 못하거나 다른 언어를 사용하고 싶을 경우 언어를 "
-"변경할 수 있습니다."
+"니다. 간혹 시스템 언어를 찾지 못하거나 다른 언어를 사용하고 싶을 경우, "
+"(<acronym>김프</acronym>-2.8 이라면) 다음 메뉴를 통해 사용자 인터페이스 언어"
+"를 변경할 수 있습니다. <menuchoice><guimenu>편집</guimenu><guisubmenu>기본 설"
+"정</guisubmenu><guimenuitem>인터페이스</guimenuitem></menuchoice>"
 
 #: src/concepts/intro.xml:84(para)
 msgid "You can also use:"
-msgstr ""
+msgstr "또는 다음 방법 중 하나를 사용합니다."
 
 #: src/concepts/intro.xml:89(term)
-#, fuzzy
 msgid "Under Linux"
-msgstr "리눅스(Linux)"
+msgstr "리눅스(Linux) 환경"
 
 #: src/concepts/intro.xml:91(para)
 msgid ""
@@ -5476,9 +5474,8 @@ msgstr ""
 "<userinput>LANG=ko gimp</userinput> 라고 입력합니다"
 
 #: src/concepts/intro.xml:103(term)
-#, fuzzy
 msgid "Under Windows XP"
-msgstr "Windows XP"
+msgstr "Windows XP 환경"
 
 #: src/concepts/intro.xml:105(para)
 msgid ""
@@ -5492,12 +5489,11 @@ msgstr ""
 "<menuchoice><guimenu>제어판</guimenu><guisubmenu>시스템</"
 "guisubmenu><guisubmenu>고급</guisubmenu><guimenuitem>환경 변수</"
 "guimenuitem></menuchoice> 버튼의 <quote>시스템 변수</quote> 영역에서 "
-"<guibutton>새로 만들기</guibutton> 버튼을 클릭합니다.: 그리고 변수이름에 "
+"<guibutton>새로 만들기</guibutton> 버튼을 클릭합니다. 그리고 변수이름에 "
 "LANG, 변수값에 원하는 언어 이름(fr,ko 등)을 넣습니다. 주의! 선택을 적용하려"
 "면 세번 연속 <guibutton>확인</guibutton> 버튼을 눌러야 합니다."
 
 #: src/concepts/intro.xml:117(para)
-#, fuzzy
 msgid ""
 "If you change languages often, you can create a batch file to change the "
 "language. Open NotePad. Type the following commands (for french for "
@@ -5509,13 +5505,12 @@ msgid ""
 msgstr ""
 "만약 언어를 자주 변경해야 한다면, 배치 파일을 만들어 사용합니다. 메모장을 열"
 "고 다음과 같이 입력합니다. <literallayout><userinput>set lang=ko\n"
-"start gimp-2.6.exe</userinput></literallayout> 그런 뒤에 <filename>GIMP-KO."
+"start gimp-2.8.exe</userinput></literallayout> 그런 뒤에 <filename>GIMP-KO."
 "BAT</filename> 로 저장을 하고(다른 이름으로 저장해도 관계없으나, 확장자는 "
 "<filename class=\"extension\">.BAT</filename> 이어야 합니다). 이 배치 파일의 "
 "바로 가기를 바탕화면에 만듭니다."
 
 #: src/concepts/intro.xml:129(para)
-#, fuzzy
 msgid ""
 "Another possibility: <menuchoice><guimenu>Start</"
 "guimenu><guisubmenu>Programs</guisubmenu><guimenuitem>GTK Runtime "
@@ -5528,9 +5523,8 @@ msgstr ""
 "는 언어를 선택합니다."
 
 #: src/concepts/intro.xml:142(term)
-#, fuzzy
 msgid "Under Apple Mac OS X"
-msgstr "애플 맥 OS X(Apple Mac OS X)"
+msgstr "애플 맥 OS X 환경"
 
 #: src/concepts/intro.xml:144(para)
 msgid ""
@@ -5545,12 +5539,10 @@ msgid "Another GIMP instance"
 msgstr "새 인스턴스로 김프 시작"
 
 #: src/concepts/intro.xml:155(primary)
-#, fuzzy
 msgid "New instance"
-msgstr "-n, --new-instance"
+msgstr "새 인스턴스"
 
 #: src/concepts/intro.xml:157(para)
-#, fuzzy
 msgid ""
 "Use <userinput>-n</userinput> to run multiple instances of GIMP. For "
 "example, use <userinput>gimp-2.8</userinput> to start GIMP in the default "
@@ -5559,9 +5551,10 @@ msgid ""
 "for translators."
 msgstr ""
 "<userinput>-n</userinput> 옵션을 이용해, 김프를 중복 실행할 수 있습니다. 예"
-"를 들어 <userinput>gimp-2.6</userinput>을 기본 시스템 언어로 실행을 시키고, "
-"<userinput>LANGUAGE=en gimp-2.6 -n</userinput> 명령을 이용해 영어 메뉴를 가"
-"진 김프를 하나 더 실행할 수 있습니다. 이는 번역자들에게 유용합니다."
+"를 들어 <userinput>gimp-2.8</userinput>을 기본 시스템 언어로 실행을 시키고, "
+"<userinput>LANGUAGE=en gimp-2.8 -n</userinput> 명령을 이용해 영어 메뉴를 가"
+"진 김프를 하나 더 실행할 수 있습니다. 프로그램 메뉴 번역시 이 방법을 이용하"
+"면 유용합니다."
 
 #: src/concepts/intro.xml:171(title)
 msgid "Command Line Arguments"
@@ -5577,18 +5570,19 @@ msgid ""
 "the most common arguments are shown below. On a Unix system, you can use "
 "<userinput>man gimp</userinput>for a complete list."
 msgstr ""
-"<acronym>김프</acronym>를 실행하는데 인수를 사용하는 일은 거의 없지만, 주요 "
-"인수 목록"
+"일반적으로 <acronym>김프</acronym>를 실행하는데 인수를 사용하는 일은 거의 없"
+"지만, 주요 인수 목록은 다음과 같습니다. 유닉스(리눅스) 시스템에서는 "
+"<userinput>man gimp</userinput> 명령을 이용하여 더 자세한 정보를 확인할 수 있"
+"습니다."
 
 #: src/concepts/intro.xml:181(para)
-#, fuzzy
 msgid ""
 "Command line arguments must be in the command line that you use to start "
 "<acronym>GIMP</acronym> as <command>gimp-2.8 [OPTION...] [FILE|URI...]</"
 "command>."
 msgstr ""
 "명령줄 옵션을 사용하려면 명령줄에 다음과 같이 입력하여 <acronym>김프</"
-"acronym>를 시작합니다. <command>gimp-2.6 [OPTION...] [FILE|URI...]</command>."
+"acronym>를 시작합니다. <command>gimp-2.8 [OPTION...] [FILE|URI...]</command>."
 
 #: src/concepts/intro.xml:188(term)
 msgid "-?, --help"
