@@ -1,62 +1,51 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: GIMP DOCS\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2013-07-22 09:52+0900\n"
-"PO-Revision-Date: 2013-07-22 16:23+0900\n"
-"Last-Translator: Jihui Choi <jihui.choi@gmail.com>\n"
-"Language-Team: Korean <jihui.choi@gmail.com>\n"
-"Language: Korean\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 1.5.7\n"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/shear.xml:28(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/toolbox-shear.png'; "
 "md5=a8f3ca7281233be4963f695935eba94c"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/shear.xml:49(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/shear-example.png'; "
 "md5=69956626c86d7238b4bbaca1823b8261"
-msgstr "@@image: 'images/using/text-example.png'; md5=THIS FILE DOESN'T EXIST"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/shear.xml:103(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tool-options-shear.png'; "
 "md5=6d0bc2489e737d33c23336bd355c37c1"
 msgstr ""
-"@@image: 'images/toolbox/tool-dialog-text.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/shear.xml:129(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tool-dialog-shear.png'; "
 "md5=a825069ad0bc15ca4e4ab134b93c68d3"
 msgstr ""
-"@@image: 'images/toolbox/tool-dialog-text.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/toolbox/transform/shear.xml:15(title)
 #: src/toolbox/transform/shear.xml:18(secondary)
 #: src/toolbox/transform/shear.xml:21(primary)
-#, fuzzy
 msgid "Shear"
-msgstr "기울이기 도구"
+msgstr ""
 
 #: src/toolbox/transform/shear.xml:17(primary)
 #: src/toolbox/transform/scale.xml:18(primary)
@@ -68,12 +57,11 @@ msgstr "기울이기 도구"
 #: src/toolbox/transform/cage.xml:9(primary)
 #: src/toolbox/transform/align.xml:19(primary)
 msgid "Tools"
-msgstr "도구"
+msgstr ""
 
 #: src/toolbox/transform/shear.xml:25(title)
-#, fuzzy
 msgid "The Shear tool in Toolbox"
-msgstr "도구상자의 마법 지팡이 도구 아이콘"
+msgstr ""
 
 #: src/toolbox/transform/shear.xml:32(para)
 msgid ""
@@ -90,9 +78,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/shear.xml:46(title)
-#, fuzzy
 msgid "Shear example"
-msgstr "예제 3"
+msgstr ""
 
 #: src/toolbox/transform/shear.xml:55(para)
 msgid ""
@@ -110,73 +97,58 @@ msgstr ""
 #: src/toolbox/transform/cage.xml:34(phrase)
 #: src/toolbox/transform/align.xml:45(title)
 msgid "Activating the Tool"
-msgstr "도구 선택하기"
+msgstr ""
 
 #: src/toolbox/transform/shear.xml:62(para)
-#, fuzzy
 msgid "You can access the Shear Tool in different ways:"
-msgstr "다음 방법들을 통해 선택 도구를 사용할 수 있습니다. :"
+msgstr ""
 
 #: src/toolbox/transform/shear.xml:67(para)
-#, fuzzy
 msgid ""
 "from the image menu bar <menuchoice><guimenu>Tools</"
 "guimenu><guisubmenu>Transform Tools</guisubmenu><guimenuitem>Shear</"
 "guimenuitem></menuchoice>,"
 msgstr ""
-"이미지 메뉴바에서 <menuchoice><guimenu>도구</guimenu><guisubmenu>선택 도구</"
-"guisubmenu><guimenuitem>사각 선택</guimenuitem></menuchoice> 을 선택하거나,"
 
 #: src/toolbox/transform/shear.xml:77(para)
-#, fuzzy
 msgid ""
 "by clicking on the tool icon: <guiicon><inlinegraphic fileref=\"images/"
 "toolbox/stock-tool-shear-22.png\"/></guiicon> in Toolbox,"
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/transform/shear.xml:87(para)
-#, fuzzy
 msgid ""
 "by using the <keycombo><keycap>Shift</keycap><keycap>S</keycap></keycombo> "
 "key combination."
 msgstr ""
-"또는 <keycombo><keycap>Shift</keycap><keycap>B</keycap></keycombo> 키를 이용"
-"해 채우기 도구를 사용할 수 있습니다."
 
 #: src/toolbox/transform/shear.xml:97(title)
 #: src/toolbox/transform/rotate.xml:100(title)
 #: src/toolbox/transform/perspective.xml:87(title)
 #: src/toolbox/transform/move.xml:99(title)
 #: src/toolbox/transform/flip.xml:89(title)
-#, fuzzy
 msgid "Options"
-msgstr "옵션"
+msgstr ""
 
 #: src/toolbox/transform/shear.xml:99(title)
-#, fuzzy
 msgid "Shear tool options"
-msgstr "도구 옵션 초기화(_E)"
+msgstr ""
 
 #: src/toolbox/transform/shear.xml:112(term)
 msgid "Transform Direction; Interpolation; Clippping; Preview; Guides"
 msgstr ""
 
 #: src/toolbox/transform/shear.xml:123(title)
-#, fuzzy
 msgid "Shearing Information"
-msgstr "더 자세한 정보"
+msgstr ""
 
 #: src/toolbox/transform/shear.xml:125(title)
-#, fuzzy
 msgid "Shearing Information window"
-msgstr "문서창 닫기"
+msgstr ""
 
 #: src/toolbox/transform/shear.xml:135(term)
-#, fuzzy
 msgid "Shear magnitude X"
-msgstr "기울이기 크기 _X:"
+msgstr ""
 
 #: src/toolbox/transform/shear.xml:137(para)
 msgid ""
@@ -186,9 +158,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/shear.xml:146(term)
-#, fuzzy
 msgid "Shear magnitude Y"
-msgstr "기울이기 크기 _X:"
+msgstr ""
 
 #: src/toolbox/transform/shear.xml:148(para)
 msgid "As above, in the vertical direction."
@@ -197,32 +168,26 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/scale.xml:37(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/toolbox-scale.png'; "
 "md5=e48f6fef708916bd2ca13eae6ba60d61"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/scale.xml:118(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tool-options-scale.png'; "
 "md5=ad9034fcb0e93f87e236bb8ce76e19ed"
 msgstr ""
-"@@image: 'images/toolbox/tool-dialog-text.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/scale.xml:163(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tool-dialog-scale.png'; "
 "md5=a27e33dd73400ad93c532a90d9a4e3cb"
 msgstr ""
-"@@image: 'images/toolbox/tool-dialog-text.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/toolbox/transform/scale.xml:15(title)
 #: src/toolbox/transform/scale.xml:18(secondary)
@@ -230,45 +195,34 @@ msgstr ""
 #: src/toolbox/transform/scale.xml:24(secondary)
 #: src/toolbox/transform/scale.xml:27(secondary)
 msgid "Scale"
-msgstr "크기 조절"
+msgstr ""
 
 #: src/toolbox/transform/scale.xml:21(primary)
 #: src/toolbox/transform/move.xml:258(primary)
-#, fuzzy
 msgid "Layer"
-msgstr "Layer(레이어)"
+msgstr ""
 
 #: src/toolbox/transform/scale.xml:24(primary)
-#, fuzzy
 msgid "Selection"
 msgstr ""
-"떠있는 선택을 고정시키는 방법에는 두 가지가 있다. 가장 유용한 첫번째는 떠있"
-"는 선택을 새로운 레이어로 바꾸는 것이다. 이것은 떠있는 선택을 활성화시킨 상태"
-"에서 새로운 레이어를 만들면 된다. 두번째 방법은 떠있는 선택을 기존의 레이어"
-"에 고정시켜 해당 레이어에 포함시키는 것이다. 이것은 떠있는 선택의 바깥 부분"
-"을 클릭하면 된다. 그러면 떠있는 선택은 활성화된 레이어에 합쳐진다."
 
 #: src/toolbox/transform/scale.xml:27(primary)
 #: src/toolbox/transform/move.xml:298(primary)
-#, fuzzy
 msgid "Path"
-msgstr "PDB"
+msgstr ""
 
 #: src/toolbox/transform/scale.xml:30(primary)
-#, fuzzy
 msgid "Scale Layer, selection contour or path"
-msgstr "크기 조절 도구: 레이어나 선택, 경로의 크기 조절"
+msgstr ""
 
 #: src/toolbox/transform/scale.xml:34(title)
-#, fuzzy
 msgid "The Scale tool in Toolbox"
-msgstr "도구상자의 마법 지팡이 도구 아이콘"
+msgstr ""
 
 #: src/toolbox/transform/scale.xml:43(title)
 #: src/toolbox/transform/rotate.xml:36(title)
-#, fuzzy
 msgid "Overview"
-msgstr "개요"
+msgstr ""
 
 #: src/toolbox/transform/scale.xml:44(para)
 msgid ""
@@ -286,52 +240,41 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/scale.xml:61(para)
-#, fuzzy
 msgid "You can access the Scale Tool in different ways:"
-msgstr "다음 방법들을 통해 선택 도구를 사용할 수 있습니다. :"
+msgstr ""
 
 #: src/toolbox/transform/scale.xml:66(para)
-#, fuzzy
 msgid ""
 "from the image menu bar <menuchoice><guimenu>Tools</"
 "guimenu><guisubmenu>Transform Tools</guisubmenu><guimenuitem>Scale</"
 "guimenuitem></menuchoice>,"
 msgstr ""
-"이미지 메뉴바에서 <menuchoice><guimenu>도구</guimenu><guisubmenu>선택 도구</"
-"guisubmenu><guimenuitem>사각 선택</guimenuitem></menuchoice> 을 선택하거나,"
 
 #: src/toolbox/transform/scale.xml:76(para)
-#, fuzzy
 msgid ""
 "by clicking the tool icon: <guiicon><inlinegraphic fileref=\"images/toolbox/"
 "stock-tool-scale-22.png\"/></guiicon> in the Toolbox,"
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/transform/scale.xml:85(para)
-#, fuzzy
 msgid ""
 "by using the <keycombo><keycap>Shift</keycap><keycap>T</keycap></keycombo> "
 "key combination."
 msgstr ""
-"또는 <keycombo><keycap>Shift</keycap><keycap>B</keycap></keycombo> 키를 이용"
-"해 채우기 도구를 사용할 수 있습니다."
 
 #: src/toolbox/transform/scale.xml:95(title)
 #: src/toolbox/transform/rotate.xml:83(title)
 #: src/toolbox/transform/flip.xml:73(title)
 #: src/toolbox/transform/crop.xml:123(title)
 #: src/toolbox/transform/align.xml:77(title)
-#, fuzzy
 msgid "Key modifiers (Defaults)"
-msgstr "시스템 기본값 사용(&S)"
+msgstr ""
 
 #: src/toolbox/transform/scale.xml:99(keycap)
 #: src/toolbox/transform/rotate.xml:87(keycap)
 #: src/toolbox/transform/flip.xml:77(keycap)
 msgid "Ctrl"
-msgstr "Ctrl"
+msgstr ""
 
 #: src/toolbox/transform/scale.xml:102(para)
 msgid ""
@@ -344,14 +287,12 @@ msgstr ""
 #: src/toolbox/transform/common-features.xml:28(title)
 #: src/toolbox/transform/cage.xml:74(title)
 #: src/toolbox/transform/align.xml:106(title)
-#, fuzzy
 msgid "Tool Options"
-msgstr "도구 옵션"
+msgstr ""
 
 #: src/toolbox/transform/scale.xml:114(title)
-#, fuzzy
 msgid "Tool options for the Scale tool"
-msgstr "올가미 도구의 도구 선택사항"
+msgstr ""
 
 #: src/toolbox/transform/scale.xml:127(term)
 #: src/toolbox/transform/perspective.xml:102(term)
@@ -365,9 +306,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/scale.xml:142(term)
-#, fuzzy
 msgid "Keep Aspect (Ctrl)"
-msgstr "종횡비 고정(_K)"
+msgstr ""
 
 #: src/toolbox/transform/scale.xml:144(para)
 msgid ""
@@ -379,14 +319,12 @@ msgstr ""
 
 #: src/toolbox/transform/scale.xml:157(title)
 #: src/toolbox/transform/scale.xml:159(title)
-#, fuzzy
 msgid "The Scaling Information dialog window"
-msgstr "포인터 정보 대화상자 열기"
+msgstr ""
 
 #: src/toolbox/transform/scale.xml:169(term)
-#, fuzzy
 msgid "Width/Height"
-msgstr "막대 높이"
+msgstr ""
 
 #: src/toolbox/transform/scale.xml:171(para)
 msgid ""
@@ -400,54 +338,44 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/rotate.xml:30(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/toolbox-rotate.png'; "
 "md5=9558c52b326355953e8ab28f86becc70"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/rotate.xml:106(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tool-options-rotate.png'; "
 "md5=ebc3946b2acf8df6d9c3f1d51c3fecf8"
 msgstr ""
-"@@image: 'images/toolbox/tool-dialog-text.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/rotate.xml:161(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tool-dialog-rotate.png'; "
 "md5=aa4959e639f07e0709d8d97f7481c176"
 msgstr ""
-"@@image: 'images/toolbox/tool-dialog-text.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/rotate.xml:189(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/transform-guides.png'; "
 "md5=6a111e96e431665a63029e0e2a62e921"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/toolbox/transform/rotate.xml:17(title)
 #: src/toolbox/transform/rotate.xml:20(secondary)
 #: src/toolbox/transform/rotate.xml:23(primary)
-#, fuzzy
 msgid "Rotate"
-msgstr "회전 도구"
+msgstr ""
 
 #: src/toolbox/transform/rotate.xml:27(title)
-#, fuzzy
 msgid "The Rotate tool in Toolbox"
-msgstr "도구상자의 마법 지팡이 도구 아이콘"
+msgstr ""
 
 #: src/toolbox/transform/rotate.xml:37(para)
 msgid ""
@@ -460,59 +388,44 @@ msgstr ""
 
 #: src/toolbox/transform/rotate.xml:49(para)
 msgid "You can access the Selection Tool in different ways:"
-msgstr "다음 방법들을 통해 선택 도구를 사용할 수 있습니다. :"
+msgstr ""
 
 #: src/toolbox/transform/rotate.xml:54(para)
-#, fuzzy
 msgid ""
 "from the image menu bar <menuchoice><guimenu>Tools</"
 "guimenu><guisubmenu>Transform Tools</guisubmenu><guimenuitem>Rotate</"
 "guimenuitem></menuchoice>,"
 msgstr ""
-"이미지 메뉴바에서 <menuchoice><guimenu>도구</guimenu><guisubmenu>선택 도구</"
-"guisubmenu><guimenuitem>사각 선택</guimenuitem></menuchoice> 을 선택하거나,"
 
 #: src/toolbox/transform/rotate.xml:64(para)
-#, fuzzy
 msgid ""
 "by clicking the tool icon: <guiicon><inlinegraphic fileref=\"images/toolbox/"
 "stock-tool-rotate-22.png\"/></guiicon> in the Toolbox,"
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/transform/rotate.xml:73(para)
-#, fuzzy
 msgid ""
 "by using the <keycombo><keycap>Shift</keycap><keycap>R</keycap></keycombo> "
 "key combination."
 msgstr ""
-"또는 <keycombo><keycap>Shift</keycap><keycap>B</keycap></keycombo> 키를 이용"
-"해 채우기 도구를 사용할 수 있습니다."
 
 #: src/toolbox/transform/rotate.xml:90(para)
-#, fuzzy
 msgid ""
 "Holding <keycap>Ctrl</keycap> will constrain the rotation angle to 15 "
 "degrees increments."
 msgstr ""
-"<keycap>Ctrl</keycap> 키는 15도 각도로 제한된 직선을 그리는데 사용됩니다. 클"
-"릭한 뒤에 <keycap>Ctrl</keycap> 키를 누르고 마우스를 움직이면 15도 단위로 움"
-"직이는 직선을 볼 수 있습니다."
 
 #: src/toolbox/transform/rotate.xml:102(title)
-#, fuzzy
 msgid "Rotation tool options"
-msgstr "도구 옵션 초기화(_E)"
+msgstr ""
 
 #: src/toolbox/transform/rotate.xml:115(term)
 msgid "Transform; Direction, Interpolation; Clipping; Preview; Guides"
 msgstr ""
 
 #: src/toolbox/transform/rotate.xml:123(term)
-#, fuzzy
 msgid "Transform Direction"
-msgstr "전송 방향(&D)"
+msgstr ""
 
 #: src/toolbox/transform/rotate.xml:125(para)
 msgid ""
@@ -543,28 +456,24 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/rotate.xml:155(title)
-#, fuzzy
 msgid "The Rotation Information window"
-msgstr "문서창 닫기"
+msgstr ""
 
 #: src/toolbox/transform/rotate.xml:157(title)
-#, fuzzy
 msgid "The Rotation Information dialog window"
-msgstr "포인터 정보 대화상자 열기"
+msgstr ""
 
 #: src/toolbox/transform/rotate.xml:167(term)
-#, fuzzy
 msgid "Angle"
-msgstr "각도"
+msgstr ""
 
 #: src/toolbox/transform/rotate.xml:169(para)
 msgid "Here you can set the rotation angle, from -180° to +180°, i.e. 360°."
 msgstr ""
 
 #: src/toolbox/transform/rotate.xml:176(term)
-#, fuzzy
 msgid "Center X/Y"
-msgstr "위치"
+msgstr ""
 
 #: src/toolbox/transform/rotate.xml:178(para)
 msgid ""
@@ -584,56 +493,45 @@ msgid "The layer rotated around the rotating center outside the image"
 msgstr ""
 
 #: src/toolbox/transform/rotate.xml:203(para)
-#, fuzzy
 msgid ""
 "You can also rotate layers with <menuchoice><guimenu>Layer</"
 "guimenu><guisubmenu>Transform</guisubmenu><guimenuitem>Arbitrary Rotation..."
 "</guimenuitem></menuchoice>"
 msgstr ""
-"이미지 메뉴바에서 <menuchoice><guimenu>도구</guimenu><guisubmenu>선택 도구</"
-"guisubmenu><guimenuitem>사각 선택</guimenuitem></menuchoice> 을 선택하거나,"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/perspective.xml:29(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/toolbox-perspective.png'; "
 "md5=75cb3d8c889e5b20ccd392491e992546"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/perspective.xml:93(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tool-options-perspective.png'; "
 "md5=517f4ca20aa42ce1e6470644c3c0821b"
 msgstr ""
-"@@image: 'images/toolbox/tool-dialog-text.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/perspective.xml:123(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tool-dialog-perspective.png'; "
 "md5=4ab905f70a270153227aac296d2a40ab"
 msgstr ""
-"@@image: 'images/toolbox/tool-dialog-text.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/toolbox/transform/perspective.xml:15(title)
 #: src/toolbox/transform/perspective.xml:18(secondary)
 #: src/toolbox/transform/perspective.xml:21(primary)
-#, fuzzy
 msgid "Perspective"
-msgstr "원근법 도구"
+msgstr ""
 
 #: src/toolbox/transform/perspective.xml:25(title)
-#, fuzzy
 msgid "Perspective tool"
-msgstr "도구 옵션"
+msgstr ""
 
 #: src/toolbox/transform/perspective.xml:33(para)
 msgid ""
@@ -655,19 +553,15 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/perspective.xml:55(para)
-#, fuzzy
 msgid "You can access the Perspective tool in different ways:"
-msgstr "다음 방법들을 통해 선택 도구를 사용할 수 있습니다. :"
+msgstr ""
 
 #: src/toolbox/transform/perspective.xml:60(para)
-#, fuzzy
 msgid ""
 "From the image menu bar <guimenuitem>Tools</guimenuitem>/ "
 "<guimenuitem>Transform Tools</guimenuitem><guimenuitem>Perspective</"
 "guimenuitem>,"
 msgstr ""
-"이미지 메뉴바에서 <menuchoice><guimenu>도구</guimenu><guisubmenu>선택 도구</"
-"guisubmenu><guimenuitem>사각 선택</guimenuitem></menuchoice> 을 선택하거나,"
 
 #: src/toolbox/transform/perspective.xml:68(para)
 msgid ""
@@ -676,32 +570,26 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/perspective.xml:77(para)
-#, fuzzy
 msgid ""
 "By using the <keycombo><keycap>Shift</keycap><keycap>P</keycap></keycombo> "
 "key combination."
 msgstr ""
-"또는 <keycombo><keycap>Shift</keycap><keycap>B</keycap></keycombo> 키를 이용"
-"해 채우기 도구를 사용할 수 있습니다."
 
 #: src/toolbox/transform/perspective.xml:89(title)
-#, fuzzy
 msgid "<quote>Perspective</quote> tool options"
-msgstr "<quote>물체 선택</quote> 도구 선택 사항"
+msgstr ""
 
 #: src/toolbox/transform/perspective.xml:113(title)
 msgid "The information window for perspective transformation"
 msgstr ""
 
 #: src/toolbox/transform/perspective.xml:117(title)
-#, fuzzy
 msgid "The information window of the <quote>Perspective</quote> tool"
-msgstr "도구 옵션 대화상자 열기"
+msgstr ""
 
 #: src/toolbox/transform/perspective.xml:129(term)
-#, fuzzy
 msgid "Matrix"
-msgstr "도표"
+msgstr ""
 
 #: src/toolbox/transform/perspective.xml:131(para)
 msgid ""
@@ -714,22 +602,18 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/move.xml:31(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/toolbox-move.png'; "
 "md5=fd27bec04d19968de59cdb7ef6bb28b5"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/move.xml:105(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tool-options-move.png'; "
 "md5=d9041645433b217faed5b999b2276c92"
 msgstr ""
-"@@image: 'images/toolbox/tool-dialog-text.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/toolbox/transform/move.xml:18(title)
 #: src/toolbox/transform/move.xml:21(secondary)
@@ -739,14 +623,12 @@ msgstr ""
 #: src/toolbox/transform/move.xml:283(secondary)
 #: src/toolbox/transform/move.xml:299(secondary)
 #: src/toolbox/transform/move.xml:315(secondary)
-#, fuzzy
 msgid "Move"
-msgstr "이동 도구"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:28(title)
-#, fuzzy
 msgid "The Move tool in Toolbox"
-msgstr "도구상자의 마법 지팡이 도구 아이콘"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:35(para)
 msgid ""
@@ -755,33 +637,25 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/move.xml:42(para)
-#, fuzzy
 msgid "You can access the Move Tool in different ways:"
-msgstr "다음 방법들을 통해 선택 도구를 사용할 수 있습니다. :"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:47(para)
-#, fuzzy
 msgid ""
 "From the image menu bar <menuchoice><guimenu>Tools</"
 "guimenu><guisubmenu>Transform Tools</guisubmenu><guimenuitem>Move</"
 "guimenuitem></menuchoice>,"
 msgstr ""
-"이미지 메뉴바에서 <menuchoice><guimenu>도구</guimenu><guisubmenu>선택 도구</"
-"guisubmenu><guimenuitem>사각 선택</guimenuitem></menuchoice> 을 선택하거나,"
 
 #: src/toolbox/transform/move.xml:57(para)
-#, fuzzy
 msgid ""
 "By clicking the tool icon: <guiicon><inlinegraphic fileref=\"images/toolbox/"
 "stock-tool-move-22.png\"/></guiicon>."
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/transform/move.xml:66(para)
-#, fuzzy
 msgid "By using the keyboard shortcut <keycap>M</keycap>."
-msgstr "키보드 단축키 <keycap>L</keycap> 을 누릅니다."
+msgstr ""
 
 #: src/toolbox/transform/move.xml:71(para)
 msgid "The Move tool is automatically activated when you create a guide."
@@ -789,7 +663,7 @@ msgstr ""
 
 #: src/toolbox/transform/move.xml:77(primary)
 msgid "Space bar"
-msgstr "스페이스바"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:79(para)
 msgid ""
@@ -803,29 +677,27 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/move.xml:101(title)
-#, fuzzy
 msgid "Move Tool options"
-msgstr "도구 옵션 초기화(_E)"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:117(para)
 msgid "Keep in mind that your Move choice persists after quitting the tool."
 msgstr ""
 
 #: src/toolbox/transform/move.xml:124(term)
-#, fuzzy
 msgid "Tool toggle (Shift)"
-msgstr "<keycap function=\"shift\">Shift</keycap> + O"
+msgstr ""
 
 #. Using a <phrase> prevents the <guiicon> from being included
-#. in the "msgid" of the po file. So remove the <phrase> tags
-#. only if necessary for translating.
+#.                 in the "msgid" of the po file. So remove the <phrase> tags
+#.                 only if necessary for translating.
 #: src/toolbox/transform/move.xml:133(phrase)
 msgid "If Move is on <quote>Layer</quote>"
 msgstr ""
 
 #: src/toolbox/transform/move.xml:139(term)
 msgid "Pick a layer or guide"
-msgstr "이동할 레이어나 안내선 고르기"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:141(para)
 msgid ""
@@ -844,7 +716,7 @@ msgstr ""
 
 #: src/toolbox/transform/move.xml:158(term)
 msgid "Move the active layer"
-msgstr "현재 레이어 이동"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:160(para)
 msgid ""
@@ -854,26 +726,23 @@ msgstr ""
 
 #. see above
 #: src/toolbox/transform/move.xml:171(phrase)
-#, fuzzy
 msgid "If Move is on <quote>Selection</quote>"
-msgstr "<quote>흐릿한 경계가 있는 선택 채우기</quote> 예제"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:176(para)
-#, fuzzy
 msgid ""
 "The selection's outline will be moved (see <xref linkend=\"gimp-using-"
 "selections-moving\"/>)."
-msgstr "선택의 이동에 대해서는 선택 이동하기 를 참조하십시오."
+msgstr ""
 
 #. see above
 #: src/toolbox/transform/move.xml:188(phrase)
-#, fuzzy
 msgid "If Move is on <quote>Path</quote>"
-msgstr "<quote>흐릿한 경계가 있는 선택 채우기</quote> 예제"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:194(term)
 msgid "Pick a path"
-msgstr "이동할 경로 고르기"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:196(para)
 msgid ""
@@ -885,7 +754,7 @@ msgstr ""
 
 #: src/toolbox/transform/move.xml:206(term)
 msgid "Move the active path"
-msgstr "현재 경로 이동"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:208(para)
 msgid ""
@@ -894,14 +763,12 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/move.xml:222(title)
-#, fuzzy
 msgid "Summary of Move tool actions"
-msgstr "이동 도구로 전환"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:225(term)
-#, fuzzy
 msgid "Moving a selection"
-msgstr "선택 이동하기"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:227(para)
 msgid ""
@@ -934,9 +801,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/move.xml:255(term)
-#, fuzzy
 msgid "Moving a layer"
-msgstr "레이어 고정시키기"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:261(para)
 msgid ""
@@ -946,9 +812,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/move.xml:270(term)
-#, fuzzy
 msgid "Moving Grouped Layers"
-msgstr "보이는 레이어 합치기"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:272(para)
 msgid ""
@@ -957,14 +822,12 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/move.xml:279(term)
-#, fuzzy
 msgid "Moving a guide"
-msgstr "새 안내선(_G)..."
+msgstr ""
 
 #: src/toolbox/transform/move.xml:282(primary)
-#, fuzzy
 msgid "Guide"
-msgstr "안내선"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:285(para)
 msgid ""
@@ -975,9 +838,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/move.xml:295(term)
-#, fuzzy
 msgid "Moving a path"
-msgstr "경로 만들기"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:301(para)
 msgid ""
@@ -989,14 +851,12 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/move.xml:311(term)
-#, fuzzy
 msgid "Moving a text"
-msgstr "텍스트 꾸미기"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:314(primary)
-#, fuzzy
 msgid "Text"
-msgstr "텍스트"
+msgstr ""
 
 #: src/toolbox/transform/move.xml:317(para)
 msgid ""
@@ -1007,34 +867,28 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/flip.xml:28(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/toolbox-flip.png'; "
 "md5=39fe1a9b0b3ce081905cb2f0a48c9c55"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/flip.xml:94(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tool-options-flip.png'; "
 "md5=ffedfacaaaa3ccc65eb260129a72491f"
 msgstr ""
-"@@image: 'images/toolbox/tool-dialog-text.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/toolbox/transform/flip.xml:15(title)
 #: src/toolbox/transform/flip.xml:18(secondary)
 #: src/toolbox/transform/flip.xml:21(primary)
-#, fuzzy
 msgid "Flip"
-msgstr "뒤집기 도구"
+msgstr ""
 
 #: src/toolbox/transform/flip.xml:25(title)
-#, fuzzy
 msgid "Flip tool"
-msgstr "도구 옵션"
+msgstr ""
 
 #: src/toolbox/transform/flip.xml:32(para)
 msgid ""
@@ -1044,36 +898,26 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/flip.xml:41(para)
-#, fuzzy
 msgid "You can access the Flip Tool in different ways:"
-msgstr "다음 방법들을 통해 선택 도구를 사용할 수 있습니다. :"
+msgstr ""
 
 #: src/toolbox/transform/flip.xml:46(para)
-#, fuzzy
 msgid ""
 "From the image menu bar <guimenuitem>Tools</guimenuitem>/ "
 "<guimenuitem>Transform Tools</guimenuitem><guimenuitem>Flip</guimenuitem>,"
 msgstr ""
-"이미지 메뉴바에서 <menuchoice><guimenu>도구</guimenu><guisubmenu>선택 도구</"
-"guisubmenu><guimenuitem>사각 선택</guimenuitem></menuchoice> 을 선택하거나,"
 
 #: src/toolbox/transform/flip.xml:54(para)
-#, fuzzy
 msgid ""
 "By clicking the tool icon: <guiicon><inlinegraphic fileref=\"images/toolbox/"
 "stock-tool-flip-22.png\"/></guiicon> in Toolbox,"
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/transform/flip.xml:63(para)
-#, fuzzy
 msgid ""
 "by using the <keycombo><keycap>Shift</keycap><keycap>F</keycap></keycombo> "
 "key combination."
 msgstr ""
-"또는 <keycombo><keycap>Shift</keycap><keycap>B</keycap></keycombo> 키를 이용"
-"해 채우기 도구를 사용할 수 있습니다."
 
 #: src/toolbox/transform/flip.xml:80(para)
 msgid ""
@@ -1082,19 +926,16 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/flip.xml:91(title)
-#, fuzzy
 msgid "<quote>Flip Tool</quote> Options"
-msgstr "<quote>물체 선택</quote> 도구 선택 사항"
+msgstr ""
 
 #: src/toolbox/transform/flip.xml:103(term)
-#, fuzzy
 msgid "Affect"
-msgstr "영향:"
+msgstr ""
 
 #: src/toolbox/transform/flip.xml:109(term)
-#, fuzzy
 msgid "Flip Type"
-msgstr "뒤집기 유형 (%s)"
+msgstr ""
 
 #: src/toolbox/transform/flip.xml:111(para)
 msgid ""
@@ -1105,105 +946,85 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/crop.xml:37(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/toolbox-crop.png'; "
 "md5=a50a55b5795847e16cd009dd133c2bb3"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/crop.xml:81(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/display_ratio.png'; "
 "md5=e7c90f8b218b788b22bac7d122d063d2"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/crop.xml:151(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tool-options-crop.png'; "
 "md5=a0c9fd69d1d2c42b5dc9ca7092fc717a"
 msgstr ""
-"@@image: 'images/toolbox/tool-dialog-text.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/crop.xml:180(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/crop-grow-1.png'; "
 "md5=df47129bff928265282eb300965de09b"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/crop.xml:188(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/crop-grow-2.png'; "
 "md5=a5d6b55738e8c6713a737be5f55f78e3"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/crop.xml:199(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/crop-grow-3.png'; "
 "md5=1ffddbeb791fb3cb37bba68496196285"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/crop.xml:316(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/auto-shrink1.png'; "
 "md5=2db43832fff86a24194dc3deab1afb3a"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/crop.xml:327(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/auto-shrink2.png'; "
 "md5=f3cf71c73847af377b515806a98ece07"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/toolbox/transform/crop.xml:18(title)
 #: src/toolbox/transform/crop.xml:21(primary)
 #: src/toolbox/transform/crop.xml:25(secondary)
 #: src/toolbox/transform/crop.xml:29(secondary)
-#, fuzzy
 msgid "Crop"
-msgstr "잘라내기"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:28(primary)
-#, fuzzy
 msgid "Image"
-msgstr "이미지"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:30(tertiary)
-#, fuzzy
 msgid "Tool"
-msgstr "도구"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:34(title)
-#, fuzzy
 msgid "Crop tool"
-msgstr "새 잘라내기 도구"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:41(para)
 msgid ""
@@ -1242,42 +1063,31 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/crop.xml:74(para)
-#, fuzzy
 msgid "You can see the aspect ratio in the status bar: <placeholder-1/>"
-msgstr "또는 도구 상자에서 도구 아이콘 <placeholder-1/> 을 선택합니다."
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:90(para)
-#, fuzzy
 msgid "You can activate this tool in different ways:"
-msgstr "다음 방법들을 통해 선택 도구를 사용할 수 있습니다. :"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:95(para)
-#, fuzzy
 msgid ""
 "From the image menu bar <menuchoice><guimenu>Tools</"
 "guimenu><guisubmenu>Transform tools</guisubmenu><guimenuitem>Crop</"
 "guimenuitem></menuchoice>,"
 msgstr ""
-"이미지 메뉴바에서 <menuchoice><guimenu>도구</guimenu><guisubmenu>선택 도구</"
-"guisubmenu><guimenuitem>사각 선택</guimenuitem></menuchoice> 을 선택하거나,"
 
 #: src/toolbox/transform/crop.xml:105(para)
-#, fuzzy
 msgid ""
 "by clicking the tool icon: <guiicon><inlinegraphic fileref=\"images/toolbox/"
 "stock-tool-crop-22.png\"/></guiicon>in the ToolBox,"
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/transform/crop.xml:114(para)
-#, fuzzy
 msgid ""
 "by using the keyboard shortcut <keycombo><keycap>Shift</keycap><keycap>C</"
 "keycap></keycombo>."
 msgstr ""
-"또는 <keycombo><keycap>Shift</keycap><keycap>B</keycap></keycombo> 키를 이용"
-"해 채우기 도구를 사용할 수 있습니다."
 
 #: src/toolbox/transform/crop.xml:124(para)
 msgid "When you maintain click on the crop rectangle, handles disappear and"
@@ -1296,23 +1106,20 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/crop.xml:148(title)
-#, fuzzy
 msgid "Tool Options for the <quote>Crop</quote> tool"
-msgstr "<quote>물체 선택</quote> 도구 선택 사항"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:160(term)
-#, fuzzy
 msgid "Current Layer Only"
-msgstr "현재 레이어만"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:162(para)
 msgid "This option will make crop affect only the active layer."
 msgstr ""
 
 #: src/toolbox/transform/crop.xml:168(term)
-#, fuzzy
 msgid "Allow Growing"
-msgstr "창 크기 조절을 허용"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:170(para)
 msgid ""
@@ -1322,28 +1129,24 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/crop.xml:177(title)
-#, fuzzy
 msgid "Example for <quote>Allow Growing</quote>"
-msgstr "<quote>흐릿한 경계가 있는 선택 채우기</quote> 예제"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:183(para)
-#, fuzzy
 msgid "An image on a big canvas"
-msgstr "캔버스 크기 지정"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:191(para)
 msgid "The option is checked. The crop rectangle extends outside the canvas."
 msgstr ""
 
 #: src/toolbox/transform/crop.xml:202(para)
-#, fuzzy
 msgid "The resulting image."
-msgstr "새 이미지"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:209(term)
-#, fuzzy
 msgid "Expand from Center"
-msgstr "중앙으로부터 확장"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:211(para)
 msgid ""
@@ -1354,7 +1157,7 @@ msgstr ""
 
 #: src/toolbox/transform/crop.xml:220(term)
 msgid "Fixed"
-msgstr "크기 고정"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:222(para)
 msgid ""
@@ -1388,9 +1191,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/crop.xml:259(term)
-#, fuzzy
 msgid "Position"
-msgstr "위치"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:261(para)
 msgid ""
@@ -1404,7 +1206,7 @@ msgstr ""
 
 #: src/toolbox/transform/crop.xml:273(term)
 msgid "Size"
-msgstr "크기"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:275(para)
 msgid ""
@@ -1415,9 +1217,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/crop.xml:285(term)
-#, fuzzy
 msgid "Highlight"
-msgstr "강조"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:287(para)
 msgid ""
@@ -1429,9 +1230,8 @@ msgstr ""
 #: src/toolbox/transform/common-features.xml:353(term)
 #: src/toolbox/transform/common-features.xml:357(secondary)
 #: src/toolbox/transform/common-features.xml:360(primary)
-#, fuzzy
 msgid "Guides"
-msgstr "안내선"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:296(para)
 msgid ""
@@ -1451,9 +1251,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/crop.xml:312(title)
-#, fuzzy
 msgid "Example for <quote>Autoshrink</quote>"
-msgstr "<quote>흐릿한 경계가 있는 선택 채우기</quote> 예제"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:319(para)
 msgid "An image with a sharp limit in it and a crop rectangle."
@@ -1466,9 +1265,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/crop.xml:340(term)
-#, fuzzy
 msgid "Shrink Merged"
-msgstr "줄여 합치기"
+msgstr ""
 
 #: src/toolbox/transform/crop.xml:342(para)
 msgid ""
@@ -1488,84 +1286,67 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/common-features.xml:201(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/clip-orig.png'; md5=ef09aaa423cff23b980b429aaad9562e"
-msgstr "@@image: 'images/using/keyfob_orig.png'; md5=THIS FILE DOESN'T EXIST"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/common-features.xml:210(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/clip-adjust.png'; "
 "md5=9f70766d154cc07b1296525d35099cfe"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/common-features.xml:221(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/clip-adjust2.png'; "
 "md5=1e04e08939cb4b701c346032d9593f46"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/common-features.xml:251(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/clip-crop.png'; md5=ee9fcae39870d376770ba61342038732"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/common-features.xml:271(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/clip-3.png'; md5=212abb30228beac3fa4de8140c723ee3"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/common-features.xml:280(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/clip-3b.png'; md5=9aecf7723e320a6e5f96786445e8a1e6"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/common-features.xml:304(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/clip-4a.png'; md5=1d66e96d4bfdcae94b0d9fbce7c966c0"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/common-features.xml:312(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/clip-4b.png'; md5=9f6842929aa6dba5d053ecaca1fa287c"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/common-features.xml:320(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/clip-4c.png'; md5=e19aea86e7440fecc7656e83c2c8d56b"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -1583,7 +1364,7 @@ msgstr ""
 
 #: src/toolbox/transform/common-features.xml:18(title)
 msgid "Common Features"
-msgstr "일반적인 특징"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:20(para)
 msgid ""
@@ -1594,9 +1375,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/common-features.xml:30(title)
-#, fuzzy
 msgid "Common options of transform tools"
-msgstr "그리기 도구의 그라디언트 옵션"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:38(para)
 msgid ""
@@ -1611,9 +1391,8 @@ msgstr ""
 #: src/toolbox/transform/common-features.xml:361(secondary)
 #: src/toolbox/transform/common-features.xml:453(primary)
 #: src/toolbox/transform/common-features.xml:458(secondary)
-#, fuzzy
 msgid "Transform"
-msgstr "변형"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:46(para)
 msgid ""
@@ -1641,19 +1420,15 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/common-features.xml:80(para)
-#, fuzzy
 msgid ""
 "When you activate the third button, <guiicon><inlinegraphic fileref=\"images/"
 "tool-options/rotate-affect-path.png\"/></guiicon> the tool works on the path "
 "only."
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/transform/common-features.xml:93(term)
-#, fuzzy
 msgid "Direction"
-msgstr "전송 방향"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:95(para)
 msgid "This option sets which way or direction a layer is transformed:"
@@ -1676,13 +1451,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/common-features.xml:115(term)
-#, fuzzy
 msgid "Interpolation"
 msgstr ""
-"<emphasis>Linear</emphasis> (sometimes called <quote>Bilinear</quote>): The "
-"color of each pixel is computed as the average color of the four closest "
-"pixels in the original image. This gives a satisfactory result for most "
-"images and is a good compromise between speed and quality."
 
 #: src/toolbox/transform/common-features.xml:117(para)
 msgid ""
@@ -1692,54 +1462,43 @@ msgstr ""
 
 #: src/toolbox/transform/common-features.xml:123(term)
 msgid "None"
-msgstr "없음"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:125(para)
-#, fuzzy
 msgid ""
 "The color of each pixel is copied from its closest neighboring pixel in the "
 "original image. This often results in aliasing (the <quote>stair-step</"
 "quote> effect) and a coarse image, but it is the fastest method. Sometimes "
 "this method is called <quote>Nearest Neighbor</quote>."
 msgstr ""
-"<acronym>GIMP</acronym> uses interpolation when you <link linkend=\"gimp-"
-"image-scale\">Scale</link> an image, <link linkend=\"gimp-layer-scale"
-"\">Scale</link> a layer, and when you <link linkend=\"gimp-tools-transform"
-"\">Transform</link> an image. You can also set the default interpolation "
-"method in the <link linkend=\"gimp-prefs-tool-options\">Tools Options "
-"Preferences</link> dialog."
 
 #: src/toolbox/transform/common-features.xml:135(term)
 msgid "Linear"
-msgstr "선형"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:137(para)
-#, fuzzy
 msgid ""
 "The color of each pixel is computed as the average color of the four closest "
 "pixels in the original image. This gives a satisfactory result for most "
 "images and is a good compromise between speed and quality. Sometimes this "
 "method is called <quote>Bilinear</quote>."
-msgstr "JPEG"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:147(term)
-#, fuzzy
 msgid "Cubic"
-msgstr "큐빅"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:149(para)
-#, fuzzy
 msgid ""
 "The color of each pixel is computed as the average color of the eight "
 "closest pixels in the original image. This usually gives a good result, but "
 "it naturally takes more time. Sometimes this method is called "
 "<quote>Bicubic</quote>."
-msgstr "JPEG"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:158(term)
-#, fuzzy
 msgid "Sinc (Lanczos3)"
-msgstr "Sinc (Lanczos3)"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:160(para)
 msgid ""
@@ -1757,9 +1516,8 @@ msgstr ""
 #: src/toolbox/transform/common-features.xml:177(term)
 #: src/toolbox/transform/common-features.xml:181(secondary)
 #: src/toolbox/transform/common-features.xml:184(primary)
-#, fuzzy
 msgid "Clipping"
-msgstr "오려내기:"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:187(para)
 msgid ""
@@ -1772,19 +1530,17 @@ msgid "You can choose between several ways to clip:"
 msgstr ""
 
 #: src/toolbox/transform/common-features.xml:194(term)
-#, fuzzy
 msgid "Adjust"
-msgstr "조정"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:197(title)
-#, fuzzy
 msgid "Original image for examples"
-msgstr "예제 이미지"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:204(para)
 #: src/toolbox/transform/common-features.xml:307(para)
 msgid "Original image"
-msgstr "원본 이미지"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:213(para)
 msgid "Rotation applied with <quote>Adjust</quote>"
@@ -1805,23 +1561,20 @@ msgstr ""
 
 #: src/toolbox/transform/common-features.xml:244(term)
 #: src/toolbox/transform/common-features.xml:254(para)
-#, fuzzy
 msgid "Clip"
-msgstr "오리기"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:247(title)
-#, fuzzy
 msgid "Example for Clip"
-msgstr "<placeholder-1/> 예제"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:258(para)
 msgid "With Clip: all what exceeds image limits is deleted."
 msgstr ""
 
 #: src/toolbox/transform/common-features.xml:264(term)
-#, fuzzy
 msgid "Crop to result"
-msgstr "결과물을 잘라내기"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:267(title)
 msgid "Example for Crop to result"
@@ -1843,23 +1596,20 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/common-features.xml:298(term)
-#, fuzzy
 msgid "Crop with aspect"
-msgstr "특정 종횡비로 잘라내기"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:301(title)
-#, fuzzy
 msgid "Example for Crop with aspect"
-msgstr "특정 종횡비로 잘라내기"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:315(para)
 msgid "Rotation -22°"
 msgstr ""
 
 #: src/toolbox/transform/common-features.xml:323(para)
-#, fuzzy
 msgid "The rotated image"
-msgstr "새 이미지"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:328(para)
 msgid ""
@@ -1869,14 +1619,12 @@ msgstr ""
 
 #: src/toolbox/transform/common-features.xml:338(term)
 #: src/toolbox/transform/common-features.xml:341(primary)
-#, fuzzy
 msgid "Preview"
-msgstr "미리 보기"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:342(secondary)
-#, fuzzy
 msgid "Transformation tools"
-msgstr "변형 도구"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:344(para)
 msgid ""
@@ -1893,18 +1641,16 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/common-features.xml:371(term)
-#, fuzzy
 msgid "No guides"
-msgstr "안내선"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:373(para)
 msgid "As the name tells you, there are no guides used."
 msgstr ""
 
 #: src/toolbox/transform/common-features.xml:379(term)
-#, fuzzy
 msgid "Center lines"
-msgstr "위치"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:381(para)
 msgid ""
@@ -1934,9 +1680,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/common-features.xml:408(term)
-#, fuzzy
 msgid "Golden sections"
-msgstr "선택 이동하기"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:410(para)
 msgid ""
@@ -1975,15 +1720,13 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/common-features.xml:451(title)
-#, fuzzy
 msgid "Transforming Paths"
-msgstr "변형 도구"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:454(secondary)
 #: src/toolbox/transform/common-features.xml:457(primary)
-#, fuzzy
 msgid "Paths"
-msgstr "PDB"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:460(para)
 msgid ""
@@ -1992,9 +1735,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/common-features.xml:465(title)
-#, fuzzy
 msgid "Rotating paths"
-msgstr "경로 만들기"
+msgstr ""
 
 #: src/toolbox/transform/common-features.xml:471(para)
 msgid "Paths dialog"
@@ -2028,68 +1770,56 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/cage.xml:19(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/toolbox-cage.png'; "
 "md5=8d5a5389f7f8ab95885446442402a6a0"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/cage.xml:58(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/stock-tool-cage-22.png'; "
 "md5=e53ddd40da9c672b000d7dd38f897e3d"
 msgstr ""
-"@@image: 'images/toolbox/tool-dialog-text.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/cage.xml:80(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tool-options-cage.png'; "
 "md5=a7e0256afaf4dc6d8b3b438e33205689"
 msgstr ""
-"@@image: 'images/toolbox/tool-dialog-text.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/cage.xml:144(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/cage-1.png'; md5=aadd9aa23df87660e5777671583fd093"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/cage.xml:151(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/cage-2.png'; md5=79eb99dc90e7782b6881f0b4b7ea22bf"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/toolbox/transform/cage.xml:6(title)
 msgid "The Cage Tool"
 msgstr ""
 
 #: src/toolbox/transform/cage.xml:10(secondary)
-#, fuzzy
 msgid "Cage Tool"
-msgstr "도구"
+msgstr ""
 
 #: src/toolbox/transform/cage.xml:12(primary)
 msgid "Cage"
 msgstr ""
 
 #: src/toolbox/transform/cage.xml:15(title)
-#, fuzzy
 msgid "The Cage Tool in the Toolbox"
-msgstr "도구상자의 마법 지팡이 도구 아이콘"
+msgstr ""
 
 #: src/toolbox/transform/cage.xml:24(para)
 msgid ""
@@ -2101,34 +1831,28 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/cage.xml:37(para)
-#, fuzzy
 msgid "You can activate the Cage tool in several ways:"
-msgstr "물체 선택 도구는 다음 두 가지 방법을 통해 사용할 수 있습니다.:"
+msgstr ""
 
 #: src/toolbox/transform/cage.xml:43(para)
-#, fuzzy
 msgid ""
 "From the image-menu, through: <menuchoice><guimenu>Tools</"
 "guimenu><guisubmenu>Transform Tools</guisubmenu><guimenuitem>Cage Transform</"
 "guimenuitem></menuchoice>"
 msgstr ""
-"이미지 메뉴바에서 <menuchoice><guimenu>도구</guimenu><guisubmenu>선택 도구</"
-"guisubmenu><guimenuitem>사각 선택</guimenuitem></menuchoice> 을 선택하거나,"
 
 #: src/toolbox/transform/cage.xml:53(para)
 msgid "by clicking on the tool icon: <placeholder-1/> in the toolbox"
 msgstr ""
 
 #: src/toolbox/transform/cage.xml:66(para)
-#, fuzzy
 msgid ""
 "or by using the <keycap>Shift</keycap><keycap>G</keycap> keyboard shortcut."
-msgstr "키보드 단축키 <keycap>L</keycap> 을 누릅니다."
+msgstr ""
 
 #: src/toolbox/transform/cage.xml:76(title)
-#, fuzzy
 msgid "Cage Tool options"
-msgstr "도구 옵션 초기화(_E)"
+msgstr ""
 
 #: src/toolbox/transform/cage.xml:84(para)
 msgid ""
@@ -2182,24 +1906,20 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/cage.xml:138(title)
-#, fuzzy
 msgid "Example for the <quote>Cage</quote> tool"
-msgstr "<quote>흐릿한 경계가 있는 선택 채우기</quote> 예제"
+msgstr ""
 
 #: src/toolbox/transform/cage.xml:140(title)
-#, fuzzy
 msgid "Cage Tool example"
-msgstr "예제 3"
+msgstr ""
 
 #: src/toolbox/transform/cage.xml:146(caption)
-#, fuzzy
 msgid "The cage area selected"
-msgstr "선택된 디렉토리 삭제"
+msgstr ""
 
 #: src/toolbox/transform/cage.xml:153(caption)
-#, fuzzy
 msgid "Transformed"
-msgstr "변형"
+msgstr ""
 
 #: src/toolbox/transform/cage.xml:157(para)
 msgid ""
@@ -2236,91 +1956,73 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/align.xml:27(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/toolbox-align.png'; "
 "md5=730a48d4bd2fdbfdee4574117e8a6f59"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/align.xml:112(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tool-options-align.png'; "
 "md5=68a5889a09432d2235310b56517d1d20"
 msgstr ""
-"@@image: 'images/toolbox/tool-dialog-text.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/align.xml:258(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/align-ex1.png'; md5=a1d5db72b20038616258a2ee7dc2ca05"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/align.xml:272(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/align-ex2.png'; md5=b8ea27b5dfbbd1c41dfb9bbfd714433a"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/align.xml:286(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/align-ex3.png'; md5=753b3a7fe237107f5863b35792d77029"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/align.xml:304(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/align-ex4.png'; md5=3c5b724542d855c2167b73e75f4540ab"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/align.xml:323(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/align-ex5a.png'; "
 "md5=f61596d6b10476ead6f0b7176a99bc72"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/transform/align.xml:335(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/align-ex5b.png'; "
 "md5=9426f047dd15389bcb61f16ab6a32ad2"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/toolbox/transform/align.xml:14(title)
 #: src/toolbox/transform/align.xml:16(primary)
 #: src/toolbox/transform/align.xml:20(secondary)
 #: src/toolbox/transform/align.xml:121(term)
-#, fuzzy
 msgid "Align"
-msgstr "정렬"
+msgstr ""
 
 #: src/toolbox/transform/align.xml:24(title)
-#, fuzzy
 msgid "The Align tool in the toolbox"
-msgstr "도구상자의 마법 지팡이 도구 아이콘"
+msgstr ""
 
 #: src/toolbox/transform/align.xml:31(para)
 msgid ""
@@ -2336,38 +2038,29 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/align.xml:46(para)
-#, fuzzy
 msgid "You can activate the Align tool in several ways :"
-msgstr "물체 선택 도구는 다음 두 가지 방법을 통해 사용할 수 있습니다.:"
+msgstr ""
 
 #: src/toolbox/transform/align.xml:49(para)
-#, fuzzy
 msgid ""
 "From the image-menu, through: <menuchoice><guimenu>Tools</"
 "guimenu><guisubmenu>Transform Tools</guisubmenu><guimenuitem>Align</"
 "guimenuitem></menuchoice>,"
 msgstr ""
-"이미지 메뉴바에서 <menuchoice><guimenu>도구</guimenu><guisubmenu>선택 도구</"
-"guisubmenu><guimenuitem>사각 선택</guimenuitem></menuchoice> 을 선택하거나,"
 
 #: src/toolbox/transform/align.xml:59(para)
-#, fuzzy
 msgid ""
 "by clicking on the tool icon: <guiicon><inlinegraphic fileref=\"images/"
 "toolbox/stock-tool-align-22.png\"/></guiicon> in the toolbox,"
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/transform/align.xml:69(para)
-#, fuzzy
 msgid "by using the <keycap>Q</keycap> keyboard shortcut."
-msgstr "키보드 단축키 <keycap>L</keycap> 을 누릅니다."
+msgstr ""
 
 #: src/toolbox/transform/align.xml:80(keycap)
-#, fuzzy
 msgid "Shift"
-msgstr "이동"
+msgstr ""
 
 #: src/toolbox/transform/align.xml:82(para)
 msgid ""
@@ -2391,14 +2084,12 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/align.xml:108(title)
-#, fuzzy
 msgid "Tool Options for the Align tool"
-msgstr "올가미 도구의 도구 선택사항"
+msgstr ""
 
 #: src/toolbox/transform/align.xml:125(term)
-#, fuzzy
 msgid "Relative to:"
-msgstr "상대 좌표:"
+msgstr ""
 
 #: src/toolbox/transform/align.xml:127(para)
 msgid ""
@@ -2424,19 +2115,16 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/align.xml:154(para)
-#, fuzzy
 msgid "<guilabel>Active layer</guilabel>:"
-msgstr "현재 레이어 이동"
+msgstr ""
 
 #: src/toolbox/transform/align.xml:157(para)
-#, fuzzy
 msgid "<guilabel>Active Channel</guilabel>:"
-msgstr "알파 채널 잠금"
+msgstr ""
 
 #: src/toolbox/transform/align.xml:160(para)
-#, fuzzy
 msgid "<guilabel>Active Path</guilabel>:"
-msgstr "현재 경로 내보내기"
+msgstr ""
 
 #: src/toolbox/transform/align.xml:187(para)
 msgid ""
@@ -2446,9 +2134,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/align.xml:199(term)
-#, fuzzy
 msgid "Distribute"
-msgstr "배치"
+msgstr ""
 
 #: src/toolbox/transform/align.xml:224(para)
 msgid ""
@@ -2462,7 +2149,7 @@ msgstr ""
 
 #: src/toolbox/transform/align.xml:237(term)
 msgid "Offset"
-msgstr "오프셋"
+msgstr ""
 
 #: src/toolbox/transform/align.xml:239(para)
 msgid ""
@@ -2472,14 +2159,12 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/align.xml:253(title)
-#, fuzzy
 msgid "Example for the <quote>Align</quote> command"
-msgstr "<quote>흐릿한 경계가 있는 선택 채우기</quote> 예제"
+msgstr ""
 
 #: src/toolbox/transform/align.xml:255(title)
-#, fuzzy
 msgid "Base image"
-msgstr "[ 기본 이미지 ]"
+msgstr ""
 
 #: src/toolbox/transform/align.xml:261(para)
 msgid ""
@@ -2488,9 +2173,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/align.xml:269(title)
-#, fuzzy
 msgid "Red layer selected"
-msgstr "선택된 디렉토리 삭제"
+msgstr ""
 
 #: src/toolbox/transform/align.xml:275(para)
 msgid ""
@@ -2498,9 +2182,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/align.xml:283(title)
-#, fuzzy
 msgid "Red layer aligned"
-msgstr "상위 레이어 선택"
+msgstr ""
 
 #: src/toolbox/transform/align.xml:289(para)
 msgid ""
@@ -2511,9 +2194,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/transform/align.xml:301(title)
-#, fuzzy
 msgid "Distribute with offset"
-msgstr "레이어 오프셋 저장"
+msgstr ""
 
 #: src/toolbox/transform/align.xml:307(para)
 msgid ""
@@ -2550,32 +2232,5 @@ msgstr ""
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: src/toolbox/transform/about-common-transform-options.xml:0(None)
-#, fuzzy
 msgid "translator-credits"
-msgstr "Mr.Dust <like.a.dust@gmail.com>, 2008"
-
-#~ msgid "Transform Tools"
-#~ msgstr "변형 도구"
-
-#, fuzzy
-#~ msgid "An overview of the transform tools"
-#~ msgstr "붓 도구"
-
-#, fuzzy
-#~ msgid "Outline"
-#~ msgstr "개요"
-
-#, fuzzy
-#~ msgid "Grid"
-#~ msgstr "격자"
-
-#, fuzzy
-#~ msgid "Grid+Image"
-#~ msgstr "이미지 모눈"
-
-#, fuzzy
-#~ msgid "Both turn at the same time."
-#~ msgstr "-s와 -c는 동시에 나타낼 수 없습니다."
-
-#~ msgid "Opacity"
-#~ msgstr "불투명도"
+msgstr ""

@@ -1,26 +1,21 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: GIMP DOCS\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2013-07-22 09:52+0900\n"
-"PO-Revision-Date: 2013-07-22 16:56+0900\n"
-"Last-Translator: Jihui Choi <jihui.choi@gmail.com>\n"
-"Language-Team: Korean <jihui.choi@gmail.com>\n"
-"Language: Korean\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 1.5.7\n"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/threshold.xml:88(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tools-threshold.png'; "
 "md5=4aeb99360e956291e515557675608e33"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -31,11 +26,10 @@ msgstr ""
 #: src/toolbox/color/colorize.xml:104(None)
 #: src/toolbox/color/color-balance.xml:98(None)
 #: src/toolbox/color/brightness-contrast.xml:108(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/presets-menu.png'; "
 "md5=c981454233864fa5e6e23a54a13a5235"
-msgstr "@@image: 'images/using/tab-menu.png'; md5=THIS FILE DOESN'T EXIST"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -46,88 +40,72 @@ msgstr "@@image: 'images/using/tab-menu.png'; md5=THIS FILE DOESN'T EXIST"
 #: src/toolbox/color/colorize.xml:118(None)
 #: src/toolbox/color/color-balance.xml:112(None)
 #: src/toolbox/color/brightness-contrast.xml:122(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/manage-saved-settings.png'; "
 "md5=0efc169a3ce90d9d66daf53a929ae7dd"
 msgstr ""
-"@@image: 'images/toolbox/painting-examples.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/threshold.xml:193(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/using/threshold-orig.png'; "
 "md5=7169fd0c85bd72acd2c604f210c45683"
-msgstr "@@image: 'images/using/keyfob_orig.png'; md5=THIS FILE DOESN'T EXIST"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/threshold.xml:198(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/using/threshold-decomp.png'; "
 "md5=21ed21ec79ce4729e4b549866c09e139"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/threshold.xml:203(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/using/threshold-layers.png'; "
 "md5=3e301cb9fa05cf950798c70cf0e5a5a7"
 msgstr ""
-"@@image: 'images/using/unstuck-layers-dialog-invislayer.png'; md5=THIS FILE "
-"DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/threshold.xml:226(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/using/threshold-fit.png'; "
 "md5=36c8d9ab439eb56b428a2cf4b2a5fc2b"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/threshold.xml:262(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/using/threshold-mask.png'; "
 "md5=4c86bbfd708eff6d2ff46958781ee2d3"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/threshold.xml:278(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/using/threshold-result.png'; "
 "md5=126e427b6568bc7dc871f30f97d4a120"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/threshold.xml:283(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/using/threshold-selection.png'; "
 "md5=0871bc80de2676cda58c04d96afba655"
 msgstr ""
-"@@image: 'images/using/24-selection-tools.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/toolbox/color/threshold.xml:16(title)
 #: src/toolbox/color/threshold.xml:19(secondary)
 #: src/toolbox/color/threshold.xml:22(primary)
 msgid "Threshold"
-msgstr "임계값"
+msgstr ""
 
 #: src/toolbox/color/threshold.xml:18(primary)
 #: src/toolbox/color/posterize.xml:16(primary)
@@ -139,7 +117,7 @@ msgstr "임계값"
 #: src/toolbox/color/color-balance.xml:16(primary)
 #: src/toolbox/color/brightness-contrast.xml:17(primary)
 msgid "Tools"
-msgstr "도구"
+msgstr ""
 
 #: src/toolbox/color/threshold.xml:24(para)
 msgid ""
@@ -170,21 +148,18 @@ msgstr ""
 #: src/toolbox/color/color-balance.xml:32(title)
 #: src/toolbox/color/brightness-contrast.xml:42(title)
 msgid "Activating the Tool"
-msgstr "도구 선택하기"
+msgstr ""
 
 #: src/toolbox/color/threshold.xml:45(para)
 msgid "There are different possibilities to activate the tool:"
-msgstr "다음과 같은 방법들을 이용해 혼합 도구를 사용할 수 있습니다.:"
+msgstr ""
 
 #: src/toolbox/color/threshold.xml:49(para)
-#, fuzzy
 msgid ""
 "You can access this tool from the image menu through "
 "<menuchoice><guimenu>Tools</guimenu><guisubmenu>Color Tools</"
 "guisubmenu><guimenuitem>Threshold,</guimenuitem></menuchoice>,"
 msgstr ""
-"이미지 메뉴바에서 <menuchoice><guimenu>도구</guimenu><guisubmenu>선택 도구</"
-"guisubmenu><guimenuitem>사각 선택</guimenuitem></menuchoice> 을 선택하거나,"
 
 #: src/toolbox/color/threshold.xml:59(para)
 msgid ""
@@ -193,15 +168,12 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/threshold.xml:68(para)
-#, fuzzy
 msgid ""
 "or by clicking on the <guiicon><inlinegraphic fileref=\"images/toolbox/stock-"
 "tool-threshold-22.png\"/></guiicon> icon in Toolbox if this tool has been "
 "installed in it. For this, please refer to <xref linkend=\"gimp-prefs-toolbox"
 "\"/>."
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/color/threshold.xml:82(title)
 #: src/toolbox/color/posterize.xml:60(title)
@@ -211,14 +183,12 @@ msgstr ""
 #: src/toolbox/color/colorize.xml:72(title)
 #: src/toolbox/color/color-balance.xml:66(title)
 #: src/toolbox/color/brightness-contrast.xml:76(title)
-#, fuzzy
 msgid "Options"
-msgstr "옵션"
+msgstr ""
 
 #: src/toolbox/color/threshold.xml:84(title)
-#, fuzzy
 msgid "Threshold tool options"
-msgstr "도구 옵션 초기화(_E)"
+msgstr ""
 
 #: src/toolbox/color/threshold.xml:94(term)
 #: src/toolbox/color/levels.xml:98(term)
@@ -227,9 +197,8 @@ msgstr "도구 옵션 초기화(_E)"
 #: src/toolbox/color/colorize.xml:83(term)
 #: src/toolbox/color/color-balance.xml:77(term)
 #: src/toolbox/color/brightness-contrast.xml:87(term)
-#, fuzzy
 msgid "Presets"
-msgstr "프리셋(_P)"
+msgstr ""
 
 #: src/toolbox/color/threshold.xml:96(para)
 #: src/toolbox/color/levels.xml:100(para)
@@ -238,14 +207,11 @@ msgstr "프리셋(_P)"
 #: src/toolbox/color/colorize.xml:85(para)
 #: src/toolbox/color/color-balance.xml:79(para)
 #: src/toolbox/color/brightness-contrast.xml:89(para)
-#, fuzzy
 msgid ""
 "You can save the color settings of your image by clicking the <guibutton>Add "
 "settings to favourites</guibutton> button <guiicon><inlinegraphic fileref="
 "\"images/toolbox/save-color-settings.png\"/></guiicon>"
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/color/threshold.xml:104(para)
 #: src/toolbox/color/levels.xml:107(para)
@@ -254,13 +220,10 @@ msgstr ""
 #: src/toolbox/color/colorize.xml:92(para)
 #: src/toolbox/color/color-balance.xml:86(para)
 #: src/toolbox/color/brightness-contrast.xml:96(para)
-#, fuzzy
 msgid ""
 "The <guiicon><inlinegraphic fileref=\"images/toolbox/presets-menu-icon.png\"/"
 "></guiicon> button opens a menu:"
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/color/threshold.xml:113(title)
 #: src/toolbox/color/levels.xml:115(title)
@@ -269,9 +232,8 @@ msgstr ""
 #: src/toolbox/color/colorize.xml:100(title)
 #: src/toolbox/color/color-balance.xml:94(title)
 #: src/toolbox/color/brightness-contrast.xml:104(title)
-#, fuzzy
 msgid "Preset Menu"
-msgstr "메인 메뉴"
+msgstr ""
 
 #: src/toolbox/color/threshold.xml:121(para)
 #: src/toolbox/color/levels.xml:123(para)
@@ -293,14 +255,12 @@ msgstr ""
 #: src/toolbox/color/colorize.xml:114(title)
 #: src/toolbox/color/color-balance.xml:108(title)
 #: src/toolbox/color/brightness-contrast.xml:118(title)
-#, fuzzy
 msgid "Manage saved Settings Dialog"
-msgstr "FileZilla 설정 창 열기"
+msgstr ""
 
 #: src/toolbox/color/threshold.xml:138(term)
-#, fuzzy
 msgid "Threshold range"
-msgstr "범위 선택(_R):"
+msgstr ""
 
 #: src/toolbox/color/threshold.xml:140(para)
 msgid ""
@@ -321,9 +281,8 @@ msgstr ""
 #: src/toolbox/color/colorize.xml:150(term)
 #: src/toolbox/color/color-balance.xml:161(term)
 #: src/toolbox/color/brightness-contrast.xml:157(term)
-#, fuzzy
 msgid "Preview"
-msgstr "미리 보기"
+msgstr ""
 
 #: src/toolbox/color/threshold.xml:155(para)
 msgid ""
@@ -404,9 +363,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/threshold.xml:258(title)
-#, fuzzy
 msgid "The mask"
-msgstr "마스크 1"
+msgstr ""
 
 #: src/toolbox/color/threshold.xml:268(para)
 msgid ""
@@ -416,9 +374,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/threshold.xml:275(title)
-#, fuzzy
 msgid "The result"
-msgstr "결과물을 잘라내기"
+msgstr ""
 
 #: src/toolbox/color/threshold.xml:287(para)
 msgid ""
@@ -430,29 +387,24 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/posterize.xml:66(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tools-posterize.png'; "
 "md5=fc5fef7ded511515a49e6ffdaa9db029"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/posterize.xml:101(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/posterize-ex.png'; "
 "md5=9651a8ceb351de3c2ff1accb796bc65f"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/toolbox/color/posterize.xml:14(title)
 #: src/toolbox/color/posterize.xml:17(secondary)
 #: src/toolbox/color/posterize.xml:20(primary)
-#, fuzzy
 msgid "Posterize"
-msgstr "포스터화"
+msgstr ""
 
 #: src/toolbox/color/posterize.xml:22(para)
 msgid ""
@@ -463,41 +415,32 @@ msgstr ""
 
 #: src/toolbox/color/posterize.xml:29(para)
 #: src/toolbox/color/curves.xml:36(para)
-#, fuzzy
 msgid "You can get to this tool in several ways:"
-msgstr "다음 방법들을 통해 선택 도구를 사용할 수 있습니다. :"
+msgstr ""
 
 #: src/toolbox/color/posterize.xml:32(para)
-#, fuzzy
 msgid ""
 "In the image menu through <menuchoice><guimenu>Tools</"
 "guimenu><guisubmenu>Color Tools</guisubmenu><guimenuitem>Posterize</"
 "guimenuitem></menuchoice> or <menuchoice><guimenu>Colors</"
 "guimenu><guimenuitem>Posterize</guimenuitem></menuchoice>."
 msgstr ""
-"이미지 메뉴바에서 <menuchoice><guimenu>도구</guimenu><guisubmenu>선택 도구</"
-"guisubmenu><guimenuitem>사각 선택</guimenuitem></menuchoice> 을 선택하거나,"
 
 #: src/toolbox/color/posterize.xml:46(para)
-#, fuzzy
 msgid ""
 "By clicking on the tool icon <guiicon><inlinegraphic fileref=\"images/"
 "toolbox/stock-tool-posterize-22.png\"/></guiicon> in Toolbox, if this tool "
 "has been installed there. For this, please refer to <xref linkend=\"gimp-"
 "prefs-toolbox\"/>."
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/color/posterize.xml:62(title)
-#, fuzzy
 msgid "Posterize tool options"
-msgstr "도구 옵션 초기화(_E)"
+msgstr ""
 
 #: src/toolbox/color/posterize.xml:72(term)
-#, fuzzy
 msgid "Posterize Levels"
-msgstr "포스터화 단계(_L):"
+msgstr ""
 
 #: src/toolbox/color/posterize.xml:74(para)
 msgid ""
@@ -514,14 +457,12 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/posterize.xml:96(title)
-#, fuzzy
 msgid "Example"
-msgstr "예제"
+msgstr ""
 
 #: src/toolbox/color/posterize.xml:98(title)
-#, fuzzy
 msgid "Example for the <quote>Posterize</quote> tool"
-msgstr "<quote>흐릿한 경계가 있는 선택 채우기</quote> 예제"
+msgstr ""
 
 #: src/toolbox/color/posterize.xml:104(para)
 msgid ""
@@ -532,77 +473,65 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/overview.xml:23(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/color-tools-menu1.png'; "
 "md5=f91b7af2f74b06a7b7c741ab70eaa9e7"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/overview.xml:38(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/color-tools-menu2.png'; "
 "md5=a1ac1410dca254e3e5e7223d84ad1cf9"
-msgstr "@@image: 'images/using/tab-menu.png'; md5=THIS FILE DOESN'T EXIST"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/overview.xml:120(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/color-tool-preset.png'; "
 "md5=884ff6ab58ce12bf79c92a02735d8cbb"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/overview.xml:136(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/color-preset-list.png'; "
 "md5=f4c6db8d64981ae698bb0b9d744d8351"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/overview.xml:155(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/color-preset-menu.png'; "
 "md5=6f39abab33b4f7ac2c1a89cd680fdfba"
-msgstr "@@image: 'images/using/tab-menu.png'; md5=THIS FILE DOESN'T EXIST"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/overview.xml:171(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/color-preset-manage.png'; "
 "md5=6dfa5dadf1ce970d1e5416459ff0a5b3"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/toolbox/color/overview.xml:8(title)
-#, fuzzy
 msgid "Overview"
-msgstr "미리 보기"
+msgstr ""
 
 #: src/toolbox/color/overview.xml:12(secondary)
 #: src/toolbox/color/levels.xml:22(primary)
 #: src/toolbox/color/colorize.xml:22(primary)
 #: src/toolbox/color/color-balance.xml:20(primary)
 msgid "Color"
-msgstr "색상"
+msgstr ""
 
 #: src/toolbox/color/overview.xml:15(primary)
-#, fuzzy
 msgid "Color tools"
-msgstr "색상"
+msgstr ""
 
 #: src/toolbox/color/overview.xml:19(title)
 msgid "The Color tools in the Tools menu"
@@ -701,9 +630,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/overview.xml:159(title)
-#, fuzzy
 msgid "Three options:"
-msgstr "Moiré Effect"
+msgstr ""
 
 #: src/toolbox/color/overview.xml:161(para)
 msgid "Import settings from file"
@@ -714,9 +642,8 @@ msgid "Export settings to file"
 msgstr ""
 
 #: src/toolbox/color/overview.xml:167(para)
-#, fuzzy
 msgid "Manage settings"
-msgstr "FileZilla 설정 창 열기"
+msgstr ""
 
 #: src/toolbox/color/overview.xml:149(para)
 msgid ""
@@ -731,82 +658,66 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/levels.xml:92(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tools-levels.png'; "
 "md5=451d9e4222ee0feb941970addcbaada1"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/levels.xml:271(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/levels-input-1.png'; "
 "md5=89de48a7071bca8aaba5d4b442a75644"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/levels.xml:288(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/levels-input-2.png'; "
 "md5=5dcb62b6f9ab79fc2d711f16b4e865d7"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/levels.xml:306(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/levels-input-3.png'; "
 "md5=9265f2b7ddc3d0f3a7d9eed634d3150e"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/levels.xml:370(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/levels-output-1.png'; "
 "md5=a3f6d87952ebdb5d4208332f66385d79"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/levels.xml:388(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/levels-output-2.png'; "
 "md5=9362c933780a79d8df9f886a986954d8"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/levels.xml:438(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/levels-eyedrop.png'; "
 "md5=3b4221bf4b688bc078354a16bbd558f0"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/levels.xml:522(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tool-options-levels.png'; "
 "md5=e98d3be7d14e12b18139d5c744c69648"
 msgstr ""
-"@@image: 'images/toolbox/tool-dialog-text.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -819,93 +730,71 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/levels.xml:579(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/levels-ex1b.png'; "
 "md5=be9a9026fa024eb751ec1e2f16e49627"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/levels.xml:593(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/levels-ex2a.png'; "
 "md5=eeaf458e17db88f2a5e2572fcbd1ee7e"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/levels.xml:604(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/levels-ex2b.png'; "
 "md5=f5b2d2dd261da070bb2900117701280a"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/levels.xml:618(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/levels-ex3a.png'; "
 "md5=47a4a2de02ba2059d55203ffc6692d38"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/levels.xml:630(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/levels-ex3b.png'; "
 "md5=8022e32f75cd8db4bae740c46443a1ca"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/toolbox/color/levels.xml:15(title)
 #: src/toolbox/color/levels.xml:19(secondary)
-#, fuzzy
 msgid "Levels"
-msgstr "레벨"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:23(secondary)
-#, fuzzy
 msgid "Adjust level colors"
-msgstr "모든 색상 조절"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:26(primary)
-#, fuzzy
 msgid "Levels tool"
-msgstr "레벨 도구: 색상 레벨을 조정합니다."
+msgstr ""
 
 #: src/toolbox/color/levels.xml:29(primary)
-#, fuzzy
 msgid "Values"
-msgstr "값의 수"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:32(primary)
-#, fuzzy
 msgid "Gamma"
 msgstr ""
-"Gamma is used as an exponent (power) in the correction equation. Gamma "
-"compression (where gamma &lt; 1) is used to encode linear luminance or RGB "
-"values into color signals or digital file values, and gamma expansion (where "
-"gamma &gt; 1) is the decoding process, and usually occurs where the current-"
-"to-voltage function for a CRT is non-linear."
 
 #: src/toolbox/color/levels.xml:35(primary)
-#, fuzzy
 msgid "Black point"
-msgstr "검정색 점 보상(_B)"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:38(primary)
-#, fuzzy
 msgid "White point"
-msgstr "흰색 점 고르기"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:41(para)
 msgid ""
@@ -918,54 +807,38 @@ msgstr ""
 
 #: src/toolbox/color/levels.xml:52(para)
 #: src/toolbox/color/desaturate.xml:43(para)
-#, fuzzy
 msgid "You can get to this tools in several ways:"
-msgstr "다음 방법들을 통해 선택 도구를 사용할 수 있습니다. :"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:54(para)
-#, fuzzy
 msgid ""
 "In the image menu through <menuchoice><guimenu>Tools</"
 "guimenu><guisubmenu>Color Tools</guisubmenu><guimenuitem>Levels</"
 "guimenuitem></menuchoice>."
 msgstr ""
-"이미지 메뉴바에서 <menuchoice><guimenu>도구</guimenu><guisubmenu>선택 도구</"
-"guisubmenu><guimenuitem>사각 선택</guimenuitem></menuchoice> 을 선택하거나,"
 
 #: src/toolbox/color/levels.xml:64(para)
-#, fuzzy
 msgid ""
 "In the image menu through <menuchoice><guimenu>Colors</"
 "guimenu><guimenuitem>Levels</guimenuitem></menuchoice>."
 msgstr ""
-"이미지 메뉴바에서 <menuchoice><guimenu>도구</guimenu><guisubmenu>선택 도구</"
-"guisubmenu><guimenuitem>사각 선택</guimenuitem></menuchoice> 을 선택하거나,"
 
 #: src/toolbox/color/levels.xml:73(para)
-#, fuzzy
 msgid ""
 "By clicking on the tool icon <guiicon><inlinegraphic fileref=\"images/"
 "toolbox/stock-tool-levels-22.png\"/></guiicon> in the toolbox if this tool "
 "has been installed there. For this, please refer to <xref linkend=\"gimp-"
 "prefs-toolbox\"/>."
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/color/levels.xml:89(title)
-#, fuzzy
 msgid "Level tool options"
-msgstr "도구 옵션 초기화(_E)"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:140(term)
 #: src/toolbox/color/curves.xml:120(term)
-#, fuzzy
 msgid "Channel"
 msgstr ""
-"채널은 특정색을 조정해야 할때 사용된다. 예를 들어 \"적목현상\" 없애기를 할 경"
-"우에, 적색 채널에서 작업을 하는 것이 보편적인 해결책이다. 그리고 채널이 표현"
-"하는 색상의 허용이나 제한을 하는 마스크처럼 사용할 수도 있다. 이러한 채널의 "
-"속성에 반하는 필터를 사용하면 굉장히 다양하고 독특한 효과를 낼 수 있다."
 
 #: src/toolbox/color/levels.xml:147(para)
 msgid ""
@@ -1001,9 +874,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/levels.xml:181(term)
-#, fuzzy
 msgid "Input Levels"
-msgstr "입력 레벨"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:183(para)
 msgid ""
@@ -1075,9 +947,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/levels.xml:261(title)
-#, fuzzy
 msgid "Examples for Input Levels"
-msgstr "GFileIcon 입력 데이터의 형식이 잘못되었습니다"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:262(para)
 msgid ""
@@ -1090,7 +961,7 @@ msgstr ""
 #: src/toolbox/color/levels.xml:574(para)
 #: src/toolbox/color/desaturate.xml:141(para)
 msgid "Original image"
-msgstr "원본 이미지"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:278(para)
 msgid ""
@@ -1102,9 +973,8 @@ msgstr ""
 
 #: src/toolbox/color/levels.xml:291(para)
 #: src/toolbox/color/levels.xml:391(para)
-#, fuzzy
 msgid "Black slider has been moved"
-msgstr "이 글은 옮겨졌습니다."
+msgstr ""
 
 #: src/toolbox/color/levels.xml:296(para)
 msgid ""
@@ -1115,14 +985,12 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/levels.xml:309(para)
-#, fuzzy
 msgid "White slider has been moved"
-msgstr "이 글은 옮겨졌습니다."
+msgstr ""
 
 #: src/toolbox/color/levels.xml:317(term)
-#, fuzzy
 msgid "Output Levels"
-msgstr "출력 레벨"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:319(para)
 msgid ""
@@ -1157,27 +1025,20 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/levels.xml:355(title)
-#, fuzzy
 msgid "Example for Output Levels"
-msgstr "알파 채널의 예제"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:357(para)
-#, fuzzy
 msgid ""
 "The original image is a RGB gradient from black (0;0;0) to white "
 "(255;255;255). Output Levels has no histogram; here, we used "
 "<menuchoice><guimenu>Windows</guimenu><guisubmenu>Dockable Dialogs</"
 "guisubmenu><guimenuitem>Histogram</guimenuitem></menuchoice>."
 msgstr ""
-"연필 도구를 선택하려면 이미지 메뉴에서 <menuchoice><guimenu>도구(<accel>T</"
-"accel>)</guimenu><guisubmenu>그리기 도구(<accel>P</accel>)</"
-"guisubmenu><guimenuitem>연필(<accel>N</accel>)</guimenuitem></menuchoice> 을 "
-"선택합니다."
 
 #: src/toolbox/color/levels.xml:373(para)
-#, fuzzy
 msgid "Original image (a gradient)"
-msgstr "원래 이미지로 복귀"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:378(para)
 msgid ""
@@ -1188,9 +1049,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/levels.xml:399(term)
-#, fuzzy
 msgid "All Channels"
-msgstr "모든 채널"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:401(para)
 msgid "<guilabel>Auto</guilabel>: Performs an automatic setting of the levels."
@@ -1228,9 +1088,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/levels.xml:491(term)
-#, fuzzy
 msgid "Edit these settings as Curves"
-msgstr "커브로 설정 편집하기"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:493(para)
 msgid ""
@@ -1246,14 +1105,12 @@ msgstr ""
 
 #: src/toolbox/color/levels.xml:514(title)
 #: src/toolbox/color/curves.xml:299(title)
-#, fuzzy
 msgid "Tool Options dialog"
-msgstr "도구 옵션 대화상자 열기"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:518(title)
-#, fuzzy
 msgid "<quote>Levels</quote> tool options"
-msgstr "<quote>물체 선택</quote> 도구 선택 사항"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:527(para)
 msgid ""
@@ -1265,24 +1122,22 @@ msgstr ""
 
 #: src/toolbox/color/levels.xml:534(term)
 #: src/toolbox/color/curves.xml:307(term)
-#, fuzzy
 msgid "Histogram Scale"
-msgstr "히스토그램 배율"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:536(para)
 msgid ""
 "These two options have the same action as the Logarithmic "
-"<guiicon><inlinegraphic fileref=\"images/dialogs/stock-histogram-"
-"logarithmic-16.png\"/></guiicon> and Linear <guiicon><inlinegraphic fileref="
-"\"images/dialogs/stock-histogram-linear-16.png\"/></guiicon> buttons in the "
-"Levels dialog."
+"<guiicon><inlinegraphic fileref=\"images/dialogs/stock-histogram-logarithmic-"
+"16.png\"/></guiicon> and Linear <guiicon><inlinegraphic fileref=\"images/"
+"dialogs/stock-histogram-linear-16.png\"/></guiicon> buttons in the Levels "
+"dialog."
 msgstr ""
 
 #: src/toolbox/color/levels.xml:552(term)
 #: src/toolbox/color/curves.xml:325(term)
-#, fuzzy
 msgid "Sample Average"
-msgstr "표본 평균"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:554(para)
 msgid ""
@@ -1304,9 +1159,8 @@ msgid "The histogram shows a predominance of Shadows and missing Highlights."
 msgstr ""
 
 #: src/toolbox/color/levels.xml:590(title)
-#, fuzzy
 msgid "Setting the white point"
-msgstr "흰색 점 고르기"
+msgstr ""
 
 #: src/toolbox/color/levels.xml:596(para)
 msgid ""
@@ -1369,9 +1223,8 @@ msgstr ""
 #: src/toolbox/color/hue-saturation.xml:16(title)
 #: src/toolbox/color/hue-saturation.xml:20(secondary)
 #: src/toolbox/color/hue-saturation.xml:23(primary)
-#, fuzzy
 msgid "Hue-Saturation"
-msgstr "색상-채도"
+msgstr ""
 
 #: src/toolbox/color/hue-saturation.xml:26(para)
 msgid ""
@@ -1384,36 +1237,28 @@ msgid "You can get to the Hue-Saturation tool in two ways :"
 msgstr ""
 
 #: src/toolbox/color/hue-saturation.xml:35(para)
-#, fuzzy
 msgid ""
 "In the image-menu through: <menuchoice><guimenu>Tools</"
 "guimenu><guisubmenu>Color Tools</guisubmenu><guimenuitem>Hue-Saturation</"
 "guimenuitem></menuchoice>, or <menuchoice><guimenu>Colors</"
 "guimenu><guimenuitem>Hue-Saturation</guimenuitem></menuchoice>"
 msgstr ""
-"이미지 메뉴바에서 <menuchoice><guimenu>도구</guimenu><guisubmenu>선택 도구</"
-"guisubmenu><guimenuitem>사각 선택</guimenuitem></menuchoice> 을 선택하거나,"
 
 #: src/toolbox/color/hue-saturation.xml:49(para)
-#, fuzzy
 msgid ""
 "By clicking the tool icon: <guiicon><inlinegraphic fileref=\"images/toolbox/"
 "stock-tool-hue-saturation-22.png\"/></guiicon> in Toolbox, provided that you "
 "have installed color tools in Toolbox. For this, please refer to <xref "
 "linkend=\"gimp-prefs-toolbox\"/>."
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/color/hue-saturation.xml:65(title)
-#, fuzzy
 msgid "Hue-Saturation tool options"
-msgstr "색상-채도 도구: 색상, 채도, 밝기를 조절합니다."
+msgstr ""
 
 #: src/toolbox/color/hue-saturation.xml:116(term)
-#, fuzzy
 msgid "Select Primary Color to Adjust"
-msgstr "변경할 원색을 선택하십시오."
+msgstr ""
 
 #: src/toolbox/color/hue-saturation.xml:118(para)
 msgid ""
@@ -1433,9 +1278,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/hue-saturation.xml:136(term)
-#, fuzzy
 msgid "Overlap"
-msgstr "덧씌우기(_O):"
+msgstr ""
 
 #: src/toolbox/color/hue-saturation.xml:138(para)
 msgid ""
@@ -1444,9 +1288,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/hue-saturation.xml:143(title)
-#, fuzzy
 msgid "Example for the <quote>Overlap</quote> option"
-msgstr "<quote>흐릿한 경계가 있는 선택 채우기</quote> 예제"
+msgstr ""
 
 #: src/toolbox/color/hue-saturation.xml:152(para)
 msgid ""
@@ -1468,9 +1311,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/hue-saturation.xml:189(term)
-#, fuzzy
 msgid "Adjust Selected Color"
-msgstr "선택한 색상 변경"
+msgstr ""
 
 #: src/toolbox/color/hue-saturation.xml:193(para)
 msgid ""
@@ -1514,68 +1356,55 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/desaturate.xml:79(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/desaturate.png'; "
 "md5=fb1f83632c079915682d326417ab60a8"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/desaturate.xml:138(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/colors-desaturate-orig.png'; "
 "md5=ff52837ec070bfb06a66afcc50fa6408"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/desaturate.xml:147(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/colors-desaturate-brightness.png'; "
 "md5=bcc426d45df14af2ebfe419120067f7d"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/desaturate.xml:156(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/colors-desaturate-luminosity.png'; "
 "md5=c3f4d6ced0029676d9a601275b6293b0"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/desaturate.xml:168(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/colors-desaturate-average.png'; "
 "md5=bea6e59f04779763604e5701f6ab0d83"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/toolbox/color/desaturate.xml:15(title)
 #: src/toolbox/color/desaturate.xml:21(primary)
-#, fuzzy
 msgid "Desaturate"
-msgstr "무채화"
+msgstr ""
 
 #: src/toolbox/color/desaturate.xml:17(primary)
-#, fuzzy
 msgid "Colors"
-msgstr "색상"
+msgstr ""
 
 #: src/toolbox/color/desaturate.xml:18(secondary)
-#, fuzzy
 msgid "Convert to gray scale"
-msgstr "선택을 붓으로 변환하기"
+msgstr ""
 
 #: src/toolbox/color/desaturate.xml:23(para)
 msgid ""
@@ -1595,208 +1424,168 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/desaturate.xml:42(title)
-#, fuzzy
 msgid "Activating the Command"
-msgstr "사용자 명령어 입력(&R)..."
+msgstr ""
 
 #: src/toolbox/color/desaturate.xml:46(para)
-#, fuzzy
 msgid ""
 "In the image menu through <menuchoice><guimenu>Tools</"
 "guimenu><guisubmenu>Color Tools</guisubmenu><guimenuitem>Desaturate</"
 "guimenuitem></menuchoice> or <menuchoice><guimenu>Colors</"
 "guimenu><guimenuitem>Desaturate</guimenuitem></menuchoice>,"
 msgstr ""
-"이미지 메뉴바에서 <menuchoice><guimenu>도구</guimenu><guisubmenu>선택 도구</"
-"guisubmenu><guimenuitem>사각 선택</guimenuitem></menuchoice> 을 선택하거나,"
 
 #: src/toolbox/color/desaturate.xml:60(para)
-#, fuzzy
 msgid ""
 "by clicking on the tool icon <guiicon><inlinegraphic fileref=\"images/"
 "toolbox/stock-convert-grayscale-16.png\"/></guiicon> in Toolbox, if this "
 "tool has been installed there.For this, please refer to <xref linkend=\"gimp-"
 "prefs-toolbox\"/>."
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/color/desaturate.xml:76(title)
-#, fuzzy
 msgid "The <quote>Desaturate</quote> option dialog"
-msgstr "<quote>파일 열기</quote> 대화상자"
+msgstr ""
 
 #: src/toolbox/color/desaturate.xml:83(para)
-#, fuzzy
 msgid "Three options are available:"
-msgstr "설정 가능한 항목이 없습니다."
+msgstr ""
 
 #: src/toolbox/color/desaturate.xml:85(title)
-#, fuzzy
 msgid "Choose shade of gray based on"
-msgstr "기본으로 사용될 회색 계조를 선택하십시오.:"
+msgstr ""
 
 #: src/toolbox/color/desaturate.xml:87(term)
-#, fuzzy
 msgid "Lightness"
-msgstr "밝기"
+msgstr ""
 
 #: src/toolbox/color/desaturate.xml:89(para)
 #: src/toolbox/color/desaturate.xml:104(para)
 #: src/toolbox/color/desaturate.xml:121(para)
-#, fuzzy
 msgid "The graylevel will be calculated as"
-msgstr "%s 명령은 root로 실행해야 합니다"
+msgstr ""
 
 #: src/toolbox/color/desaturate.xml:93(phrase)
 msgid "Lightness = &frac12;&times; (max(R,G,B) + min(R,G,B))"
 msgstr ""
 
 #: src/toolbox/color/desaturate.xml:102(term)
-#, fuzzy
 msgid "Luminosity"
-msgstr "광도"
+msgstr ""
 
 #: src/toolbox/color/desaturate.xml:108(phrase)
 msgid "Luminosity = 0.21 &times; R + 0.72 &times; G + 0.07 &times; B"
 msgstr ""
 
 #: src/toolbox/color/desaturate.xml:119(term)
-#, fuzzy
 msgid "Average"
-msgstr "평균"
+msgstr ""
 
 #: src/toolbox/color/desaturate.xml:125(phrase)
-#, fuzzy
 msgid "Average Brightness = (R + G + B) &divide; 3"
-msgstr "미리보기 밝기 조절"
+msgstr ""
 
 #: src/toolbox/color/desaturate.xml:133(title)
-#, fuzzy
 msgid "Comparing the three options"
-msgstr "GTK+ 옵션을 보여줍니다."
+msgstr ""
 
 #: src/toolbox/color/desaturate.xml:150(para)
-#, fuzzy
 msgid "<quote>Lightness</quote> applied"
-msgstr "동작의 <quote>일부분</quote>"
+msgstr ""
 
 #: src/toolbox/color/desaturate.xml:159(para)
-#, fuzzy
 msgid "<quote>Luminosity</quote> applied."
-msgstr "광도 임계값 조절"
+msgstr ""
 
 #: src/toolbox/color/desaturate.xml:171(para)
-#, fuzzy
 msgid "<quote>Average</quote> applied."
-msgstr "평균값 사용"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/curves.xml:72(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tools-curves.png'; "
 "md5=4c41078a0ac21d488551ffa7c9a8b7a1"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/curves.xml:358(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/curves-work.png'; "
 "md5=21b8adbd64af62efcd39dea2ccf21e6b"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/curves.xml:381(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/curves-horiz-1.png'; "
 "md5=30b62bc0eab3c3ad4a75dedf1e2f32fc"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/curves.xml:389(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/curves-horiz-2.png'; "
 "md5=89fca43da9c397c3a381b3acf1cfc574"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/curves.xml:424(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/curves-vert-1.png'; "
 "md5=16f3740307bbf0aa1fc58ddac98bd6e0"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/curves.xml:433(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/curves-vert-2.png'; "
 "md5=f71cf6a97b4bc331da6f60084796cefb"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/curves.xml:452(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/curves-invert.png'; "
 "md5=6d82a32d0ca897021be0a2ea704dcc2a"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/curves.xml:472(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/curves-H-S.png'; "
 "md5=f2cf306fde0fb55fb67c8b4b5246a204"
 msgstr ""
-"@@image: 'images/toolbox/toolbox-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/curves.xml:491(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/curves-lighten-1.png'; "
 "md5=68b939bf085574b147eee7a0e8c71772"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/curves.xml:503(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/curves-lighten-2.png'; "
 "md5=c5ac63792603e264e76e578c424f4c4b"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/toolbox/color/curves.xml:16(title)
 #: src/toolbox/color/curves.xml:20(secondary)
 #: src/toolbox/color/curves.xml:23(primary)
-#, fuzzy
 msgid "Curves"
-msgstr "커브"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:26(para)
 msgid ""
@@ -1815,15 +1604,12 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/curves.xml:53(para)
-#, fuzzy
 msgid ""
 "By clicking on the tool icon <guiicon><inlinegraphic fileref=\"images/"
 "toolbox/stock-tool-curves-22.png\"/></guiicon> in Toolbox, if this tool has "
 "been installed there. For this, please refer to <xref linkend=\"gimp-prefs-"
 "toolbox\"/>."
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/color/curves.xml:67(title)
 msgid "<quote>Adjust Color Curves</quote> options"
@@ -1834,14 +1620,12 @@ msgid "The <quote>Adjust Color Curves</quote> dialog"
 msgstr ""
 
 #: src/toolbox/color/curves.xml:123(para)
-#, fuzzy
 msgid "There are five options:"
-msgstr "Moiré Effect"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:125(term)
-#, fuzzy
 msgid "Value"
-msgstr "명암"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:127(para)
 msgid ""
@@ -1850,9 +1634,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/curves.xml:134(term)
-#, fuzzy
 msgid "Red; Green; Blue"
-msgstr "빨강/녹색 구성 요소의 감도"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:136(para)
 msgid ""
@@ -1863,9 +1646,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/curves.xml:146(term)
-#, fuzzy
 msgid "Alpha"
-msgstr "Alpha(알파)"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:148(para)
 msgid ""
@@ -1876,9 +1658,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/curves.xml:162(term)
-#, fuzzy
 msgid "Reset Channel"
-msgstr "개인 채널 해제"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:164(para)
 msgid ""
@@ -1887,9 +1668,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/curves.xml:171(term)
-#, fuzzy
 msgid "Linear and Logarithmic buttons"
-msgstr "스텝 단추와 스크롤 상자 사이의 간격"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:173(para)
 msgid ""
@@ -1899,9 +1679,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/curves.xml:181(term)
-#, fuzzy
 msgid "Main Editing Area"
-msgstr "영역 확대"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:185(para)
 msgid ""
@@ -1981,14 +1760,12 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/curves.xml:262(term)
-#, fuzzy
 msgid "Curve type"
-msgstr "커브 형식"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:266(term)
-#, fuzzy
 msgid "Smooth"
-msgstr "부드럽게"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:268(para)
 msgid ""
@@ -1997,9 +1774,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/curves.xml:276(term)
-#, fuzzy
 msgid "Free Hand"
-msgstr "자유 선택도구"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:278(para)
 msgid ""
@@ -2024,10 +1800,10 @@ msgstr ""
 #: src/toolbox/color/curves.xml:309(para)
 msgid ""
 "These two options have the same action as the Logarithmic "
-"<guiicon><inlinegraphic fileref=\"images/dialogs/stock-histogram-"
-"logarithmic-16.png\"/></guiicon> and Linear <guiicon><inlinegraphic fileref="
-"\"images/dialogs/stock-histogram-linear-16.png\"/></guiicon> buttons in the "
-"Curves dialog."
+"<guiicon><inlinegraphic fileref=\"images/dialogs/stock-histogram-logarithmic-"
+"16.png\"/></guiicon> and Linear <guiicon><inlinegraphic fileref=\"images/"
+"dialogs/stock-histogram-linear-16.png\"/></guiicon> buttons in the Curves "
+"dialog."
 msgstr ""
 
 #: src/toolbox/color/curves.xml:327(para)
@@ -2039,9 +1815,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/curves.xml:339(title)
-#, fuzzy
 msgid "Using the <quote>Curves</quote> tool"
-msgstr "커브 도구: 커브를 이용해 색상을 조절합니다."
+msgstr ""
 
 #: src/toolbox/color/curves.xml:342(title)
 msgid "Summary and basic shapes"
@@ -2055,18 +1830,16 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/curves.xml:351(title)
-#, fuzzy
 msgid "How the Curves tool works"
-msgstr "커브 도구: 커브를 이용해 색상을 조절합니다."
+msgstr ""
 
 #: src/toolbox/color/curves.xml:353(para)
 msgid "Moving the anchor of a pixel upwards makes this pixel brighter."
 msgstr ""
 
 #: src/toolbox/color/curves.xml:361(para)
-#, fuzzy
 msgid "Moving the anchor upwards"
-msgstr "떠있는 선택 고정"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:367(title)
 #: src/toolbox/color/curves.xml:378(title)
@@ -2090,9 +1863,8 @@ msgid "Make the curve more horizontal"
 msgstr ""
 
 #: src/toolbox/color/curves.xml:392(para)
-#, fuzzy
 msgid "The resulting histogram"
-msgstr "위키백과 - 히스토그램"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:399(title)
 #: src/toolbox/color/curves.xml:420(title)
@@ -2125,42 +1897,37 @@ msgid "Make the curve more vertical"
 msgstr ""
 
 #: src/toolbox/color/curves.xml:436(para)
-#, fuzzy
 msgid "Result and its histogram"
-msgstr "레이어 마스크 및 효과 제거"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:444(title)
 msgid "Practical cases"
 msgstr ""
 
 #: src/toolbox/color/curves.xml:447(title)
-#, fuzzy
 msgid "Invert colors"
-msgstr "색상 반전"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:455(para)
-#, fuzzy
 msgid "Inverted curve"
-msgstr "휘어진 사선"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:458(para)
 msgid ""
 "Black is made White (fully colored / fully opaque). White is made black "
 "(black, fully transparent). All pixels adopt the complementary color. Why "
 "that? Because subtracting the channel values from 255 gives the "
-"complementary color. For example: 19;197;248 a sky blue gives 255-19; "
-"255-197; 255-248 = 236;58;7, a bright red."
+"complementary color. For example: 19;197;248 a sky blue gives 255-19; 255-"
+"197; 255-248 = 236;58;7, a bright red."
 msgstr ""
 
 #: src/toolbox/color/curves.xml:468(title)
-#, fuzzy
 msgid "Enhance contrast"
-msgstr "대비 증가(Stretch Contrast)"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:475(para)
-#, fuzzy
 msgid "Contrast enhanced"
-msgstr "대비 증가(Stretch Contrast)"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:478(para)
 msgid ""
@@ -2170,9 +1937,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/curves.xml:486(title)
-#, fuzzy
 msgid "Working on color channels"
-msgstr "색상의 명도차"
+msgstr ""
 
 #: src/toolbox/color/curves.xml:494(para)
 msgid ""
@@ -2182,27 +1948,23 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/curves.xml:506(para)
-#, fuzzy
 msgid "The original image and the result"
-msgstr "원래 이미지로 복귀"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/colorize.xml:77(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tools-colorize.png'; "
 "md5=82c1caec103bea05c59a7ab02af73431"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/toolbox/color/colorize.xml:15(title)
 #: src/toolbox/color/colorize.xml:19(secondary)
 #: src/toolbox/color/colorize.xml:23(secondary)
 #: src/toolbox/color/colorize.xml:26(primary)
-#, fuzzy
 msgid "Colorize"
-msgstr "컬러화(Colorize)"
+msgstr ""
 
 #: src/toolbox/color/colorize.xml:29(para)
 msgid ""
@@ -2213,46 +1975,36 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/colorize.xml:37(title)
-#, fuzzy
 msgid "Activating tool"
-msgstr "도구 선택하기"
+msgstr ""
 
 #: src/toolbox/color/colorize.xml:38(para)
-#, fuzzy
 msgid "You can get to the Colorize tool in two ways:"
-msgstr "다음 방법들을 통해 선택 도구를 사용할 수 있습니다. :"
+msgstr ""
 
 #: src/toolbox/color/colorize.xml:43(para)
-#, fuzzy
 msgid ""
 "In the image-menu through: <menuchoice><guimenu>Tools</"
 "guimenu><guisubmenu>Color Tools</guisubmenu><guimenuitem>Colorize</"
 "guimenuitem></menuchoice> or <menuchoice><guimenu>Colors</"
 "guimenu><guimenuitem>Colorize</guimenuitem></menuchoice>,"
 msgstr ""
-"이미지 메뉴바에서 <menuchoice><guimenu>도구</guimenu><guisubmenu>선택 도구</"
-"guisubmenu><guimenuitem>사각 선택</guimenuitem></menuchoice> 을 선택하거나,"
 
 #: src/toolbox/color/colorize.xml:58(para)
-#, fuzzy
 msgid ""
 "or by clicking the tool icon: <guiicon><inlinegraphic fileref=\"images/"
 "toolbox/stock-tool-colorize-22.png\"/></guiicon> in Toolbox, provided that "
 "you have installed color tools in Toolbox. For this, please refer to <xref "
 "linkend=\"gimp-prefs-toolbox\"/>."
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/color/colorize.xml:74(title)
-#, fuzzy
 msgid "Colorize options"
-msgstr "도구 옵션"
+msgstr ""
 
 #: src/toolbox/color/colorize.xml:125(term)
-#, fuzzy
 msgid "Select Color"
-msgstr "색상 선택"
+msgstr ""
 
 #: src/toolbox/color/colorize.xml:129(para)
 msgid ""
@@ -2281,20 +2033,17 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/color-balance.xml:71(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tools-color-balance.png'; "
 "md5=c66b6b3c52123f07cfdc5a4f73e35492"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/toolbox/color/color-balance.xml:14(title)
 #: src/toolbox/color/color-balance.xml:17(secondary)
 #: src/toolbox/color/color-balance.xml:21(secondary)
 #: src/toolbox/color/color-balance.xml:24(primary)
-#, fuzzy
 msgid "Color Balance"
-msgstr "색상 균형"
+msgstr ""
 
 #: src/toolbox/color/color-balance.xml:26(para)
 msgid ""
@@ -2308,36 +2057,28 @@ msgid "You can get to the Color balance tool in several ways :"
 msgstr ""
 
 #: src/toolbox/color/color-balance.xml:38(para)
-#, fuzzy
 msgid ""
 "In the image-menu through: <menuchoice><guimenu>Tools</"
 "guimenu><guisubmenu>Color Tools</guisubmenu><guimenuitem>Color Balance</"
 "guimenuitem></menuchoice>, or <menuchoice><guimenu>Colors</"
 "guimenu><guimenuitem>Color Balance</guimenuitem></menuchoice>,"
 msgstr ""
-"이미지 메뉴바에서 <menuchoice><guimenu>도구</guimenu><guisubmenu>선택 도구</"
-"guisubmenu><guimenuitem>사각 선택</guimenuitem></menuchoice> 을 선택하거나,"
 
 #: src/toolbox/color/color-balance.xml:52(para)
-#, fuzzy
 msgid ""
 "by clicking the tool icon: <guiicon><inlinegraphic fileref=\"images/toolbox/"
 "stock-tool-color-balance-22.png\"/></guiicon> in Toolbox, provided that you "
 "have installed color tools in Toolbox. For this, please refer to <xref "
 "linkend=\"gimp-prefs-toolbox\"/>."
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/color/color-balance.xml:68(title)
-#, fuzzy
 msgid "Color Balance options"
-msgstr "색상 균형 조절"
+msgstr ""
 
 #: src/toolbox/color/color-balance.xml:119(term)
-#, fuzzy
 msgid "Select range to adjust"
-msgstr "변경할 범위를 선택하십시오."
+msgstr ""
 
 #: src/toolbox/color/color-balance.xml:121(para)
 msgid ""
@@ -2347,9 +2088,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/color-balance.xml:130(term)
-#, fuzzy
 msgid "Adjust color levels"
-msgstr "색상 레벨 조절"
+msgstr ""
 
 #: src/toolbox/color/color-balance.xml:132(para)
 msgid ""
@@ -2360,9 +2100,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/color-balance.xml:142(term)
-#, fuzzy
 msgid "Reset Range"
-msgstr "범위 선택(_R):"
+msgstr ""
 
 #: src/toolbox/color/color-balance.xml:144(para)
 msgid ""
@@ -2371,9 +2110,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/color-balance.xml:151(term)
-#, fuzzy
 msgid "Preserve Luminosity"
-msgstr "휘도 유지(_L)"
+msgstr ""
 
 #: src/toolbox/color/color-balance.xml:153(para)
 msgid ""
@@ -2391,18 +2129,15 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/toolbox/color/brightness-contrast.xml:81(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/toolbox/tools-brightness.png'; "
 "md5=229e67ee956ed3e96edace0f3070589c"
 msgstr ""
-"@@image: 'images/using/toolbox-description.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/toolbox/color/brightness-contrast.xml:14(title)
 #: src/toolbox/color/brightness-contrast.xml:18(secondary)
-#, fuzzy
 msgid "Brightness-Contrast"
-msgstr "명도-대비"
+msgstr ""
 
 #: src/toolbox/color/brightness-contrast.xml:21(para)
 msgid ""
@@ -2427,9 +2162,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/brightness-contrast.xml:43(para)
-#, fuzzy
 msgid "You can get to the Brightness-Contrast tool in two ways:"
-msgstr "물체 선택 도구는 다음 두 가지 방법을 통해 사용할 수 있습니다.:"
+msgstr ""
 
 #: src/toolbox/color/brightness-contrast.xml:48(para)
 msgid ""
@@ -2440,25 +2174,20 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/brightness-contrast.xml:62(para)
-#, fuzzy
 msgid ""
 "by clicking the tool icon: <guiicon><inlinegraphic fileref=\"images/toolbox/"
 "stock-tool-brightness-contrast-22.png\"/></guiicon> in Toolbox, provided "
 "that you have installed color tools in Toolbox. For this, please refer to "
 "<xref linkend=\"gimp-prefs-toolbox\"/>."
 msgstr ""
-"혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-"guiicon>"
 
 #: src/toolbox/color/brightness-contrast.xml:78(title)
-#, fuzzy
 msgid "Brightness-Contrast options dialog"
-msgstr "도구 옵션 대화상자 열기"
+msgstr ""
 
 #: src/toolbox/color/brightness-contrast.xml:129(term)
-#, fuzzy
 msgid "Brightness"
-msgstr "밝기(_B)"
+msgstr ""
 
 #: src/toolbox/color/brightness-contrast.xml:131(para)
 msgid ""
@@ -2467,9 +2196,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/brightness-contrast.xml:138(term)
-#, fuzzy
 msgid "Contrast"
-msgstr "휘도"
+msgstr ""
 
 #: src/toolbox/color/brightness-contrast.xml:140(para)
 msgid ""
@@ -2478,9 +2206,8 @@ msgid ""
 msgstr ""
 
 #: src/toolbox/color/brightness-contrast.xml:147(term)
-#, fuzzy
 msgid "Edit these settings as Levels"
-msgstr "레벨로 이 설정 편집하기"
+msgstr ""
 
 #: src/toolbox/color/brightness-contrast.xml:149(para)
 msgid ""
@@ -2496,19 +2223,5 @@ msgstr ""
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: src/toolbox/color/brightness-contrast.xml:0(None)
-#, fuzzy
 msgid "translator-credits"
-msgstr "Mr.Dust <like.a.dust@gmail.com>, 2008"
-
-#, fuzzy
-#~ msgid ""
-#~ "or by clicking the <guiicon><inlinegraphic fileref=\"images/toolbox/stock-"
-#~ "tool-posterize-22.png\"/></guiicon> icon in ToolBox, if Color Tools have "
-#~ "been added to it."
-#~ msgstr ""
-#~ "혹은 도구 상자에서 도구 아이콘 <guiicon><placeholder-1/> 을 선택합니다. </"
-#~ "guiicon>"
-
-#, fuzzy
-#~ msgid "Brightness-Contrast tool"
-#~ msgstr "명도/대비 도구: 명도와 대비를 조절합니다"
+msgstr ""

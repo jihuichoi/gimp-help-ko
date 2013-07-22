@@ -1,16 +1,13 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: GIMP DOCS\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2013-07-22 12:15+0900\n"
-"PO-Revision-Date: 2013-07-22 16:14+0900\n"
-"Last-Translator: Jihui Choi <jihui.choi@gmail.com>\n"
-"Language-Team: Korean <jihui.choi@gmail.com>\n"
-"Language: Koran\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
-"X-Poedit-SourceCharset: UTF-8\n"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -18,7 +15,6 @@ msgstr ""
 msgid ""
 "@@image: 'images/menus/windows.png'; md5=90afd1dc10b08f39bfd1168413ff78f9"
 msgstr ""
-"@@image: 'images/menus/windows.png'; md5=90afd1dc10b08f39bfd1168413ff78f9"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -27,12 +23,10 @@ msgid ""
 "@@image: 'images/menus/windows/expanded-menu.png'; "
 "md5=887ee5483c463a981b1fb7d6f07e5378"
 msgstr ""
-"@@image: 'images/menus/windows/expanded-menu.png'; "
-"md5=887ee5483c463a981b1fb7d6f07e5378"
 
 #: src/menus/windows.xml:12(title)
 msgid "<quote>Windows</quote> Menu"
-msgstr "<quote>창</quote> 메뉴"
+msgstr ""
 
 #: src/menus/windows.xml:15(primary) src/menus/view.xml:14(secondary)
 #: src/menus/tools.xml:14(primary) src/menus/select.xml:12(primary)
@@ -40,11 +34,11 @@ msgstr "<quote>창</quote> 메뉴"
 #: src/menus/file.xml:19(primary) src/menus/edit.xml:17(primary)
 #: src/menus/colors.xml:21(secondary)
 msgid "Menus"
-msgstr "메뉴"
+msgstr ""
 
 #: src/menus/windows.xml:16(secondary)
 msgid "Windows"
-msgstr "창"
+msgstr ""
 
 #: src/menus/windows.xml:19(para)
 msgid "This menu allows you to manage <acronym>GIMP</acronym> windows dialogs:"
@@ -59,15 +53,15 @@ msgstr ""
 
 #: src/menus/windows.xml:30(title)
 msgid "Contents of the <quote>Windows</quote> Menu"
-msgstr "<quote>창</quote> 메뉴의 내용"
+msgstr ""
 
 #: src/menus/windows.xml:36(para)
 msgid "Without open images"
-msgstr "열린 이미지 없음"
+msgstr ""
 
 #: src/menus/windows.xml:45(para)
 msgid "With open images"
-msgstr "열린 이미지 있음"
+msgstr ""
 
 #: src/menus/windows.xml:52(para)
 msgid ""
@@ -133,20 +127,20 @@ msgstr ""
 
 #: src/menus/windows-show-docks.xml:9(title)
 msgid "The <quote>Dockable Dialogs</quote> submenu"
-msgstr "<quote>연결가능한 대화 상자</quote>의 하위 메뉴"
+msgstr ""
 
 #: src/menus/windows-show-docks.xml:12(primary)
 #: src/menus/windows-open-recent-docks.xml:12(primary)
 msgid "Docks"
-msgstr "독(Docks)"
+msgstr ""
 
 #: src/menus/windows-show-docks.xml:13(secondary)
 msgid "List of dockable dialogs"
-msgstr "연결 가능한 대화 상자 목록"
+msgstr ""
 
 #: src/menus/windows-show-docks.xml:17(title)
 msgid "The <quote>Dockable Dialogs</quote> list"
-msgstr "<quote>연결 가능한 대화 상자</quote> 목록"
+msgstr ""
 
 #: src/menus/windows-show-docks.xml:26(para)
 msgid ""
@@ -163,7 +157,7 @@ msgstr ""
 #: src/menus/windows-show-docks.xml:37(title)
 #: src/menus/windows-open-recent-docks.xml:23(title)
 msgid "Activating the Command"
-msgstr "명령 활성화시키기"
+msgstr ""
 
 #: src/menus/windows-show-docks.xml:38(para)
 msgid ""
@@ -178,7 +172,7 @@ msgstr ""
 
 #: src/menus/windows-open-recent-docks.xml:13(secondary)
 msgid "Recently closed"
-msgstr "최근 닫음"
+msgstr ""
 
 #: src/menus/windows-open-recent-docks.xml:16(para)
 msgid ""
@@ -196,11 +190,11 @@ msgstr ""
 
 #: src/menus/view.xml:10(title)
 msgid "The <quote>View</quote> Menu"
-msgstr "<quote>보기</quote> 메뉴"
+msgstr ""
 
 #: src/menus/view.xml:13(primary) src/menus/colors.xml:20(primary)
 msgid "Image window"
-msgstr "이미지 창"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -210,11 +204,11 @@ msgstr ""
 
 #: src/menus/tools.xml:11(title)
 msgid "The <quote>Tools</quote> Menu"
-msgstr "<quote>도구</quote> 메뉴"
+msgstr ""
 
 #: src/menus/tools.xml:15(secondary)
 msgid "Tools"
-msgstr "도구"
+msgstr ""
 
 #: src/menus/tools.xml:19(title)
 msgid "Introduction to the <quote>Tools</quote> Menu"
@@ -222,7 +216,7 @@ msgstr ""
 
 #: src/menus/tools.xml:21(title)
 msgid "Contents of the <quote>Tools</quote> menu"
-msgstr "<quote>도구</quote> 메뉴의 내용"
+msgstr ""
 
 #: src/menus/tools.xml:28(para)
 msgid ""
@@ -241,11 +235,11 @@ msgstr ""
 
 #: src/menus/select.xml:9(title)
 msgid "The <quote>Select</quote> Menu"
-msgstr "<quote>선택</quote> 메뉴"
+msgstr ""
 
 #: src/menus/select.xml:13(secondary)
 msgid "Selection"
-msgstr "선택"
+msgstr ""
 
 #: src/menus/select.xml:17(title)
 msgid "Introduction to the <quote>Select</quote> Menu"
@@ -253,7 +247,7 @@ msgstr ""
 
 #: src/menus/select.xml:19(title)
 msgid "The Contents of the <quote>Select</quote> menu"
-msgstr "<quote>선택</quote> 메뉴의 내용"
+msgstr ""
 
 #: src/menus/select.xml:26(para)
 msgid ""
@@ -263,7 +257,7 @@ msgstr ""
 
 #: src/menus/layer.xml:11(title)
 msgid "The <quote>Layer</quote> Menu"
-msgstr "<quote>레이어</quote> 메뉴"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -272,8 +266,6 @@ msgid ""
 "@@image: 'images/menus/image-menu-bar.png'; "
 "md5=f84c7413cb4abf0a6111d4c8ae5ab0cb"
 msgstr ""
-"@@image: 'images/menus/image-menu-bar.png'; "
-"md5=f84c7413cb4abf0a6111d4c8ae5ab0cb"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -282,8 +274,6 @@ msgid ""
 "@@image: 'images/menus/local-windows-submenu.png'; "
 "md5=57af8745917ae54f989082e320678880"
 msgstr ""
-"@@image: 'images/menus/local-windows-submenu.png'; "
-"md5=57af8745917ae54f989082e320678880"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -292,8 +282,6 @@ msgid ""
 "@@image: 'images/menus/detached-submenu.png'; "
 "md5=8746ad151b99ae854ff6248044c735c2"
 msgstr ""
-"@@image: 'images/menus/detached-submenu.png'; "
-"md5=8746ad151b99ae854ff6248044c735c2"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -302,8 +290,6 @@ msgid ""
 "@@image: 'images/menus/tab-menu-button.png'; "
 "md5=a667dbce5e1dabe9abee73ea41859d31"
 msgstr ""
-"@@image: 'images/menus/tab-menu-button.png'; "
-"md5=a667dbce5e1dabe9abee73ea41859d31"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -311,15 +297,14 @@ msgstr ""
 msgid ""
 "@@image: 'images/menus/tab-menu.png'; md5=e3a7977b2570a5f5a3a776e89e884d02"
 msgstr ""
-"@@image: 'images/menus/tab-menu.png'; md5=e3a7977b2570a5f5a3a776e89e884d02"
 
 #: src/menus/introduction.xml:12(title)
 msgid "Introduction to Menus"
-msgstr "메뉴 소개"
+msgstr ""
 
 #: src/menus/introduction.xml:15(secondary)
 msgid "Introduction"
-msgstr "소개"
+msgstr ""
 
 #. Done
 #: src/menus/introduction.xml:21(para)
@@ -343,11 +328,11 @@ msgstr ""
 
 #: src/menus/introduction.xml:45(title)
 msgid "Context Menus"
-msgstr "연관 메뉴"
+msgstr ""
 
 #: src/menus/introduction.xml:48(primary)
 msgid "Context menus"
-msgstr "연관 메뉴"
+msgstr ""
 
 #: src/menus/introduction.xml:51(para)
 msgid ""
@@ -381,11 +366,11 @@ msgstr ""
 
 #: src/menus/introduction.xml:88(title) src/menus/introduction.xml:91(primary)
 msgid "Tear-off menus"
-msgstr "떼어내기 메뉴"
+msgstr ""
 
 #: src/menus/introduction.xml:94(primary)
 msgid "Tear-off line"
-msgstr "떼어내기 선"
+msgstr ""
 
 #: src/menus/introduction.xml:97(para)
 msgid ""
@@ -422,7 +407,7 @@ msgstr ""
 #: src/menus/introduction.xml:145(title)
 #: src/menus/introduction.xml:148(primary)
 msgid "Tab menus"
-msgstr "탭 메뉴"
+msgstr ""
 
 #: src/menus/introduction.xml:151(para)
 msgid ""
@@ -440,15 +425,15 @@ msgstr ""
 
 #: src/menus/introduction.xml:162(title)
 msgid "A dockable dialog."
-msgstr "연결 가능한 대화 상자"
+msgstr ""
 
 #: src/menus/introduction.xml:168(para)
 msgid "A dialog window with the Tab menu button highlighted."
-msgstr "탭 메뉴 버튼이 밝게 표시된 대화 상자"
+msgstr ""
 
 #: src/menus/introduction.xml:176(para)
 msgid "The Tab menu."
-msgstr "탭 메뉴"
+msgstr ""
 
 #: src/menus/introduction.xml:180(para)
 msgid ""
@@ -457,17 +442,17 @@ msgstr ""
 
 #: src/menus/image.xml:11(title)
 msgid "The <quote>Image</quote> Menu"
-msgstr "<quote>이미지</quote> 메뉴"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/menus/help.xml:28(None)
 msgid "@@image: 'images/menus/help.png'; md5=166c3b733e8d1c03b26206812c7c44a9"
-msgstr "@@image: 'images/menus/help.png'; md5=166c3b733e8d1c03b26206812c7c44a9"
+msgstr ""
 
 #: src/menus/help.xml:10(title)
 msgid "The <quote>Help</quote> Menu"
-msgstr "<quote>도움말</quote> 메뉴"
+msgstr ""
 
 #: src/menus/help.xml:13(title)
 msgid "Introduction to the <quote>Help</quote> Menu"
@@ -476,15 +461,15 @@ msgstr ""
 #: src/menus/help.xml:16(primary) src/menus/help.xml:21(secondary)
 #: src/menus/file.xml:26(primary)
 msgid "Menu"
-msgstr "메뉴"
+msgstr ""
 
 #: src/menus/help.xml:17(secondary) src/menus/help.xml:20(primary)
 msgid "Help"
-msgstr "도움말"
+msgstr ""
 
 #: src/menus/help.xml:25(title)
 msgid "Contents of the <quote>Help</quote> menu"
-msgstr "<quote>도움말</quote> 메뉴의 내용"
+msgstr ""
 
 #: src/menus/help.xml:33(para)
 msgid ""
@@ -494,49 +479,49 @@ msgstr ""
 
 #: src/menus/filters.xml:12(title)
 msgid "The <quote>Filters</quote> Menu"
-msgstr "<quote>필터</quote> 메뉴"
+msgstr ""
 
 #: src/menus/filters.xml:16(secondary)
 msgid "Filters"
-msgstr "필터"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/menus/file.xml:33(None)
 msgid "@@image: 'images/menus/file.png'; md5=23ec4be7cbd021cf444a565cad07dc68"
-msgstr "@@image: 'images/menus/file.png'; md5=23ec4be7cbd021cf444a565cad07dc68"
+msgstr ""
 
 #: src/menus/file.xml:16(title)
 msgid "The <quote>File</quote> Menu"
-msgstr "<quote>파일</quote> 메뉴"
+msgstr ""
 
 #: src/menus/file.xml:20(secondary)
 msgid "File menu"
-msgstr "파일 메뉴"
+msgstr ""
 
 #: src/menus/file.xml:24(title)
 msgid "Overview"
-msgstr "개요"
+msgstr ""
 
 #: src/menus/file.xml:27(secondary)
 msgid "File"
-msgstr "파일"
+msgstr ""
 
 #: src/menus/file.xml:30(title)
 msgid "The File menu"
-msgstr "파일 메뉴"
+msgstr ""
 
 #: src/menus/edit.xml:14(title)
 msgid "The <quote>Edit</quote> Menu"
-msgstr "<quote>편집</quote> 메뉴"
+msgstr ""
 
 #: src/menus/edit.xml:18(secondary)
 msgid "Edit"
-msgstr "편집"
+msgstr ""
 
 #: src/menus/colors.xml:17(title)
 msgid "The <quote>Colors</quote> Menu"
-msgstr "<quote>색상</quote> 메뉴"
+msgstr ""
 
 #: src/menus/about-plugin-menuitems.xml:5(para)
 msgid ""
@@ -549,45 +534,4 @@ msgstr ""
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: src/menus/about-plugin-menuitems.xml:0(None)
 msgid "translator-credits"
-msgstr "Jihui Choi<jihui.choi@gmail.com>, 2008, 2009"
-
-#, fuzzy
-#~ msgid "@@image: 'images/menus/windows.png'; md5=THIS FILE DOESN'T EXIST"
-#~ msgstr ""
-#~ "@@image: 'images/menus/file/open-location.png'; md5=THIS FILE DOESN'T "
-#~ "EXIST"
-
-#~ msgid "<quote>Windows</quote> Menu Entries"
-#~ msgstr "<quote>창</quote> 메뉴 항목"
-
-#~ msgid "The list of Recently Closed Docks:"
-#~ msgstr "최근 닫은 독(dock) 목록"
-
-#~ msgid "The list of open image windows."
-#~ msgstr "열린 이미지 창 목록"
-
-#~ msgid "The list of open dockable dialogs."
-#~ msgstr "열린 연결 가능한 대화 상자 목록"
-
-#, fuzzy
-#~ msgid "@@image: 'images/menus/tools.png'; md5=THIS FILE DOESN'T EXIST"
-#~ msgstr ""
-#~ "@@image: 'images/menus/file/open-location.png'; md5=THIS FILE DOESN'T "
-#~ "EXIST"
-
-#, fuzzy
-#~ msgid "@@image: 'images/menus/select.png'; md5=THIS FILE DOESN'T EXIST"
-#~ msgstr ""
-#~ "@@image: 'images/using/select-outline.png'; md5=THIS FILE DOESN'T EXIST"
-
-#, fuzzy
-#~ msgid "@@image: 'images/menus/help.png'; md5=THIS FILE DOESN'T EXIST"
-#~ msgstr ""
-#~ "@@image: 'images/menus/file/open-location.png'; md5=THIS FILE DOESN'T "
-#~ "EXIST"
-
-#, fuzzy
-#~ msgid "@@image: 'images/menus/file.png'; md5=THIS FILE DOESN'T EXIST"
-#~ msgstr ""
-#~ "@@image: 'images/menus/file/open-location.png'; md5=THIS FILE DOESN'T "
-#~ "EXIST"
+msgstr ""

@@ -1,30 +1,25 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: GIMP DOCS\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2013-07-22 10:58+0900\n"
-"PO-Revision-Date: 2013-07-22 15:59+0900\n"
-"Last-Translator: Jihui Choi <jihui.choi@gmail.com>\n"
-"Language-Team: Korean <jihui.choi@gmail.com>\n"
-"Language: Korean\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/undo-history-dialog.xml:27(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/undo-history-dialog.png'; "
 "md5=10c4c37fd61c5cb043f13ef2fe5b1144"
 msgstr ""
-"@@image: 'images/dialogs/undo-history-dialog.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #: src/dialogs/undo-history-dialog.xml:13(title)
 msgid "Undo History Dialog"
-msgstr "실행 취소 대화 상자"
+msgstr ""
 
 #: src/dialogs/undo-history-dialog.xml:15(primary)
 #: src/dialogs/templates-dialog.xml:15(primary)
@@ -46,16 +41,16 @@ msgstr "실행 취소 대화 상자"
 #: src/dialogs/buffers-dialog.xml:17(primary)
 #: src/dialogs/brushes-dialog.xml:21(primary)
 msgid "Dialogs"
-msgstr "대화 상자"
+msgstr ""
 
 #: src/dialogs/undo-history-dialog.xml:16(secondary)
 #: src/dialogs/undo-history-dialog.xml:19(primary)
 msgid "Undo History"
-msgstr "실행 취소 이력"
+msgstr ""
 
 #: src/dialogs/undo-history-dialog.xml:23(title)
 msgid "The Undo History dialog"
-msgstr "실행 취소 이력 대화 상자"
+msgstr ""
 
 #: src/dialogs/undo-history-dialog.xml:31(para)
 msgid ""
@@ -79,9 +74,8 @@ msgstr ""
 #: src/dialogs/indexed-palette-dialog.xml:46(title)
 #: src/dialogs/images-dialog.xml:39(title)
 #: src/dialogs/histogram-dialog.xml:40(title)
-#, fuzzy
 msgid "Activating the dialog"
-msgstr "대화상자 포함"
+msgstr ""
 
 #: src/dialogs/undo-history-dialog.xml:42(para)
 msgid ""
@@ -109,9 +103,8 @@ msgstr ""
 #: src/dialogs/channel-dialog.xml:127(para)
 #: src/dialogs/buffers-dialog.xml:93(para)
 #: src/dialogs/brushes-dialog.xml:58(para)
-#, fuzzy
 msgid "You can access it:"
-msgstr "댓글 쓰기 권한이 없습니다."
+msgstr ""
 
 #: src/dialogs/undo-history-dialog.xml:52(para)
 msgid ""
@@ -129,9 +122,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/undo-history-dialog.xml:77(title)
-#, fuzzy
 msgid "Using the Undo History dialog"
-msgstr "실행 취소 이력 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/undo-history-dialog.xml:78(para)
 msgid ""
@@ -152,14 +144,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/undo-history-dialog.xml:91(para)
-#, fuzzy
 msgid "At the bottom of the dialog are three buttons:"
-msgstr "도구 선택사항 대화상자에는 다음 네 가지의 버튼이 있습니다. :"
+msgstr ""
 
 #: src/dialogs/undo-history-dialog.xml:98(phrase)
-#, fuzzy
 msgid "Undo"
-msgstr "실행취소"
+msgstr ""
 
 #: src/dialogs/undo-history-dialog.xml:101(para)
 msgid ""
@@ -170,9 +160,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/undo-history-dialog.xml:118(phrase)
-#, fuzzy
 msgid "Redo"
-msgstr "재실행"
+msgstr ""
 
 #: src/dialogs/undo-history-dialog.xml:121(para)
 msgid ""
@@ -183,9 +172,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/undo-history-dialog.xml:138(phrase)
-#, fuzzy
 msgid "Clear Undo History"
-msgstr "실행 취소 이력 지우기"
+msgstr ""
 
 #: src/dialogs/undo-history-dialog.xml:141(para)
 msgid ""
@@ -210,12 +198,10 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/tool-presets-dialog.xml:31(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/tool-presets-dialog.png'; "
 "md5=b00e2cc89846d70b5a24b523bf86bd8f"
 msgstr ""
-"@@image: 'images/dialogs/color-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -235,9 +221,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/tool-presets-dialog.xml:9(title)
-#, fuzzy
 msgid "Tool Presets Dialog"
-msgstr "도구 대화 상자"
+msgstr ""
 
 #: src/dialogs/tool-presets-dialog.xml:12(primary)
 #: src/dialogs/tool-preset-editor.xml:12(primary)
@@ -245,9 +230,8 @@ msgid "Presets"
 msgstr ""
 
 #: src/dialogs/tool-presets-dialog.xml:13(secondary)
-#, fuzzy
 msgid "Presets Dialog"
-msgstr "붓 도구 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/tool-presets-dialog.xml:16(para)
 msgid ""
@@ -261,9 +245,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/tool-presets-dialog.xml:27(title)
-#, fuzzy
 msgid "The Tool Presets Dialog"
-msgstr "도구 대화 상자"
+msgstr ""
 
 #: src/dialogs/tool-presets-dialog.xml:37(title)
 #: src/dialogs/tool-preset-editor.xml:27(title)
@@ -276,9 +259,8 @@ msgstr "도구 대화 상자"
 #: src/dialogs/channel-dialog.xml:122(title)
 #: src/dialogs/buffers-dialog.xml:87(title)
 #: src/dialogs/brushes-dialog.xml:52(title)
-#, fuzzy
 msgid "Activating the Dialog"
-msgstr "대화상자 포함"
+msgstr ""
 
 #: src/dialogs/tool-presets-dialog.xml:38(para)
 msgid ""
@@ -301,14 +283,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/tool-presets-dialog.xml:43(para)
-#, fuzzy
 msgid "You can access it: <placeholder-1/>"
-msgstr "댓글 쓰기 권한이 없습니다."
+msgstr ""
 
 #: src/dialogs/tool-presets-dialog.xml:71(title)
-#, fuzzy
 msgid "Using the Tool Presets Dialog"
-msgstr "도구 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/tool-presets-dialog.xml:72(para)
 msgid ""
@@ -372,14 +352,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/tool-presets-dialog.xml:87(para)
-#, fuzzy
 msgid "At the bottom of the dialog appear four buttons: <placeholder-1/>"
-msgstr "도구 선택사항 대화상자에는 다음 네 가지의 버튼이 있습니다. :"
+msgstr ""
 
 #: src/dialogs/tool-presets-dialog.xml:144(title)
-#, fuzzy
 msgid "The Tool Presets Dialog Context Menu"
-msgstr "아래로 펼침 메뉴"
+msgstr ""
 
 #: src/dialogs/tool-presets-dialog.xml:158(para)
 msgid ""
@@ -404,14 +382,12 @@ msgstr ""
 
 #: src/dialogs/tool-preset-editor.xml:9(title)
 #: src/dialogs/tool-preset-editor.xml:13(secondary)
-#, fuzzy
 msgid "Tool Preset Editor"
-msgstr "팔레트 편집기"
+msgstr ""
 
 #: src/dialogs/tool-preset-editor.xml:17(title)
-#, fuzzy
 msgid "The Tool Preset Editor"
-msgstr "팔레트 편집기"
+msgstr ""
 
 #: src/dialogs/tool-preset-editor.xml:32(para)
 msgid ""
@@ -434,9 +410,8 @@ msgid "You can access this dialog through: <placeholder-1/>"
 msgstr ""
 
 #: src/dialogs/tool-preset-editor.xml:54(title)
-#, fuzzy
 msgid "Using the Tool Preset Editor"
-msgstr "팔레트 편집기 열기"
+msgstr ""
 
 #: src/dialogs/tool-preset-editor.xml:55(para)
 msgid ""
@@ -467,28 +442,23 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/templates-dialog.xml:27(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/templates-dialog.png'; "
 "md5=a19cd4f4d8dd24e2b1ec46ee05164229"
 msgstr ""
-"@@image: 'images/dialogs/color-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/dialogs/templates-dialog.xml:12(title)
-#, fuzzy
 msgid "Templates Dialog"
-msgstr "이미지 서식 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/templates-dialog.xml:16(secondary)
 #: src/dialogs/templates-dialog.xml:19(primary)
-#, fuzzy
 msgid "Templates"
-msgstr "탬플릿"
+msgstr ""
 
 #: src/dialogs/templates-dialog.xml:23(title)
-#, fuzzy
 msgid "The Templates dialog"
-msgstr "이미지 서식 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/templates-dialog.xml:32(para)
 msgid ""
@@ -520,9 +490,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/templates-dialog.xml:77(title)
-#, fuzzy
 msgid "Using the Templates dialog"
-msgstr "이미지 서식 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/templates-dialog.xml:78(para)
 msgid ""
@@ -535,9 +504,8 @@ msgstr ""
 #: src/dialogs/palettes-dialog.xml:106(term)
 #: src/dialogs/gradient-dialog.xml:161(term)
 #: src/dialogs/fonts-dialog.xml:102(term)
-#, fuzzy
 msgid "Grid/List modes"
-msgstr "목록으로 보기, 격자로 보기"
+msgstr ""
 
 #: src/dialogs/templates-dialog.xml:85(para)
 msgid ""
@@ -565,9 +533,8 @@ msgstr ""
 #: src/dialogs/templates-dialog.xml:109(title)
 #: src/dialogs/buffers-dialog.xml:187(title)
 #: src/dialogs/brushes-dialog.xml:265(title)
-#, fuzzy
 msgid "Buttons at the bottom"
-msgstr "끝에 있는 스테퍼 단추의 길이"
+msgstr ""
 
 #: src/dialogs/templates-dialog.xml:110(para)
 msgid ""
@@ -576,9 +543,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/templates-dialog.xml:120(phrase)
-#, fuzzy
 msgid "Create a new image from the selected template"
-msgstr "선택한 서식에서 새 이미지 만들기"
+msgstr ""
 
 #: src/dialogs/templates-dialog.xml:125(para)
 msgid ""
@@ -587,9 +553,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/templates-dialog.xml:137(phrase)
-#, fuzzy
 msgid "Create a new template"
-msgstr "새 서식 만들기"
+msgstr ""
 
 #: src/dialogs/templates-dialog.xml:142(para)
 msgid ""
@@ -599,9 +564,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/templates-dialog.xml:155(phrase)
-#, fuzzy
 msgid "Duplicate the selected template"
-msgstr "선택한 서식 복제"
+msgstr ""
 
 #: src/dialogs/templates-dialog.xml:160(para)
 msgid ""
@@ -610,9 +574,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/templates-dialog.xml:171(phrase)
-#, fuzzy
 msgid "Edit the selected template"
-msgstr "선택한 서식 편집"
+msgstr ""
 
 #: src/dialogs/templates-dialog.xml:176(para)
 msgid ""
@@ -621,14 +584,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/templates-dialog.xml:184(term)
-#, fuzzy
 msgid "Delete the selected template"
-msgstr "선택한 서식 삭제하기"
+msgstr ""
 
 #: src/dialogs/templates-dialog.xml:186(para)
-#, fuzzy
 msgid "Guess what?"
-msgstr "새로운 점:"
+msgstr ""
 
 #: src/dialogs/templates-dialog.xml:188(para)
 msgid ""
@@ -731,12 +692,10 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/save-file-dialog.xml:46(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/using/save-image-dialog.png'; "
 "md5=a7292ed267fe34c8750323158d0e3a2b"
 msgstr ""
-"@@image: 'images/dialogs/color-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -747,28 +706,24 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/save-file-dialog.xml:6(title)
-#, fuzzy
 msgid "Save File"
-msgstr "저장"
+msgstr ""
 
 #: src/dialogs/save-file-dialog.xml:8(primary)
 #: src/dialogs/images-dialog.xml:20(primary)
-#, fuzzy
 msgid "Image"
-msgstr "이미지"
+msgstr ""
 
 #: src/dialogs/save-file-dialog.xml:9(secondary)
-#, fuzzy
 msgid "Save image"
-msgstr "미리보기 이미지 재계산"
+msgstr ""
 
 #: src/dialogs/save-file-dialog.xml:10(tertiary)
 #: src/dialogs/save-file-dialog.xml:13(primary)
 #: src/dialogs/palettes-dialog.xml:719(phrase)
 #: src/dialogs/gradient-editor-dialog.xml:188(phrase)
-#, fuzzy
 msgid "Save"
-msgstr "저장"
+msgstr ""
 
 #: src/dialogs/save-file-dialog.xml:16(para)
 msgid ""
@@ -794,14 +749,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/save-file-dialog.xml:43(title)
-#, fuzzy
 msgid "Save Image Dialog"
-msgstr "이미지 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/save-file-dialog.xml:52(title)
-#, fuzzy
 msgid "Activate the Dialog"
-msgstr "대화상자 포함"
+msgstr ""
 
 #: src/dialogs/save-file-dialog.xml:55(para)
 msgid ""
@@ -811,18 +764,14 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/save-file-dialog.xml:64(para)
-#, fuzzy
 msgid ""
 "or from the keyboard by using the shortcut <keycombo><keycap>Ctrl</"
 "keycap><keycap>S</keycap></keycombo>."
 msgstr ""
-"또는 <keycombo><keycap>Shift</keycap><keycap>B</keycap></keycombo> 키를 이용"
-"해 채우기 도구를 사용할 수 있습니다."
 
 #: src/dialogs/save-file-dialog.xml:73(title)
-#, fuzzy
 msgid "The Save Image Dialog"
-msgstr "이미지 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/save-file-dialog.xml:74(para)
 msgid ""
@@ -851,12 +800,10 @@ msgstr ""
 #: src/dialogs/navigation-dialog.xml:78(None)
 #: src/dialogs/error-console.xml:50(None)
 #: src/dialogs/error-console.xml:134(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/stock-menu-left-12.png'; "
 "md5=bb67d499c4560430d82231784a8d5049"
 msgstr ""
-"@@image: 'images/dialogs/stock-menu-left-12.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -869,28 +816,22 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/sample-points.xml:116(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/sample-points-menu.png'; "
 "md5=0efc1654e0e0a963df145dd5db754a9c"
 msgstr ""
-"@@image: 'images/dialogs/stock-menu-left-12.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/sample-points.xml:128(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/sample-points-dialog.png'; "
 "md5=365b9c53f487c848bf000d150436d67e"
 msgstr ""
-"@@image: 'images/dialogs/undo-history-dialog.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #: src/dialogs/sample-points.xml:12(title)
-#, fuzzy
 msgid "Sample Points Dialog"
-msgstr "표본점 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/sample-points.xml:14(primary)
 #: src/dialogs/patterns-dialog.xml:21(secondary)
@@ -904,13 +845,12 @@ msgstr "표본점 대화상자 열기"
 #: src/dialogs/buffers-dialog.xml:22(secondary)
 #: src/dialogs/brushes-dialog.xml:26(secondary)
 msgid "Dialog"
-msgstr "대화 상자"
+msgstr ""
 
 #: src/dialogs/sample-points.xml:15(secondary)
 #: src/dialogs/sample-points.xml:18(primary)
-#, fuzzy
 msgid "Sample Points"
-msgstr "표본점"
+msgstr ""
 
 #: src/dialogs/sample-points.xml:20(para)
 msgid ""
@@ -942,9 +882,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/sample-points.xml:68(title)
-#, fuzzy
 msgid "Using sample points"
-msgstr "표본점 표시"
+msgstr ""
 
 #: src/dialogs/sample-points.xml:69(para)
 msgid ""
@@ -987,19 +926,16 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/sample-points.xml:112(title)
-#, fuzzy
 msgid "The <quote>Sample Point</quote> menu"
-msgstr "<quote>탭 추가</quote> 하위 메뉴"
+msgstr ""
 
 #: src/dialogs/sample-points.xml:122(title)
-#, fuzzy
 msgid "<quote>Sample Points</quote> dialog description"
-msgstr "팔레트 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/sample-points.xml:124(title)
-#, fuzzy
 msgid "Sample points dialog"
-msgstr "표본점 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/sample-points.xml:132(para)
 msgid ""
@@ -1018,9 +954,8 @@ msgstr ""
 
 #: src/dialogs/sample-points.xml:145(term)
 #: src/dialogs/pointer-dialog.xml:131(term)
-#, fuzzy
 msgid "Pixel"
-msgstr "Plugin"
+msgstr ""
 
 #: src/dialogs/sample-points.xml:147(para)
 msgid ""
@@ -1032,9 +967,8 @@ msgstr ""
 #: src/dialogs/sample-points.xml:156(term)
 #: src/dialogs/pointer-dialog.xml:143(term)
 #: src/dialogs/histogram-dialog.xml:187(term)
-#, fuzzy
 msgid "RGB"
-msgstr "RGB"
+msgstr ""
 
 #: src/dialogs/sample-points.xml:158(para)
 msgid ""
@@ -1046,9 +980,8 @@ msgstr ""
 
 #: src/dialogs/sample-points.xml:167(term)
 #: src/dialogs/pointer-dialog.xml:156(term)
-#, fuzzy
 msgid "HSV"
-msgstr "YCbCr"
+msgstr ""
 
 #: src/dialogs/sample-points.xml:169(para)
 msgid ""
@@ -1061,13 +994,8 @@ msgstr ""
 #: src/dialogs/pointer-dialog.xml:168(term)
 #: src/dialogs/color-dialog.xml:130(term)
 #: src/dialogs/color-dialog.xml:133(title)
-#, fuzzy
 msgid "CMYK"
 msgstr ""
-"CMYK is a <link linkend=\"glossary-colormodel\">color model</link> which has "
-"components for Cyan, Magenta, Yellow and Black. It is a subtractive color "
-"model, and that fact is important when an image is printed. It is "
-"complementary to the <link linkend=\"glossary-rgb\">RGB</link> color model."
 
 #: src/dialogs/sample-points.xml:180(para)
 msgid ""
@@ -1092,12 +1020,10 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/qmask.xml:20(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/channel-quickmask.png'; "
 "md5=339a3364ffa87f2e59a161718089e00e"
 msgstr ""
-"@@image: 'images/dialogs/channel-quickmask.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -1108,14 +1034,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/qmask.xml:14(title)
-#, fuzzy
 msgid "Quick Mask"
-msgstr "퀵마스크 사용하기"
+msgstr ""
 
 #: src/dialogs/qmask.xml:17(title)
-#, fuzzy
 msgid "Dialog Quick Mask"
-msgstr "퀵마스트 이용하기"
+msgstr ""
 
 #: src/dialogs/qmask.xml:24(para)
 msgid ""
@@ -1144,18 +1068,14 @@ msgid "By clicking the left-bottom button showed in red on the screenshot."
 msgstr ""
 
 #: src/dialogs/qmask.xml:57(para)
-#, fuzzy
 msgid ""
 "By using the <keycombo><keycap>Shift</keycap><keycap>Q</keycap></keycombo> "
 "shortcut."
 msgstr ""
-"또는 <keycombo><keycap>Shift</keycap><keycap>B</keycap></keycombo> 키를 이용"
-"해 채우기 도구를 사용할 수 있습니다."
 
 #: src/dialogs/qmask.xml:69(title)
-#, fuzzy
 msgid "Creating a Quick Mask"
-msgstr "퀵마스트 이용하기"
+msgstr ""
 
 #: src/dialogs/qmask.xml:70(para)
 msgid ""
@@ -1201,9 +1121,8 @@ msgid "Using Quick Mask with a gradient"
 msgstr ""
 
 #: src/dialogs/qmask.xml:114(title)
-#, fuzzy
 msgid "Description"
-msgstr "설명"
+msgstr ""
 
 #: src/dialogs/qmask.xml:116(para)
 msgid ""
@@ -1247,9 +1166,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/qmask.xml:162(title)
-#, fuzzy
 msgid "Usage"
-msgstr "사용법:"
+msgstr ""
 
 #: src/dialogs/qmask.xml:165(para)
 msgid ""
@@ -1258,14 +1176,11 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/qmask.xml:171(para)
-#, fuzzy
 msgid ""
 "Activate the Quickmask using the left-bottom button in the image window. If "
 "a selection is present the mask is initialized with the content of the "
 "selection."
 msgstr ""
-"이미지창의 좌하단에 있는 버튼을 이용해 퀵마스크를 활성화시킵니다. 기존의 마스"
-"크에 이미 선택이 있다면 그것 역시 선택의 일부로 초기화됩니다."
 
 #: src/dialogs/qmask.xml:178(para)
 msgid ""
@@ -1281,28 +1196,23 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/pointer-dialog.xml:24(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/pointer-dialog.png'; "
 "md5=14041d93b7163d2d95e67b43051773d1"
 msgstr ""
-"@@image: 'images/dialogs/color-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/dialogs/pointer-dialog.xml:11(title)
-#, fuzzy
 msgid "Pointer Dialog"
-msgstr "포인터 정보 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/pointer-dialog.xml:14(secondary)
 #: src/dialogs/pointer-dialog.xml:17(primary)
-#, fuzzy
 msgid "Pointer"
-msgstr "포인터"
+msgstr ""
 
 #: src/dialogs/pointer-dialog.xml:21(title)
-#, fuzzy
 msgid "Pointer dialog"
-msgstr "포인터 정보 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/pointer-dialog.xml:29(para)
 msgid ""
@@ -1332,14 +1242,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/pointer-dialog.xml:76(title)
-#, fuzzy
 msgid "<quote>Pointer</quote> dialog options"
-msgstr "경로 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/pointer-dialog.xml:79(term)
-#, fuzzy
 msgid "Pixels"
-msgstr "픽셀"
+msgstr ""
 
 #: src/dialogs/pointer-dialog.xml:81(para)
 msgid ""
@@ -1349,18 +1257,16 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/pointer-dialog.xml:89(term)
-#, fuzzy
 msgid "Units"
-msgstr "단위"
+msgstr ""
 
 #: src/dialogs/pointer-dialog.xml:91(para)
 msgid "Shows the distance from the origin, in inches."
 msgstr ""
 
 #: src/dialogs/pointer-dialog.xml:97(term)
-#, fuzzy
 msgid "Pointer Bounding Box"
-msgstr "포인터 정보 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/pointer-dialog.xml:99(para)
 msgid ""
@@ -1383,9 +1289,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/pointer-dialog.xml:116(term)
-#, fuzzy
 msgid "Channel values"
-msgstr "값의 수"
+msgstr ""
 
 #: src/dialogs/pointer-dialog.xml:119(para)
 msgid ""
@@ -1432,9 +1337,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/pointer-dialog.xml:183(term)
-#, fuzzy
 msgid "Sample Merged"
-msgstr "표본 합치기"
+msgstr ""
 
 #: src/dialogs/pointer-dialog.xml:185(para)
 msgid ""
@@ -1445,46 +1349,36 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/patterns-dialog.xml:142(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/patterns-dialog-list.png'; "
 "md5=1b50de83584f28a601952106f33c1144"
 msgstr ""
-"@@image: 'images/dialogs/patterns-dialog-list.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/patterns-dialog.xml:151(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/patterns-dialog.png'; "
 "md5=44b8adb56e4ac14962abbcf56033a347"
 msgstr ""
-"@@image: 'images/dialogs/patterns-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/patterns-dialog.xml:299(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/patterns-dialog-clipboard.png'; "
 "md5=9d45f2fc9b893827fe2d3b2932f94335"
 msgstr ""
-"@@image: 'images/dialogs/patterns-dialog-clipboard.png'; md5=THIS FILE "
-"DOESN'T EXIST"
 
 #: src/dialogs/patterns-dialog.xml:14(title)
-#, fuzzy
 msgid "Patterns Dialog"
-msgstr "무늬 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:17(secondary)
 #: src/dialogs/patterns-dialog.xml:20(primary)
 #: src/dialogs/patterns-dialog.xml:285(primary)
-#, fuzzy
 msgid "Patterns"
-msgstr "무늬"
+msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:24(para)
 msgid ""
@@ -1552,9 +1446,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:106(title)
-#, fuzzy
 msgid "Using the pattern dialog"
-msgstr "무늬 대화상자 표시"
+msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:111(para)
 msgid ""
@@ -1582,20 +1475,17 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:138(title)
-#, fuzzy
 msgid "The Patterns dialog"
-msgstr "무늬 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:145(para)
-#, fuzzy
 msgid "List view"
-msgstr "목록 보기"
+msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:154(para)
 #: src/dialogs/brushes-dialog.xml:177(term)
-#, fuzzy
 msgid "Grid mode"
-msgstr "일반 모드"
+msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:160(term)
 msgid "Using the Patterns dialog (Grid mode)"
@@ -1643,9 +1533,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:206(phrase)
-#, fuzzy
 msgid "Delete Pattern"
-msgstr "무늬 삭제"
+msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:210(para)
 msgid ""
@@ -1657,9 +1546,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:225(phrase)
-#, fuzzy
 msgid "Refresh Patterns"
-msgstr "무늬 새로 고침"
+msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:229(para)
 msgid ""
@@ -1670,9 +1558,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:243(phrase)
-#, fuzzy
 msgid "Open pattern as image"
-msgstr "무늬를 이미지로 열기"
+msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:248(para)
 msgid ""
@@ -1690,9 +1577,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:270(title)
-#, fuzzy
 msgid "The Pattern context menu"
-msgstr "아래로 펼침 메뉴"
+msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:271(para)
 msgid ""
@@ -1702,15 +1588,13 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:280(title)
-#, fuzzy
 msgid "The Clipboard pattern"
-msgstr "무늬 사용"
+msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:282(primary)
 #: src/dialogs/patterns-dialog.xml:286(secondary)
-#, fuzzy
 msgid "Clipboard pattern"
-msgstr "무늬 사용"
+msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:288(para)
 msgid ""
@@ -1720,9 +1604,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:295(title)
-#, fuzzy
 msgid "A new <quote>Clipboard Pattern</quote>"
-msgstr "클립보드에 있는 내용을 새 무늬에 붙여 넣습니다."
+msgstr ""
 
 #: src/dialogs/patterns-dialog.xml:304(para)
 msgid ""
@@ -1734,44 +1617,35 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/path-dialog.xml:31(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/paths-dialog.png'; "
 "md5=f1a145b1a47e6d25f0a675cb40233dc1"
 msgstr ""
-"@@image: 'images/dialogs/color-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/path-dialog.xml:108(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/path-list-entry.png'; "
 "md5=a18ca5c8cceb1f2b0bd349bf066203aa"
 msgstr ""
-"@@image: 'images/dialogs/patterns-dialog-list.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/path-dialog.xml:308(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/paths-menu.png'; "
 "md5=b34d6c26fc717efd1226ad174309f250"
 msgstr ""
-"@@image: 'images/dialogs/stock-menu-left-12.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/dialogs/path-dialog.xml:13(title)
-#, fuzzy
 msgid "Paths Dialog"
-msgstr "경로 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:16(secondary)
 #: src/dialogs/path-dialog.xml:19(primary)
-#, fuzzy
 msgid "Paths"
-msgstr "경로"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:22(para)
 msgid ""
@@ -1780,9 +1654,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:28(title)
-#, fuzzy
 msgid "The <quote>Paths</quote> dialog"
-msgstr "경로 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:36(para)
 msgid ""
@@ -1821,9 +1694,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:89(title)
-#, fuzzy
 msgid "Using the Paths dialog"
-msgstr "경로 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:90(para)
 msgid ""
@@ -1845,9 +1717,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:116(phrase)
-#, fuzzy
 msgid "Path visibility"
-msgstr "항목 표시 여부"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:119(para)
 msgid ""
@@ -1859,9 +1730,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:134(phrase)
-#, fuzzy
 msgid "Chain paths"
-msgstr "경로 변형하기"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:137(para)
 msgid ""
@@ -1875,9 +1745,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:151(term)
-#, fuzzy
 msgid "Preview image"
-msgstr "미리보기 이미지 재계산"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:153(para)
 msgid ""
@@ -1886,9 +1755,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:161(term)
-#, fuzzy
 msgid "Path Name"
-msgstr "경로 이름:"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:163(para)
 msgid ""
@@ -1917,9 +1785,8 @@ msgstr ""
 #: src/dialogs/path-dialog.xml:188(title)
 #: src/dialogs/images-dialog.xml:126(term)
 #: src/dialogs/gradient-editor-dialog.xml:177(term)
-#, fuzzy
 msgid "Buttons"
-msgstr "버튼"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:189(para)
 msgid ""
@@ -1930,9 +1797,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:197(term) src/dialogs/path-dialog.xml:344(term)
-#, fuzzy
 msgid "New Path"
-msgstr "새 경로"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:199(para)
 msgid ""
@@ -1942,36 +1808,32 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:207(term) src/dialogs/path-dialog.xml:358(term)
-#, fuzzy
 msgid "Raise Path"
-msgstr "경로 올리기"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:209(para)
 msgid "See <link linkend=\"gimp-path-raise\">Raise Path</link>."
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:215(term) src/dialogs/path-dialog.xml:370(term)
-#, fuzzy
 msgid "Lower Path"
-msgstr "경로 내리기"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:217(para)
 msgid "See <link linkend=\"gimp-path-lower\">Lower Path</link>."
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:223(term) src/dialogs/path-dialog.xml:382(term)
-#, fuzzy
 msgid "Duplicate Path"
-msgstr "경로 복제"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:225(para)
 msgid "See <link linkend=\"gimp-path-duplicate\">Duplicate Path</link>."
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:231(term)
-#, fuzzy
 msgid "Path to Selection"
-msgstr "경로를 선택으로"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:233(para)
 msgid ""
@@ -1982,56 +1844,46 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:242(segtitle)
-#, fuzzy
 msgid "Modifiers"
-msgstr "바로가기 키의 조합 키"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:243(segtitle)
-#, fuzzy
 msgid "Action"
-msgstr "동작"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:245(seg)
-#, fuzzy
 msgid "None"
-msgstr "없음"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:246(seg)
-#, fuzzy
 msgid "Replace existing selection"
-msgstr "현재 선택 바꾸기"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:250(keycap)
 #: src/dialogs/path-dialog.xml:263(keycap)
-#, fuzzy
 msgid "Shift"
-msgstr "이동"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:252(seg)
-#, fuzzy
 msgid "Add to selection"
-msgstr "선택에 더하기(_A)"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:256(keycap)
 #: src/dialogs/path-dialog.xml:264(keycap)
-#, fuzzy
 msgid "Ctrl"
-msgstr "Ctrl"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:258(seg)
-#, fuzzy
 msgid "Subtract from selection"
-msgstr "선택에서 빼기(_S)"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:267(seg)
-#, fuzzy
 msgid "Intersect with selection."
-msgstr "선택의 교집합(_I)"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:273(term) src/dialogs/path-dialog.xml:441(term)
-#, fuzzy
 msgid "Selection to Path"
-msgstr "선택을 경로로 바꾸기"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:275(para)
 msgid ""
@@ -2040,18 +1892,16 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:283(term)
-#, fuzzy
 msgid "Paint along the path"
-msgstr "레이어 마스크 더하기"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:285(para)
 msgid "See <link linkend=\"gimp-path-stroke\">Stroke Path</link>."
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:291(term) src/dialogs/path-dialog.xml:394(term)
-#, fuzzy
 msgid "Delete Path"
-msgstr "경로 삭제"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:293(para) src/dialogs/path-dialog.xml:397(para)
 msgid "<guilabel>Delete Path</guilabel> deletes the current selected path."
@@ -2059,9 +1909,8 @@ msgstr ""
 
 #: src/dialogs/path-dialog.xml:303(title)
 #: src/dialogs/path-dialog.xml:305(title)
-#, fuzzy
 msgid "The <quote>Paths</quote> context menu"
-msgstr "<quote>탭 추가</quote> 하위 메뉴"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:312(para)
 msgid ""
@@ -2072,9 +1921,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:320(term)
-#, fuzzy
 msgid "Path Tool"
-msgstr "경로 도구(_T)"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:322(para)
 msgid ""
@@ -2085,9 +1933,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:332(term)
-#, fuzzy
 msgid "Edit Path Attributes"
-msgstr "경로 속성 편집"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:335(para)
 msgid ""
@@ -2130,9 +1977,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:404(term)
-#, fuzzy
 msgid "Merge Visible Paths"
-msgstr "보이는 경로 합치기"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:406(para)
 msgid ""
@@ -2207,9 +2053,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:502(term)
-#, fuzzy
 msgid "Stroke Path"
-msgstr "경로 따라 그리기"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:510(para)
 msgid ""
@@ -2243,9 +2088,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:551(term)
-#, fuzzy
 msgid "Copy Path"
-msgstr "경로 만들기"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:554(para)
 msgid ""
@@ -2266,9 +2110,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:573(term)
-#, fuzzy
 msgid "Paste Path"
-msgstr "경로 만들기"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:576(para)
 msgid ""
@@ -2279,9 +2122,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:586(term)
-#, fuzzy
 msgid "Import Path"
-msgstr "경로 만들기"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:589(para)
 msgid ""
@@ -2292,9 +2134,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/path-dialog.xml:599(term)
-#, fuzzy
 msgid "Export Path"
-msgstr "현재 경로 내보내기"
+msgstr ""
 
 #: src/dialogs/path-dialog.xml:601(para)
 msgid ""
@@ -2312,44 +2153,34 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/palettes-dialog.xml:113(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/palettes-grid-dialog.png'; "
 "md5=078e83b874976e5f142915d786b2beea"
 msgstr ""
-"@@image: 'images/dialogs/undo-history-dialog.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/palettes-dialog.xml:122(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/palettes-dialog.png'; "
 "md5=f96ee8ecd86d1f85ef47297720bde03e"
 msgstr ""
-"@@image: 'images/dialogs/palettes-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/palettes-dialog.xml:264(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/palettes-popmenu.png'; "
 "md5=3d3564e24bda5406f73ee07534955642"
 msgstr ""
-"@@image: 'images/dialogs/palettes-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/palettes-dialog.xml:329(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/palette-import-dialog.png'; "
 "md5=339f7fcce57ccce9171e02e49a4e5dff"
 msgstr ""
-"@@image: 'images/dialogs/undo-history-dialog.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -2378,23 +2209,18 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/palettes-dialog.xml:599(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/palettes-sort.png'; "
 "md5=5377b10af81c32803b20174ee6a1b73d"
 msgstr ""
-"@@image: 'images/dialogs/palettes-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/palettes-dialog.xml:643(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/palette-editor-dialog.png'; "
 "md5=9dd5b857bc647e9a9fe6f8703f71d058"
 msgstr ""
-"@@image: 'images/dialogs/undo-history-dialog.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -2405,15 +2231,13 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:14(title)
-#, fuzzy
 msgid "Palettes Dialog"
-msgstr "팔레트 대화상자"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:18(secondary)
 #: src/dialogs/palettes-dialog.xml:26(secondary)
-#, fuzzy
 msgid "Palettes"
-msgstr "팔레트"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:21(primary)
 #: src/dialogs/palettes-dialog.xml:187(primary)
@@ -2424,14 +2248,12 @@ msgstr "팔레트"
 #: src/dialogs/palettes-dialog.xml:321(primary)
 #: src/dialogs/palettes-dialog.xml:635(primary)
 #: src/dialogs/color-dialog.xml:202(term)
-#, fuzzy
 msgid "Palette"
-msgstr "팔레트"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:25(primary)
-#, fuzzy
 msgid "Color"
-msgstr "색상"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:29(para)
 msgid ""
@@ -2480,9 +2302,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:88(title)
-#, fuzzy
 msgid "Using the Palettes dialog"
-msgstr "팔레트 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:89(para)
 msgid ""
@@ -2504,19 +2325,16 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:109(title)
-#, fuzzy
 msgid "The <quote>Palettes</quote> dialog"
-msgstr "팔레트 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:116(para)
-#, fuzzy
 msgid "Grid View"
-msgstr "격자로 보기(_G)"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:125(para)
-#, fuzzy
 msgid "List View"
-msgstr "목록 보기"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:129(para)
 msgid ""
@@ -2540,22 +2358,19 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:159(title)
-#, fuzzy
 msgid "The buttons of the Palettes Dialog"
-msgstr "팔레트 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:160(para)
-#, fuzzy
 msgid ""
 "Below the palettes view, at the bottom of the dialog window, there are "
 "several buttons:"
-msgstr "도구 선택사항 대화상자에는 다음 네 가지의 버튼이 있습니다. :"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:169(phrase)
 #: src/dialogs/palettes-dialog.xml:289(term)
-#, fuzzy
 msgid "Edit Palette"
-msgstr "팔레트 편집"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:172(para)
 msgid ""
@@ -2564,14 +2379,12 @@ msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:183(phrase)
 #: src/dialogs/palettes-dialog.xml:305(term)
-#, fuzzy
 msgid "New Palette"
-msgstr "새 팔레트(_N)"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:188(secondary)
-#, fuzzy
 msgid "New palette"
-msgstr "새 팔레트(_N)"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:190(para)
 msgid ""
@@ -2581,14 +2394,12 @@ msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:201(phrase)
 #: src/dialogs/palettes-dialog.xml:445(term)
-#, fuzzy
 msgid "Duplicate Palette"
-msgstr "팔레트 복제"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:206(secondary)
-#, fuzzy
 msgid "Duplicate"
-msgstr "복제(_D)"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:208(para)
 msgid ""
@@ -2598,15 +2409,13 @@ msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:219(phrase)
 #: src/dialogs/palettes-dialog.xml:476(term)
-#, fuzzy
 msgid "Delete Palette"
-msgstr "팔레트 삭제"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:224(secondary)
 #: src/dialogs/images-dialog.xml:157(term)
-#, fuzzy
 msgid "Delete"
-msgstr "지우기"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:226(para)
 msgid ""
@@ -2616,14 +2425,12 @@ msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:237(phrase)
 #: src/dialogs/palettes-dialog.xml:489(term)
-#, fuzzy
 msgid "Refresh Palettes"
-msgstr "팔레트 새로 고침"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:242(secondary)
-#, fuzzy
 msgid "Refresh"
-msgstr "새로 고침(&R)"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:244(para)
 msgid ""
@@ -2633,15 +2440,13 @@ msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:254(title)
 #: src/dialogs/palettes-dialog.xml:260(title)
-#, fuzzy
 msgid "The <quote>Palettes</quote> pop-menu"
-msgstr "<quote>탭 추가</quote> 하위 메뉴"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:257(secondary)
 #: src/dialogs/channel-menu.xml:14(secondary)
-#, fuzzy
 msgid "Menu"
-msgstr "메뉴"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:268(para)
 msgid ""
@@ -2681,19 +2486,16 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:318(term)
-#, fuzzy
 msgid "Import Palette"
-msgstr "팔레트 가져오기"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:322(secondary)
-#, fuzzy
 msgid "Import"
-msgstr "불러오기"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:325(title)
-#, fuzzy
 msgid "The Import Palette dialog"
-msgstr "새 팔레트 가져오기"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:333(para)
 msgid ""
@@ -2710,9 +2512,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:350(term)
-#, fuzzy
 msgid "Select Source"
-msgstr "원본 선택"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:352(para)
 msgid ""
@@ -2742,9 +2543,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:385(term)
-#, fuzzy
 msgid "Palette name"
-msgstr "팔레트 이름(_N):"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:387(para)
 msgid ""
@@ -2754,9 +2554,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:395(term)
-#, fuzzy
 msgid "Number of colors"
-msgstr "색상 수"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:397(para)
 msgid ""
@@ -2769,9 +2568,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:410(term)
-#, fuzzy
 msgid "Columns"
-msgstr "열"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:412(para)
 msgid ""
@@ -2781,9 +2579,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:420(term)
-#, fuzzy
 msgid "Interval"
-msgstr "업데이트 간격"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:422(para)
 msgid ""
@@ -2813,9 +2610,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:458(term)
-#, fuzzy
 msgid "Merge Palettes"
-msgstr "팔레트 합치기"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:460(para)
 msgid ""
@@ -2824,9 +2620,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:467(term)
-#, fuzzy
 msgid "Copy Palette Location"
-msgstr "팔레트 위치 복사(_L)"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:469(para)
 msgid ""
@@ -2853,18 +2648,16 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:502(term)
-#, fuzzy
 msgid "Offset Palette..."
-msgstr "팔레트 오프셋(_O)..."
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:504(para)
 msgid "This command opens a dialog window:"
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:506(title)
-#, fuzzy
 msgid "The <quote>Offset Palette</quote>dialog"
-msgstr "색상표 대화상자 (1) 와 팔레트 대화상자"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:514(para)
 msgid ""
@@ -2880,31 +2673,27 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:524(title)
-#, fuzzy
 msgid "<quote>Offset Palette</quote> examples"
-msgstr "팔레트의 색상 오프셋"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:531(para)
 msgid "From top to bottom: original palette, Offset = 1, Offset = 2."
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:541(term)
-#, fuzzy
 msgid "Palette to gradient"
-msgstr "팔레트를 그라디언트로(_G)"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:544(primary)
 #: src/dialogs/gradient-editor-dialog.xml:18(primary)
 #: src/dialogs/gradient-editor-dialog.xml:646(primary)
 #: src/dialogs/gradient-dialog.xml:21(primary)
-#, fuzzy
 msgid "Gradient"
-msgstr "Gradient(그라디언트)"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:545(secondary)
-#, fuzzy
 msgid "From palette"
-msgstr "인덱스 팔레트"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:547(para)
 msgid ""
@@ -2915,9 +2704,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:556(term)
-#, fuzzy
 msgid "Palette to Repeating Gradient"
-msgstr "팔레트를 반복되는 그라디언트로(_R)"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:560(para)
 msgid ""
@@ -2937,9 +2725,8 @@ msgid "Top: palette. Bottom: the gradient created with the command."
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:588(term)
-#, fuzzy
 msgid "Sort Palette..."
-msgstr "팔레트 정렬(_S)..."
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:590(para)
 msgid ""
@@ -2948,9 +2735,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:595(title)
-#, fuzzy
 msgid "The <quote>Sort Palette</quote>dialog"
-msgstr "색상표 대화상자 (1) 와 팔레트 대화상자"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:605(para)
 msgid ""
@@ -2974,20 +2760,17 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:633(title)
-#, fuzzy
 msgid "Palette Editor"
-msgstr "팔레트 편집기"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:636(secondary)
 #: src/dialogs/gradient-editor-dialog.xml:19(secondary)
-#, fuzzy
 msgid "Editor"
-msgstr "편집기"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:639(title)
-#, fuzzy
 msgid "The Palette Editor"
-msgstr "팔레트 편집기"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:647(para)
 msgid ""
@@ -3023,9 +2806,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:678(title)
-#, fuzzy
 msgid "Using the Palette Editor"
-msgstr "팔레트 편집기 열기"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:679(para)
 msgid ""
@@ -3083,9 +2865,8 @@ msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:737(phrase)
 #: src/dialogs/gradient-editor-dialog.xml:206(phrase)
-#, fuzzy
 msgid "Revert"
-msgstr "복구"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:740(para)
 msgid "This operation has not yet been implemented."
@@ -3093,9 +2874,8 @@ msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:750(phrase)
 #: src/dialogs/palettes-dialog.xml:855(term)
-#, fuzzy
 msgid "Edit Color"
-msgstr "색상 편집"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:753(para)
 msgid ""
@@ -3105,9 +2885,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:766(phrase)
-#, fuzzy
 msgid "New Color from FG"
-msgstr "전경에서 새 색상(_F)"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:769(para)
 msgid ""
@@ -3117,9 +2896,8 @@ msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:780(phrase)
 #: src/dialogs/palettes-dialog.xml:879(term)
-#, fuzzy
 msgid "Delete Color"
-msgstr "색상 삭제"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:783(para)
 msgid ""
@@ -3130,9 +2908,8 @@ msgstr ""
 #: src/dialogs/palettes-dialog.xml:794(phrase)
 #: src/dialogs/palettes-dialog.xml:890(term)
 #: src/dialogs/gradient-editor-dialog.xml:222(phrase)
-#, fuzzy
 msgid "Zoom Out"
-msgstr "축소"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:797(para)
 msgid ""
@@ -3143,9 +2920,8 @@ msgstr ""
 #: src/dialogs/palettes-dialog.xml:808(phrase)
 #: src/dialogs/palettes-dialog.xml:899(term)
 #: src/dialogs/gradient-editor-dialog.xml:238(phrase)
-#, fuzzy
 msgid "Zoom In"
-msgstr "확대"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:811(para)
 msgid ""
@@ -3156,9 +2932,8 @@ msgstr ""
 #: src/dialogs/palettes-dialog.xml:823(phrase)
 #: src/dialogs/palettes-dialog.xml:908(term)
 #: src/dialogs/gradient-editor-dialog.xml:255(phrase)
-#, fuzzy
 msgid "Zoom All"
-msgstr "전체 확대"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:826(para)
 msgid ""
@@ -3188,9 +2963,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:867(term)
-#, fuzzy
 msgid "New Color from FG; New Color from BG"
-msgstr "전경색/배경색 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:871(para)
 msgid ""
@@ -3225,9 +2999,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:918(term)
-#, fuzzy
 msgid "Edit Active Palette"
-msgstr "현재 사용중인 팔레트 편집"
+msgstr ""
 
 #: src/dialogs/palettes-dialog.xml:920(para)
 msgid ""
@@ -3238,32 +3011,27 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/navigation-dialog.xml:22(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/navigation.png'; "
 "md5=dc993294cb087c2419d0ee1cd4758745"
 msgstr ""
-"@@image: 'images/dialogs/dialogs-shortcuts.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/navigation-dialog.xml:104(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/icon-navigation.png'; "
 "md5=59a3ed5d4b20665276c36c1292b11a6f"
-msgstr "@@image: 'images/using/tab-icon.png'; md5=THIS FILE DOESN'T EXIST"
+msgstr ""
 
 #: src/dialogs/navigation-dialog.xml:12(title)
 #: src/dialogs/navigation-dialog.xml:19(title)
-#, fuzzy
 msgid "Navigation Dialog"
-msgstr "네비게이션 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/navigation-dialog.xml:14(primary)
-#, fuzzy
 msgid "Navigation"
-msgstr "네비게이션"
+msgstr ""
 
 #: src/dialogs/navigation-dialog.xml:26(para)
 msgid ""
@@ -3285,9 +3053,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/navigation-dialog.xml:32(para)
-#, fuzzy
 msgid "To change the viewing region: <placeholder-1/>"
-msgstr "댓글 쓰기 권한이 없습니다."
+msgstr ""
 
 #: src/dialogs/navigation-dialog.xml:53(para)
 msgid ""
@@ -3323,14 +3090,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/navigation-dialog.xml:113(title)
-#, fuzzy
 msgid "Using the Navigation Dialog"
-msgstr "네비게이션 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/navigation-dialog.xml:116(term)
-#, fuzzy
 msgid "The slider"
-msgstr "슬라이더"
+msgstr ""
 
 #: src/dialogs/navigation-dialog.xml:118(para)
 msgid ""
@@ -3341,9 +3106,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/navigation-dialog.xml:128(term)
-#, fuzzy
 msgid "The buttons"
-msgstr "버튼"
+msgstr ""
 
 #: src/dialogs/navigation-dialog.xml:130(para)
 msgid ""
@@ -3356,9 +3120,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/navigation-dialog.xml:148(term)
-#, fuzzy
 msgid "Adjust the zoom ratio so that the image becomes fully visible"
-msgstr "이미지 전체가 보이도록 확대 비율 조정하기"
+msgstr ""
 
 #: src/dialogs/navigation-dialog.xml:152(para)
 msgid ""
@@ -3367,9 +3130,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/navigation-dialog.xml:159(term)
-#, fuzzy
 msgid "Adjust the zoom ratio so that the window is used optimally"
-msgstr "전체 창을 사용할 수 있도록 확대 비율을 조정하기"
+msgstr ""
 
 #: src/dialogs/navigation-dialog.xml:163(para)
 msgid ""
@@ -3378,9 +3140,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/navigation-dialog.xml:170(term)
-#, fuzzy
 msgid "Reduce the image window to the size of the image display"
-msgstr "이미지 화면 크기에 맞게 이미지창 줄이기"
+msgstr ""
 
 #: src/dialogs/navigation-dialog.xml:174(para)
 msgid ""
@@ -3414,35 +3175,30 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-mask.xml:11(title)
-#, fuzzy
 msgid "Layer masks"
-msgstr "레이어 마스크 적용"
+msgstr ""
 
 #: src/dialogs/layer-mask.xml:13(primary)
 #: src/dialogs/layer-mask.xml:17(secondary)
-#, fuzzy
 msgid "Layer mask"
-msgstr "레이어 마스크"
+msgstr ""
 
 #: src/dialogs/layer-mask.xml:16(primary)
 #: src/dialogs/channel-selection-mask.xml:14(primary)
 #: src/dialogs/channel-selection-mask.xml:22(primary)
 #: src/dialogs/channel-selection-mask.xml:30(primary)
-#, fuzzy
 msgid "Masks"
-msgstr "Masks(마스크)"
+msgstr ""
 
 #: src/dialogs/layer-mask.xml:21(title)
-#, fuzzy
 msgid "<quote>Add mask</quote> dialog"
-msgstr "경로 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/layer-mask.xml:31(term) src/dialogs/layer-dialog.xml:117(term)
 #: src/dialogs/channel-menu.xml:28(term)
 #: src/dialogs/channel-dialog.xml:171(title)
-#, fuzzy
 msgid "Overview"
-msgstr "개요"
+msgstr ""
 
 #: src/dialogs/layer-mask.xml:33(para)
 msgid ""
@@ -3539,14 +3295,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-mask.xml:126(term)
-#, fuzzy
 msgid "Layer Mask example"
-msgstr "다중 레이어 예제"
+msgstr ""
 
 #: src/dialogs/layer-mask.xml:129(title)
-#, fuzzy
 msgid "A layer with layer mask"
-msgstr "선택을 레이어 마스크로 교체"
+msgstr ""
 
 #: src/dialogs/layer-mask.xml:136(para)
 msgid ""
@@ -3557,9 +3311,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-mask.xml:146(title)
-#, fuzzy
 msgid "Painting the layer mask"
-msgstr "레이어 마스크 더하기"
+msgstr ""
 
 #: src/dialogs/layer-mask.xml:153(para)
 msgid ""
@@ -3570,63 +3323,50 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/layer-dialog.xml:26(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/layer-dialog.png'; "
 "md5=5c0d56a13a6e076d92c1f5f1766eefd1"
 msgstr ""
-"@@image: 'images/dialogs/color-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/layer-dialog.xml:43(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/layers_overview.png'; "
 "md5=cefd0cd52b7eadcc36aeabc98d5710b8"
 msgstr ""
-"@@image: 'images/dialogs/layers_overview.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/layer-dialog.xml:51(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/layers_example.png'; "
 "md5=854b75800e7991d8d68cda14e25d02a4"
 msgstr ""
-"@@image: 'images/dialogs/layers_example.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/layer-dialog.xml:143(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/layer-list-entry.png'; "
 "md5=eab6486f11c5bf59dfd8b26273a3508b"
 msgstr ""
-"@@image: 'images/dialogs/patterns-dialog-list.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/layer-dialog.xml:152(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/stock-eye-20.png'; "
 "md5=c18c92f7336693c8962da99cd9405df5"
 msgstr ""
-"@@image: 'images/dialogs/stock-eye-20.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/layer-dialog.xml:173(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/stock-vchain-24.png'; "
 "md5=7c1f223b72d0d77f316a2ee9b96a08fb"
 msgstr ""
-"@@image: 'images/dialogs/stock-vchain-24.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -3648,88 +3388,75 @@ msgstr ""
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/layer-dialog.xml:362(None)
 #: src/dialogs/channel-dialog.xml:342(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/dialogs-icon-new.png'; "
 "md5=fb97eb8259664a2215409aaebd765812"
-msgstr "@@image: 'images/using/tab-icon.png'; md5=THIS FILE DOESN'T EXIST"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/layer-dialog.xml:385(None)
 #: src/dialogs/channel-dialog.xml:369(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/dialogs-icon-raise.png'; "
 "md5=5c3649aa0136509029dcb889c60d1804"
-msgstr "@@image: 'images/using/tab-icon.png'; md5=THIS FILE DOESN'T EXIST"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/layer-dialog.xml:405(None)
 #: src/dialogs/channel-dialog.xml:390(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/dialogs-icon-lower.png'; "
 "md5=431df263675b1525299bf7d110198e2a"
-msgstr "@@image: 'images/using/tab-icon.png'; md5=THIS FILE DOESN'T EXIST"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/layer-dialog.xml:434(None)
 #: src/dialogs/channel-dialog.xml:411(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/stock-duplicate-16.png'; "
 "md5=af407d854b5185703e53da2a0250fabe"
 msgstr ""
-"@@image: 'images/dialogs/stock-eye-20.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/layer-dialog.xml:453(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/stock-anchor-16.png'; "
 "md5=d6fc3d211df4207d449366502013d0fa"
 msgstr ""
-"@@image: 'images/dialogs/stock-eye-20.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/layer-dialog.xml:467(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/stock-floating-selection-16.png'; "
 "md5=85b640ea0acb390ec945dcd460575295"
 msgstr ""
-"@@image: 'images/dialogs/stock-eye-20.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/layer-dialog.xml:481(None)
 #: src/dialogs/channel-dialog.xml:489(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/dialogs-icon-delete.png'; "
 "md5=75d3af3a7d407a9194c50bc85e1a99aa"
-msgstr "@@image: 'images/using/tab-icon.png'; md5=THIS FILE DOESN'T EXIST"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:11(title)
 #: src/dialogs/layer-dialog.xml:23(title)
-#, fuzzy
 msgid "Layers Dialog"
-msgstr "레이어 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:15(secondary)
-#, fuzzy
 msgid "Layers"
-msgstr "레이어"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:18(primary)
-#, fuzzy
 msgid "Layer"
-msgstr "Layer(레이어)"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:30(para)
 msgid ""
@@ -3743,19 +3470,16 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:40(title)
-#, fuzzy
 msgid "An image with layers"
-msgstr "이미지크기의 레이어"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:46(para)
-#, fuzzy
 msgid "Layers of the image"
-msgstr "이미지크기의 레이어"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:54(para)
-#, fuzzy
 msgid "Resulting image"
-msgstr "새 이미지"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:61(para)
 msgid ""
@@ -3794,9 +3518,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:114(title)
-#, fuzzy
 msgid "Using the Layer dialog"
-msgstr "파일 대화상자 포함"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:119(para)
 msgid ""
@@ -3810,28 +3533,24 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:132(term)
-#, fuzzy
 msgid "Layer attributes"
-msgstr "레이어 속성"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:134(anchor:xreflabel)
-#, fuzzy
 msgid "Visible layer"
-msgstr "레이어 올리기"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:135(anchor:xreflabel)
-#, fuzzy
 msgid "Linked layers"
-msgstr "레이어 모드"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:136(para)
 msgid "Every layer is shown in the list along with its attributes:"
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:156(phrase)
-#, fuzzy
 msgid "Layer visibility"
-msgstr "항목 표시 여부"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:159(para)
 msgid ""
@@ -3841,9 +3560,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:177(phrase)
-#, fuzzy
 msgid "Chain layers"
-msgstr "레이어 모드"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:180(para)
 msgid ""
@@ -3852,9 +3570,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:188(term)
-#, fuzzy
 msgid "Layer thumbnail"
-msgstr "레이어 마스크"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:190(para)
 msgid ""
@@ -3865,9 +3582,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:201(term)
-#, fuzzy
 msgid "Layer name"
-msgstr "레이어 이름(_L)"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:203(para)
 msgid ""
@@ -3889,9 +3605,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:229(term)
-#, fuzzy
 msgid "Layers characteristics"
-msgstr "레이어 모드"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:231(para)
 msgid ""
@@ -3914,26 +3629,22 @@ msgstr ""
 
 #: src/dialogs/layer-dialog.xml:251(term)
 #: src/dialogs/layer-dialog.xml:258(primary)
-#, fuzzy
 msgid "Opacity"
-msgstr "불투명도"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:254(primary)
 #: src/dialogs/layer-dialog.xml:276(primary)
 #: src/dialogs/layer-dialog.xml:280(primary)
-#, fuzzy
 msgid "Transparency"
-msgstr "투명도"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:255(secondary)
-#, fuzzy
 msgid "Layer opacity"
-msgstr "레이어 불투명도 지정"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:259(secondary)
-#, fuzzy
 msgid "Layers dialog"
-msgstr "레이어 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:261(para)
 msgid ""
@@ -3943,24 +3654,20 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:270(term)
-#, fuzzy
 msgid "Lock"
-msgstr "잠그기:"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:273(primary)
-#, fuzzy
 msgid "Lock alpha channel"
-msgstr "알파 채널 잠금"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:277(secondary)
-#, fuzzy
 msgid "Keep Layer Transparency"
-msgstr "배경 레이어 투명도"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:281(secondary)
-#, fuzzy
 msgid "Lock Alpha channel"
-msgstr "알파 채널 잠금"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:284(primary)
 msgid "Lock pixels"
@@ -3986,9 +3693,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:308(title)
-#, fuzzy
 msgid "Example for Locking Alpha Channel"
-msgstr "알파 채널 예제: 기본 이미지"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:315(para)
 msgid ""
@@ -4011,9 +3717,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:349(term)
-#, fuzzy
 msgid "Layer management"
-msgstr "색상 관리"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:351(para)
 msgid ""
@@ -4022,9 +3727,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:366(phrase)
-#, fuzzy
 msgid "New layer"
-msgstr "새 레이어"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:369(para)
 msgid ""
@@ -4035,9 +3739,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:389(phrase)
-#, fuzzy
 msgid "Raise layer"
-msgstr "레이어 올리기"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:392(para)
 msgid ""
@@ -4046,9 +3749,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:409(phrase)
-#, fuzzy
 msgid "Lower layer"
-msgstr "레이어 내리기"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:412(para)
 msgid ""
@@ -4065,9 +3767,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:438(phrase)
-#, fuzzy
 msgid "Duplicate layer"
-msgstr "레이어 고정시키기"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:441(para)
 msgid ""
@@ -4076,9 +3777,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:457(phrase)
-#, fuzzy
 msgid "Anchor layer"
-msgstr "레이어 고정"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:460(para)
 msgid ""
@@ -4088,18 +3788,16 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:485(phrase)
-#, fuzzy
 msgid "Delete layer"
-msgstr "레이어 삭제"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:488(para)
 msgid "Here you can delete the active layer."
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:495(term)
-#, fuzzy
 msgid "More layer functions"
-msgstr "레이어를 더 아래로 내릴 수 없습니다."
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:497(para)
 msgid ""
@@ -4116,9 +3814,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/layer-dialog.xml:511(term)
-#, fuzzy
 msgid "Clicking-and-dragging layers"
-msgstr "레이어, 채널, 경로 독"
+msgstr ""
 
 #: src/dialogs/layer-dialog.xml:513(para)
 msgid ""
@@ -4147,43 +3844,35 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/indexed-palette-dialog.xml:26(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/examples/cosmos-6.png'; "
 "md5=746397292355e7564a640b86e0b3aa5a"
 msgstr ""
-"@@image: 'images/using/gradient-examples.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/indexed-palette-dialog.xml:32(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/colormap-dialog.png'; "
 "md5=4baad04bc5ae20490663a3ea138281ce"
 msgstr ""
-"@@image: 'images/dialogs/colormap-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/indexed-palette-dialog.xml:263(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/colormap-contextmenu.png'; "
 "md5=06aeea544d13667a4cd8d96c99b4f934"
 msgstr ""
-"@@image: 'images/dialogs/colormap-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/dialogs/indexed-palette-dialog.xml:11(title)
-#, fuzzy
 msgid "Colormap Dialog"
-msgstr "색상표 대화상자"
+msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:15(secondary)
 #: src/dialogs/indexed-palette-dialog.xml:18(primary)
-#, fuzzy
 msgid "Colormap"
-msgstr "색상표"
+msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:22(title)
 msgid "An indexed image with 6 colors and its Colormap dialog"
@@ -4229,9 +3918,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:92(title)
-#, fuzzy
 msgid "Colormaps and Indexed Images"
-msgstr "인덱스된 이미지에만 색상표가 있습니다."
+msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:93(para)
 msgid ""
@@ -4274,18 +3962,16 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:131(title)
-#, fuzzy
 msgid "Using the Colormap dialog"
-msgstr "색상표 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:132(para)
 msgid "Here are the operations you can perform using this dialog:"
 msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:137(term)
-#, fuzzy
 msgid "Click on a color entry"
-msgstr "팔레트 항목 편집"
+msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:139(para)
 msgid ""
@@ -4295,9 +3981,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:147(term)
-#, fuzzy
 msgid "<keycap>Ctrl</keycap>-click on a color entry"
-msgstr "팔레트 항목 편집"
+msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:149(para)
 msgid ""
@@ -4317,9 +4002,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:167(term)
-#, fuzzy
 msgid "Color index"
-msgstr "색상 색인:"
+msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:169(para)
 msgid ""
@@ -4328,11 +4012,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:176(term)
-#, fuzzy
 msgid "HTML-Notation"
 msgstr ""
-"#rrggbb 라는 형식으로 색상을 표현하는 방법에서 \"rr\" 은 빨강, \"gg\" 는 녹"
-"색, \"bb\" 는 파랑이다. 이는 보통 웹 디자인에 많이 사용한다."
 
 #: src/dialogs/indexed-palette-dialog.xml:178(para)
 msgid ""
@@ -4344,9 +4025,8 @@ msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:188(term)
 #: src/dialogs/indexed-palette-dialog.xml:269(term)
-#, fuzzy
 msgid "Edit color"
-msgstr "색상 편집"
+msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:191(para)
 msgid ""
@@ -4357,9 +4037,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:204(phrase)
-#, fuzzy
 msgid "Add color"
-msgstr "색상표로 색상 더하기"
+msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:208(para)
 msgid ""
@@ -4397,9 +4076,8 @@ msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:253(title)
 #: src/dialogs/indexed-palette-dialog.xml:259(title)
-#, fuzzy
 msgid "The Colormap context menu"
-msgstr "아래로 펼침 메뉴"
+msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:254(para)
 msgid ""
@@ -4413,9 +4091,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:278(term)
-#, fuzzy
 msgid "Add Color from FG"
-msgstr "전경에서 새 색상(_F)"
+msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:280(para)
 msgid ""
@@ -4424,9 +4101,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:288(term)
-#, fuzzy
 msgid "Add Color from BG"
-msgstr "배경에서 색상 더하기(_A)"
+msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:290(para)
 msgid ""
@@ -4435,9 +4111,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:298(term)
-#, fuzzy
 msgid "Rearrange Colormap"
-msgstr "색상표 재배치"
+msgstr ""
 
 #: src/dialogs/indexed-palette-dialog.xml:300(para)
 msgid ""
@@ -4448,27 +4123,22 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/images-dialog.xml:27(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/images-dialog.png'; "
 "md5=d1bae13cf88bae509b4f270cbfe263f2"
 msgstr ""
-"@@image: 'images/dialogs/color-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/dialogs/images-dialog.xml:13(title)
-#, fuzzy
 msgid "Images Dialog"
-msgstr "이미지 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/images-dialog.xml:17(secondary)
-#, fuzzy
 msgid "Images"
-msgstr "이미지"
+msgstr ""
 
 #: src/dialogs/images-dialog.xml:24(title)
-#, fuzzy
 msgid "The Images dialog"
-msgstr "이미지 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/images-dialog.xml:31(para)
 msgid ""
@@ -4509,9 +4179,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/images-dialog.xml:84(title)
-#, fuzzy
 msgid "Using the Images dialog"
-msgstr "이미지 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/images-dialog.xml:85(para)
 msgid ""
@@ -4557,9 +4226,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/images-dialog.xml:137(term)
-#, fuzzy
 msgid "Raise this image displays"
-msgstr "이 이미지 창을 전면으로 올리기"
+msgstr ""
 
 #: src/dialogs/images-dialog.xml:139(para)
 msgid ""
@@ -4570,9 +4238,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/images-dialog.xml:149(term)
-#, fuzzy
 msgid "Create a new display for this image"
-msgstr "이 이미지를 새 창으로 보여주기"
+msgstr ""
 
 #: src/dialogs/images-dialog.xml:151(para)
 msgid "Duplicates the image window (not the image) of the selected image."
@@ -4591,13 +4258,10 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/histogram-dialog.xml:25(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/histogram-basic-dialog.png'; "
 "md5=07f83f91b08fd625e93bfb6efad5194c"
 msgstr ""
-"@@image: 'images/dialogs/undo-history-dialog.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -4610,48 +4274,39 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/histogram-dialog.xml:196(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/histogram-rgb.png'; "
 "md5=1164739bd115613788d7ed343ebc491d"
 msgstr ""
-"@@image: 'images/dialogs/device-status.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/histogram-dialog.xml:232(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/histogram-log.png'; "
 "md5=3b370dec59c1afb060d59fb215de6e9f"
 msgstr ""
-"@@image: 'images/dialogs/device-status.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/histogram-dialog.xml:254(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/histogram-range.png'; "
 "md5=5d813eb8e0851b385f49312b3b3b725d"
 msgstr ""
-"@@image: 'images/dialogs/device-status.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/dialogs/histogram-dialog.xml:12(title)
-#, fuzzy
 msgid "Histogram dialog"
-msgstr "히스토그램 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:15(secondary)
 #: src/dialogs/histogram-dialog.xml:18(primary)
-#, fuzzy
 msgid "Histogram"
-msgstr "HSV"
+msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:21(title)
-#, fuzzy
 msgid "The Histogram dialog"
-msgstr "히스토그램 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:29(para)
 msgid ""
@@ -4701,9 +4356,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:97(title)
-#, fuzzy
 msgid "About Histograms"
-msgstr "FileZilla 정보"
+msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:98(para)
 msgid ""
@@ -4734,9 +4388,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:123(title)
-#, fuzzy
 msgid "Using the Histogram dialog"
-msgstr "히스토그램 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:124(para)
 msgid "The active layer name is shown at the top of the dialog."
@@ -4751,13 +4404,8 @@ msgstr ""
 #: src/dialogs/channel-dialog.xml:296(primary)
 #: src/dialogs/channel-dialog.xml:300(primary)
 #: src/dialogs/channel-dialog.xml:304(primary)
-#, fuzzy
 msgid "Channel"
 msgstr ""
-"채널은 특정색을 조정해야 할때 사용된다. 예를 들어 \"적목현상\" 없애기를 할 경"
-"우에, 적색 채널에서 작업을 하는 것이 보편적인 해결책이다. 그리고 채널이 표현"
-"하는 색상의 허용이나 제한을 하는 마스크처럼 사용할 수도 있다. 이러한 채널의 "
-"속성에 반하는 필터를 사용하면 굉장히 다양하고 독특한 효과를 낼 수 있다."
 
 #: src/dialogs/histogram-dialog.xml:132(title)
 msgid "Channel options for an RGB layer with alpha channel"
@@ -4771,9 +4419,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:149(term)
-#, fuzzy
 msgid "Value"
-msgstr "명암"
+msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:151(para)
 msgid ""
@@ -4791,9 +4438,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:166(term)
-#, fuzzy
 msgid "Red, Green, Blue"
-msgstr "빨강/녹색 구성 요소의 감도"
+msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:168(para)
 msgid ""
@@ -4802,9 +4448,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:176(term)
-#, fuzzy
 msgid "Alpha"
-msgstr "Alpha(알파)"
+msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:178(para)
 msgid ""
@@ -4815,9 +4460,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:190(title)
-#, fuzzy
 msgid "Combined histograms of R, G, and B channels."
-msgstr "레이어, 채널, 경로 독"
+msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:200(para)
 msgid ""
@@ -4847,9 +4491,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:247(term)
-#, fuzzy
 msgid "Range Setting"
-msgstr "%s (%s) 설정하는 중입니다 ...\n"
+msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:250(title)
 msgid "Dialog aspect after range fixing."
@@ -4881,9 +4524,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:287(term)
-#, fuzzy
 msgid "Statistics"
-msgstr "통계"
+msgstr ""
 
 #: src/dialogs/histogram-dialog.xml:289(para)
 msgid ""
@@ -4930,68 +4572,50 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/gradient-editor-dialog.xml:27(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/gradient-editor-dialog.png'; "
 "md5=24917bba5d6cce3a3866624a16aea813"
 msgstr ""
-"@@image: 'images/dialogs/undo-history-dialog.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/gradient-editor-dialog.xml:278(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/gradient-editor-popup-menu.png'; "
 "md5=226375ddf2b404c7869c7c7e589c7136"
 msgstr ""
-"@@image: 'images/using/color-gradient-pencil.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/gradient-editor-dialog.xml:302(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/gradient-editor-colortype-submenu.png'; "
 "md5=fff86e0f31cbe9b4405f9db69cf8a87f"
 msgstr ""
-"@@image: 'images/using/color-gradient-pencil.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/gradient-editor-dialog.xml:344(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/gradient-editor-colorfrom.png'; "
 "md5=e1d47f3cb690b6bea586b8dfcc5d55cf"
 msgstr ""
-"@@image: 'images/using/color-gradient-pencil.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/gradient-editor-dialog.xml:445(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/gradient-editor-blend.png'; "
 "md5=41bc455a12f4d7fb615b213c2dc543e5"
 msgstr ""
-"@@image: 'images/using/color-gradient-pencil.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/gradient-editor-dialog.xml:512(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/gradient-editor-color.png'; "
 "md5=52ffeffc712de04d7132d142fa2240a0"
 msgstr ""
-"@@image: 'images/using/color-gradient-pencil.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
@@ -5018,14 +4642,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:14(title)
-#, fuzzy
 msgid "The Gradient Editor"
-msgstr "그라디언트 편집기"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:23(title)
-#, fuzzy
 msgid "The gradient editor"
-msgstr "그라디언트 편집기"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:31(para)
 msgid ""
@@ -5043,9 +4665,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:46(title)
-#, fuzzy
 msgid "How to Activate the Gradient Editor"
-msgstr "선택에 그라디언트 사용하기"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:47(para)
 msgid "You can activate the Gradient Editor in several ways:"
@@ -5076,24 +4697,21 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:85(title)
-#, fuzzy
 msgid "Display"
-msgstr "화면"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:88(term)
 #: src/dialogs/edit-template-dialog.xml:44(term)
-#, fuzzy
 msgid "Name"
-msgstr "이름"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:90(para)
 msgid "In the name area, you have the tab menu button (the small triangle)."
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:97(term)
-#, fuzzy
 msgid "The Gradient Preview Window"
-msgstr "미리보기 창 새로고침"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:99(para)
 msgid ""
@@ -5152,9 +4770,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:158(term)
-#, fuzzy
 msgid "Scrollbar"
-msgstr "스크롤 막대 간격"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:160(para)
 msgid ""
@@ -5163,9 +4780,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:167(term)
-#, fuzzy
 msgid "Feedback Area"
-msgstr "영향을 받는 영역"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:169(para)
 msgid ""
@@ -5175,9 +4791,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:179(para)
-#, fuzzy
 msgid "At the bottom of the dialog appear five buttons:"
-msgstr "도구 선택사항 대화상자에는 다음 네 가지의 버튼이 있습니다. :"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:191(para)
 msgid ""
@@ -5231,19 +4846,16 @@ msgid "The following commands can be found in the menu:"
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:292(title)
-#, fuzzy
 msgid "Editing endpoint's color"
-msgstr "왼쪽 끝점의 색상(_E)..."
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:294(term)
-#, fuzzy
 msgid "Left/Right color type"
-msgstr "왼쪽 색상 불러오기(_L)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:296(para)
-#, fuzzy
 msgid "This command opens a submenu:"
-msgstr "이 프로토콜은 명령어를 지원하지 않음"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:298(title)
 msgid "The Left/Right color type sub-menu"
@@ -5258,9 +4870,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:316(term)
-#, fuzzy
 msgid "Left [Right] Endpoint's Color"
-msgstr "왼쪽 인접 구획의 오른쪽 끝점(_L)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:320(para)
 msgid ""
@@ -5276,9 +4887,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:335(term)
-#, fuzzy
 msgid "Load Left [Right] Color From"
-msgstr "왼쪽에서 오른쪽으로 돌기"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:340(title)
 msgid "The <quote>Load Color From</quote> submenu"
@@ -5292,9 +4902,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:355(term)
-#, fuzzy
 msgid "Left Neighbor's Right Endpoint"
-msgstr "왼쪽 인접 구획의 오른쪽 끝점(_L)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:357(para)
 msgid ""
@@ -5304,9 +4913,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:365(term)
-#, fuzzy
 msgid "Right Endpoint"
-msgstr "오른쪽 끝점 색상(_R)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:367(para)
 msgid ""
@@ -5315,9 +4923,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:374(term)
-#, fuzzy
 msgid "FG/BG color"
-msgstr "전경/배경색"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:376(para)
 msgid ""
@@ -5327,9 +4934,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:385(term)
-#, fuzzy
 msgid "RGBA slots"
-msgstr "RGBA (%0.3f, %0.3f, %0.3f, %0.3f)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:387(para)
 msgid ""
@@ -5340,9 +4946,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:400(term)
-#, fuzzy
 msgid "Save Left [Right] Color To"
-msgstr "오른쪽 색상 저장(_V)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:404(para)
 msgid ""
@@ -5352,9 +4957,8 @@ msgstr ""
 
 #. 2013-03-29
 #: src/dialogs/gradient-editor-dialog.xml:412(term)
-#, fuzzy
 msgid "Click and drag colors"
-msgstr "팔레트 항목 편집"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:419(para)
 msgid "to an endpoint (a black triangle), to set left [right] colors,"
@@ -5377,14 +4981,12 @@ msgid "Blending and coloring functions for segment"
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:437(term)
-#, fuzzy
 msgid "Blending Function for Segment"
-msgstr "구획의 혼합 함수(_B)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:441(title)
-#, fuzzy
 msgid "The Blending Function submenu"
-msgstr "구획의 혼합 함수(_B)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:449(para)
 msgid ""
@@ -5394,9 +4996,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:457(term)
-#, fuzzy
 msgid "Linear"
-msgstr "선형"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:459(para)
 msgid ""
@@ -5405,18 +5006,16 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:466(term)
-#, fuzzy
 msgid "Curved"
-msgstr "커브(_C)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:468(para)
 msgid "Gradient varies more quickly on ends of the range than on its middle."
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:475(term)
-#, fuzzy
 msgid "Sinusoidal"
-msgstr "사인곡선"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:477(para)
 msgid ""
@@ -5425,9 +5024,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:484(term)
-#, fuzzy
 msgid "Spherical (increasing)"
-msgstr "모양대로 (구형)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:486(para)
 msgid ""
@@ -5435,23 +5033,20 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:493(term)
-#, fuzzy
 msgid "Spherical (decreasing)"
-msgstr "구형 (감소)(_D)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:495(para)
 msgid "Gradient varies more quickly on the right than on the left."
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:504(term)
-#, fuzzy
 msgid "Coloring Type for Segment"
-msgstr "구획의 배색 유형(_T)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:508(title)
-#, fuzzy
 msgid "The Coloring Type submenu"
-msgstr "구획의 배색 유형(_T)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:516(para)
 msgid ""
@@ -5460,14 +5055,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:525(title)
-#, fuzzy
 msgid "Modifying segments"
-msgstr "구획 수"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:527(term)
-#, fuzzy
 msgid "Flip Segment"
-msgstr "구획 뒤집기(_F)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:530(para)
 msgid ""
@@ -5476,9 +5069,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:538(term)
-#, fuzzy
 msgid "Replicate Segment"
-msgstr "구획 복제"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:541(para)
 msgid ""
@@ -5487,9 +5079,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:549(term)
-#, fuzzy
 msgid "Split Segment at Midpoint"
-msgstr "중점에서 구획 분리(_M)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:552(para)
 msgid ""
@@ -5498,9 +5089,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:559(term)
-#, fuzzy
 msgid "Split Segment Uniformly"
-msgstr "균등한 구획 분할"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:562(para)
 msgid ""
@@ -5509,9 +5099,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:570(term)
-#, fuzzy
 msgid "Delete Segment"
-msgstr "구획 삭제하기"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:573(para)
 msgid ""
@@ -5521,9 +5110,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:581(term)
-#, fuzzy
 msgid "Re-center Segment's midpoint"
-msgstr "구획의 중점을 다시 가운데로(_C)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:584(para)
 msgid ""
@@ -5532,9 +5120,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:592(term)
-#, fuzzy
 msgid "Re-distribute Handles in Segment"
-msgstr "구획의 조절점 재배치(_H)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:595(para)
 msgid ""
@@ -5543,18 +5130,16 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:604(title)
-#, fuzzy
 msgid "Blending colors"
-msgstr "색상 교환"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:605(para)
 msgid "These options are available only if more than one segment are selected."
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:610(term)
-#, fuzzy
 msgid "Blend Endpoints' Colors"
-msgstr "끝점의 불투명도 혼합(_Y)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:613(para)
 msgid ""
@@ -5563,9 +5148,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:621(term)
-#, fuzzy
 msgid "Blend Endpoints' Opacity"
-msgstr "끝점의 불투명도 혼합(_Y)"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:624(para)
 msgid ""
@@ -5580,21 +5164,18 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:640(title)
-#, fuzzy
 msgid "Using example for the Gradient Editor"
-msgstr "그라디언트 편집기의 그라디언트를 이용해 색상맵 만들기"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:642(primary)
-#, fuzzy
 msgid "Tutorials"
-msgstr "강좌"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:643(secondary)
 #: src/dialogs/gradient-editor-dialog.xml:647(secondary)
 #: src/dialogs/gradient-editor-dialog.xml:666(title)
-#, fuzzy
 msgid "New gradient"
-msgstr "새 그라디언트"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:649(para)
 msgid ""
@@ -5617,9 +5198,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:682(title)
-#, fuzzy
 msgid "Gradient with three segments"
-msgstr "균등한 그라디언트 구획 분할"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:689(para)
 msgid ""
@@ -5636,9 +5216,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:707(title)
-#, fuzzy
 msgid "First segment colored"
-msgstr "채색된 배경 입체"
+msgstr ""
 
 #: src/dialogs/gradient-editor-dialog.xml:714(para)
 msgid "Red has been chosen for left endpoint and yellow for the right enpoint."
@@ -5653,37 +5232,30 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/gradient-dialog.xml:29(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/gradient-dialog.png'; "
 "md5=fd97d81a8a764a6828b64f495b9b30e5"
 msgstr ""
-"@@image: 'images/dialogs/color-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/gradient-dialog.xml:254(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/gradient-menu.png'; "
 "md5=acd5e08cac1e0335f83edd6acb6078e0"
 msgstr ""
-"@@image: 'images/dialogs/stock-menu-left-12.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/dialogs/gradient-dialog.xml:14(title)
-#, fuzzy
 msgid "Gradients Dialog"
-msgstr "그라디언트 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:18(secondary)
-#, fuzzy
 msgid "Gradient Dialog"
-msgstr "그라디언트 대화상자 표시"
+msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:26(title)
-#, fuzzy
 msgid "The screenshot illustrates the Gradients dialog"
-msgstr "이 화면은 <acronym>김프</acronym>의 표준 화면입니다."
+msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:33(para)
 msgid ""
@@ -5760,13 +5332,10 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:122(para)
-#, fuzzy
 msgid ""
 "From the image by using the <keycombo><keycap>Ctrl</keycap><keycap>G</"
 "keycap></keycombo> shortcut."
 msgstr ""
-"또는 <keycombo><keycap>Shift</keycap><keycap>B</keycap></keycombo> 키를 이용"
-"해 채우기 도구를 사용할 수 있습니다."
 
 #: src/dialogs/gradient-dialog.xml:127(para)
 msgid ""
@@ -5778,9 +5347,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:140(title)
-#, fuzzy
 msgid "Using the <quote>Gradients</quote> dialog"
-msgstr "<quote>파일 열기</quote> 대화상자"
+msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:141(para)
 msgid ""
@@ -5827,9 +5395,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:187(term)
-#, fuzzy
 msgid "Edit Gradient"
-msgstr "그라디언트 편집"
+msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:189(para)
 msgid ""
@@ -5838,9 +5405,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:196(term)
-#, fuzzy
 msgid "New Gradient"
-msgstr "새 그라디언트"
+msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:199(para)
 msgid ""
@@ -5853,9 +5419,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:211(term)
-#, fuzzy
 msgid "Duplicate Gradient"
-msgstr "그라디언트 복제"
+msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:214(para)
 msgid ""
@@ -5864,9 +5429,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:221(term)
-#, fuzzy
 msgid "Delete Gradient"
-msgstr "그라디언트 삭제"
+msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:224(para)
 msgid ""
@@ -5875,9 +5439,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:231(term)
-#, fuzzy
 msgid "Refresh Gradients"
-msgstr "그라디언트 새로 고침"
+msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:234(para)
 msgid ""
@@ -5894,18 +5457,16 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:251(title)
-#, fuzzy
 msgid "The Gradients Menu"
-msgstr "그라디언트 메뉴"
+msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:258(para)
 msgid "The gradient menu also gives you some additional functions:"
 msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:263(term)
-#, fuzzy
 msgid "Save as POV-Ray..."
-msgstr "'%s'을(를) POV-Ray로 저장"
+msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:265(para)
 msgid ""
@@ -5914,9 +5475,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:273(term)
-#, fuzzy
 msgid "Copy Gradient Location"
-msgstr "그라데이션 위치 복사(_L)"
+msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:275(para)
 msgid ""
@@ -5925,9 +5485,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:282(term)
-#, fuzzy
 msgid "Custom Gradient..."
-msgstr "사용자 그라디언트"
+msgstr ""
 
 #: src/dialogs/gradient-dialog.xml:284(para)
 msgid ""
@@ -5990,40 +5549,32 @@ msgstr ""
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/fonts-dialog.xml:25(None)
 #: src/dialogs/fonts-dialog.xml:118(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/fonts-dialog.png'; "
 "md5=1344dc7f197501314d60a1ba4ac9b813"
 msgstr ""
-"@@image: 'images/dialogs/color-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/fonts-dialog.xml:109(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/fonts-grid-dialog.png'; "
 "md5=ba4041cea3849d63f79cde3958c7314f"
 msgstr ""
-"@@image: 'images/dialogs/undo-history-dialog.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #: src/dialogs/fonts-dialog.xml:10(title)
-#, fuzzy
 msgid "Fonts Dialog"
-msgstr "글꼴 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/fonts-dialog.xml:14(secondary)
 #: src/dialogs/fonts-dialog.xml:17(primary)
-#, fuzzy
 msgid "Fonts"
-msgstr "글꼴"
+msgstr ""
 
 #: src/dialogs/fonts-dialog.xml:22(title)
 #: src/dialogs/fonts-dialog.xml:105(title)
-#, fuzzy
 msgid "The Fonts dialog"
-msgstr "글꼴 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/fonts-dialog.xml:30(para)
 msgid ""
@@ -6071,9 +5622,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/fonts-dialog.xml:91(title)
-#, fuzzy
 msgid "Using the Fonts dialog"
-msgstr "글꼴 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/fonts-dialog.xml:92(para)
 msgid ""
@@ -6085,14 +5635,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/fonts-dialog.xml:112(para)
-#, fuzzy
 msgid "Dialog in Grid View"
-msgstr "목록으로 보기, 격자로 보기"
+msgstr ""
 
 #: src/dialogs/fonts-dialog.xml:121(para)
-#, fuzzy
 msgid "Dialog in List View"
-msgstr "목록으로 보기, 격자로 보기"
+msgstr ""
 
 #: src/dialogs/fonts-dialog.xml:132(para)
 msgid ""
@@ -6105,9 +5653,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/fonts-dialog.xml:148(phrase)
-#, fuzzy
 msgid "Refresh font list"
-msgstr "글꼴 목록 새로 고침"
+msgstr ""
 
 #: src/dialogs/fonts-dialog.xml:151(para)
 msgid ""
@@ -6158,9 +5705,8 @@ msgstr ""
 
 #: src/dialogs/export-file-dialog.xml:8(title)
 #: src/dialogs/export-file-dialog.xml:11(primary)
-#, fuzzy
 msgid "Export File"
-msgstr "파일 내보내기"
+msgstr ""
 
 #: src/dialogs/export-file-dialog.xml:14(para)
 msgid ""
@@ -6178,14 +5724,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/export-file-dialog.xml:30(title)
-#, fuzzy
 msgid "Export Image Dialog"
-msgstr "<quote>파일 열기</quote> 대화상자"
+msgstr ""
 
 #: src/dialogs/export-file-dialog.xml:40(title)
-#, fuzzy
 msgid "The Export Image Dialog"
-msgstr "이미지 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/export-file-dialog.xml:41(para)
 msgid ""
@@ -6208,9 +5752,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/export-file-dialog.xml:68(title)
-#, fuzzy
 msgid "Exporting"
-msgstr "파일 내보내기"
+msgstr ""
 
 #: src/dialogs/export-file-dialog.xml:69(para)
 msgid ""
@@ -6235,32 +5778,26 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/error-console.xml:69(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/error-console.png'; "
 "md5=149cdfc221fce88d0a1ceb55ea7b87fc"
 msgstr ""
-"@@image: 'images/dialogs/device-status.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/error-console.xml:119(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/error-console-record.png'; "
 "md5=c7827c2e9c7f2db5c3dbce429b01d1c2"
 msgstr ""
-"@@image: 'images/dialogs/device-status.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/dialogs/error-console.xml:10(title)
-#, fuzzy
 msgid "Error Console"
-msgstr "오류 콘솔"
+msgstr ""
 
 #: src/dialogs/error-console.xml:13(primary)
-#, fuzzy
 msgid "Error console"
-msgstr "오류 콘솔"
+msgstr ""
 
 #: src/dialogs/error-console.xml:16(para)
 msgid ""
@@ -6290,19 +5827,16 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/error-console.xml:64(title)
-#, fuzzy
 msgid "The <quote>Error Console</quote> Dialog"
-msgstr "붓 도구 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/error-console.xml:66(title)
-#, fuzzy
 msgid "<quote>Error Console</quote> Dialog window"
-msgstr "붓 도구 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/error-console.xml:79(phrase)
-#, fuzzy
 msgid "Clear errors"
-msgstr "히스토리 비우기"
+msgstr ""
 
 #: src/dialogs/error-console.xml:82(para)
 msgid "This button lets you delete all errors in the log."
@@ -6313,9 +5847,8 @@ msgid "You can't <quote>undo</quote> this action."
 msgstr ""
 
 #: src/dialogs/error-console.xml:97(phrase)
-#, fuzzy
 msgid "Save all errors"
-msgstr "모든 오류 내용 선택"
+msgstr ""
 
 #: src/dialogs/error-console.xml:100(para)
 msgid ""
@@ -6333,9 +5866,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/error-console.xml:113(title)
-#, fuzzy
 msgid "<quote>Save Error Log to file</quote> Dialog window"
-msgstr "색상표 대화상자 (1) 와 팔레트 대화상자"
+msgstr ""
 
 #: src/dialogs/error-console.xml:127(para)
 msgid ""
@@ -6347,43 +5879,35 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/edit-template-dialog.xml:28(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/dialogs-templates-edit.png'; "
 "md5=d6186700e544fe61a797da1c8ea5ed42"
 msgstr ""
-"@@image: 'images/dialogs/device-status.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/edit-template-dialog.xml:106(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/dialogs-templates-edit-advanced.png'; "
 "md5=1db57d3174093a66d2d590141b1089ef"
 msgstr ""
-"@@image: 'images/dialogs/device-status.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/dialogs/edit-template-dialog.xml:13(title)
 #: src/dialogs/edit-template-dialog.xml:20(primary)
-#, fuzzy
 msgid "Edit Template"
-msgstr "서식 편집"
+msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:16(primary)
-#, fuzzy
 msgid "Template"
-msgstr "템플릿"
+msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:17(secondary)
-#, fuzzy
 msgid "Edit"
-msgstr "편집"
+msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:24(title)
-#, fuzzy
 msgid "The Edit Template dialog"
-msgstr "선택한 서식 편집"
+msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:33(para)
 msgid ""
@@ -6397,18 +5921,16 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:42(title)
-#, fuzzy
 msgid "Options"
-msgstr "옵션"
+msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:46(para)
 msgid "In this text box, you can modify the displayed template name."
 msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:52(term)
-#, fuzzy
 msgid "Icon"
-msgstr "아이콘"
+msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:54(para)
 msgid ""
@@ -6417,9 +5939,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:61(term)
-#, fuzzy
 msgid "Image size"
-msgstr "이미지 크기"
+msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:63(para)
 msgid ""
@@ -6439,9 +5960,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:84(term)
-#, fuzzy
 msgid "Portrait/Landscape buttons"
-msgstr "도움말 버튼 표시(_B)"
+msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:86(para)
 msgid ""
@@ -6453,14 +5973,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:99(title)
-#, fuzzy
 msgid "Advanced Options"
-msgstr "고급  옵션"
+msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:102(title)
-#, fuzzy
 msgid "The <quote>Advanced Options</quote> dialog"
-msgstr "도구 옵션 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:111(para)
 msgid ""
@@ -6468,9 +5986,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:116(term)
-#, fuzzy
 msgid "X and Y resolution"
-msgstr "해상도 저장"
+msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:118(para)
 msgid ""
@@ -6487,9 +6004,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:137(term)
-#, fuzzy
 msgid "Colorspace"
-msgstr "색 공간"
+msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:139(para)
 msgid ""
@@ -6500,9 +6016,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:148(term)
-#, fuzzy
 msgid "Fill"
-msgstr "채우기"
+msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:150(para)
 msgid ""
@@ -6530,9 +6045,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:182(term)
-#, fuzzy
 msgid "Comment"
-msgstr "설명"
+msgstr ""
 
 #: src/dialogs/edit-template-dialog.xml:184(para)
 msgid ""
@@ -6544,28 +6058,22 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/document-dialog.xml:25(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/history.png'; md5=41c0ae5d745c7bcccc6dda4f9dc813a8"
 msgstr ""
-"@@image: 'images/dialogs/undo-history-dialog.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #: src/dialogs/document-dialog.xml:11(title)
-#, fuzzy
 msgid "Document History Dialog"
-msgstr "최근 문서 이력 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/document-dialog.xml:15(secondary)
 #: src/dialogs/document-dialog.xml:18(primary)
-#, fuzzy
 msgid "Document History"
-msgstr "문서 이력"
+msgstr ""
 
 #: src/dialogs/document-dialog.xml:22(title)
-#, fuzzy
 msgid "Document History dialog"
-msgstr "최근 문서 이력 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/document-dialog.xml:29(para)
 msgid ""
@@ -6603,9 +6111,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/document-dialog.xml:83(title)
-#, fuzzy
 msgid "Using the Document History dialog"
-msgstr "최근 문서 이력 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/document-dialog.xml:84(para)
 msgid "The scroll bar allows you to browse all images you have opened before."
@@ -6644,10 +6151,10 @@ msgstr ""
 #: src/dialogs/document-dialog.xml:125(para)
 msgid ""
 "Use the <emphasis>Clear the entire file history</"
-"emphasis><guiicon><inlinegraphic fileref=\"images/dialogs/stock-edit-"
-"clear-16.png\"/></guiicon> button or <guimenuitem>Clear History</"
-"guimenuitem> command of the dialog's context menu, to remove all the files "
-"from the history."
+"emphasis><guiicon><inlinegraphic fileref=\"images/dialogs/stock-edit-clear-"
+"16.png\"/></guiicon> button or <guimenuitem>Clear History</guimenuitem> "
+"command of the dialog's context menu, to remove all the files from the "
+"history."
 msgstr ""
 
 #: src/dialogs/document-dialog.xml:134(para)
@@ -6673,23 +6180,20 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/dialogs-misc.xml:10(title)
-#, fuzzy
 msgid "Misc. Dialogs"
-msgstr "기타 대화 상자"
+msgstr ""
 
 #: src/dialogs/dialogs-management.xml:8(title)
 msgid "Image Management Related Dialogs"
 msgstr ""
 
 #: src/dialogs/dialogs_introduction.xml:8(title)
-#, fuzzy
 msgid "Dialog Introduction"
-msgstr "개인 정보"
+msgstr ""
 
 #: src/dialogs/dialogs_introduction.xml:11(secondary)
-#, fuzzy
 msgid "Introduction"
-msgstr "소개"
+msgstr ""
 
 #: src/dialogs/dialogs_introduction.xml:13(para)
 msgid ""
@@ -6699,35 +6203,29 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/dialogs-content.xml:9(title)
-#, fuzzy
 msgid "Image-content Related Dialogs"
-msgstr "이미지 내용의 크기 바꾸기"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/device-status-dialog.xml:22(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/device-status.png'; "
 "md5=dcceef90f19bb9a5ef185ac7c7cd0d58"
 msgstr ""
-"@@image: 'images/dialogs/device-status.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/dialogs/device-status-dialog.xml:10(title)
-#, fuzzy
 msgid "Device Status Dialog"
-msgstr "장치 상태 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/device-status-dialog.xml:13(secondary)
 #: src/dialogs/device-status-dialog.xml:16(primary)
-#, fuzzy
 msgid "Device Status"
-msgstr "장치 상태"
+msgstr ""
 
 #: src/dialogs/device-status-dialog.xml:19(title)
-#, fuzzy
 msgid "The <quote>Device Status</quote> Dialog"
-msgstr "경로 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/device-status-dialog.xml:26(para)
 msgid ""
@@ -6771,96 +6269,79 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/color-dialog.xml:27(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/color-dialog.png'; "
 "md5=e612841ab5e008375cbb11cba0e57462"
 msgstr ""
-"@@image: 'images/dialogs/color-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/color-dialog.xml:136(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/color-CMYK.png'; "
 "md5=7d40e900ffe71665c72c8ecc1a2bf5c8"
-msgstr "@@image: 'images/dialogs/color-CMYK.png'; md5=THIS FILE DOESN'T EXIST"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/color-dialog.xml:159(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/color-triangle.png'; "
 "md5=ff1aa542f408b24288cfd8fb29c234a5"
 msgstr ""
-"@@image: 'images/dialogs/color-triangle.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/color-dialog.xml:183(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/color-watercolor.png'; "
 "md5=087324e1a6ac91f1c926a61ba18e5ff8"
 msgstr ""
-"@@image: 'images/dialogs/color-watercolor.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/color-dialog.xml:212(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/color-palette.png'; "
 "md5=456c248b563d0ae326eafece809371cb"
 msgstr ""
-"@@image: 'images/dialogs/color-palette.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/color-dialog.xml:234(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/color-scale.png'; "
 "md5=ee0db374cdbc8f9584b6d0b69be73bfb"
-msgstr "@@image: 'images/dialogs/color-scale.png'; md5=THIS FILE DOESN'T EXIST"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/color-dialog.xml:271(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/css-keywords.png'; "
 "md5=a4ceed36f19b9e67a39f379f4ae02815"
 msgstr ""
-"@@image: 'images/dialogs/css-keywords.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/color-dialog.xml:290(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/html_notation-menu.png'; "
 "md5=d4bfc39d8952808143fbadfc49c0477c"
 msgstr ""
-"@@image: 'images/dialogs/stock-menu-left-12.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/dialogs/color-dialog.xml:13(title)
-#, fuzzy
 msgid "FG/BG Color Dialog"
-msgstr "전경색/배경색 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/color-dialog.xml:17(secondary)
 #: src/dialogs/color-dialog.xml:20(primary)
-#, fuzzy
 msgid "Color Selector"
-msgstr "색상 선택기"
+msgstr ""
 
 #: src/dialogs/color-dialog.xml:24(title)
-#, fuzzy
 msgid "The FG/BG Color dialog"
-msgstr "전경색/배경색 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/color-dialog.xml:31(para)
 msgid ""
@@ -6930,9 +6411,8 @@ msgid "Using the <quote>FG/BG color</quote> dialog"
 msgstr ""
 
 #: src/dialogs/color-dialog.xml:116(term)
-#, fuzzy
 msgid "GIMP Selector"
-msgstr "김프 선택 도구"
+msgstr ""
 
 #: src/dialogs/color-dialog.xml:118(para)
 msgid ""
@@ -6952,19 +6432,16 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/color-dialog.xml:149(term)
-#, fuzzy
 msgid "Triangle"
-msgstr "삼각형"
+msgstr ""
 
 #: src/dialogs/color-dialog.xml:152(primary)
-#, fuzzy
 msgid "Triangle Color Selector"
-msgstr "삼각 색상 선택기"
+msgstr ""
 
 #: src/dialogs/color-dialog.xml:155(title)
-#, fuzzy
 msgid "The triangle selector"
-msgstr "삼각 선택기"
+msgstr ""
 
 #: src/dialogs/color-dialog.xml:163(para)
 msgid ""
@@ -6975,15 +6452,13 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/color-dialog.xml:173(term)
-#, fuzzy
 msgid "Watercolor"
-msgstr "수채화"
+msgstr ""
 
 #: src/dialogs/color-dialog.xml:176(primary)
 #: src/dialogs/color-dialog.xml:179(title)
-#, fuzzy
 msgid "Watercolor Color Selector"
-msgstr "수채화 형태의 색 선택기"
+msgstr ""
 
 #: src/dialogs/color-dialog.xml:187(para)
 msgid ""
@@ -6999,9 +6474,8 @@ msgstr ""
 
 #: src/dialogs/color-dialog.xml:205(primary)
 #: src/dialogs/color-dialog.xml:208(title)
-#, fuzzy
 msgid "Palette Color Selector"
-msgstr "팔레트 색상 선택기"
+msgstr ""
 
 #: src/dialogs/color-dialog.xml:216(para)
 msgid ""
@@ -7013,14 +6487,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/color-dialog.xml:227(term)
-#, fuzzy
 msgid "Scales"
-msgstr "배율"
+msgstr ""
 
 #: src/dialogs/color-dialog.xml:230(title)
-#, fuzzy
 msgid "The Scales selector"
-msgstr "배율 선택기"
+msgstr ""
 
 #: src/dialogs/color-dialog.xml:238(para)
 msgid ""
@@ -7029,9 +6501,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/color-dialog.xml:245(term)
-#, fuzzy
 msgid "Color picker"
-msgstr "색상 추출도구"
+msgstr ""
 
 #: src/dialogs/color-dialog.xml:247(para)
 msgid ""
@@ -7042,16 +6513,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/color-dialog.xml:256(term)
-#, fuzzy
 msgid "HTML Notation"
 msgstr ""
-"#rrggbb 라는 형식으로 색상을 표현하는 방법에서 \"rr\" 은 빨강, \"gg\" 는 녹"
-"색, \"bb\" 는 파랑이다. 이는 보통 웹 디자인에 많이 사용한다."
 
 #: src/dialogs/color-dialog.xml:259(primary)
-#, fuzzy
 msgid "CSS Keywords"
-msgstr "CSS 스타일시트"
+msgstr ""
 
 #: src/dialogs/color-dialog.xml:261(para)
 msgid ""
@@ -7061,9 +6528,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/color-dialog.xml:267(title)
-#, fuzzy
 msgid "CSS keywords example"
-msgstr "다중 레이어 예제"
+msgstr ""
 
 #: src/dialogs/color-dialog.xml:275(para)
 msgid ""
@@ -7102,45 +6568,33 @@ msgstr ""
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/channel-selection-mask.xml:109(None)
 #: src/dialogs/channel-dialog.xml:437(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/stock-selection-16.png'; "
 "md5=7f9f92720f665c48096c29c9ca307df8"
 msgstr ""
-"@@image: 'images/dialogs/stock-eye-20.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/dialogs/channel-selection-mask.xml:10(title)
 #: src/dialogs/channel-selection-mask.xml:11(anchor:xreflabel)
-#, fuzzy
 msgid "Selection masks"
-msgstr "마스크 결합"
+msgstr ""
 
 #: src/dialogs/channel-selection-mask.xml:15(secondary)
 #: src/dialogs/channel-selection-mask.xml:19(secondary)
-#, fuzzy
 msgid "Selection mask"
-msgstr "선택 마스크"
+msgstr ""
 
 #: src/dialogs/channel-selection-mask.xml:18(primary)
-#, fuzzy
 msgid "Selection"
 msgstr ""
-"떠있는 선택을 고정시키는 방법에는 두 가지가 있다. 가장 유용한 첫번째는 떠있"
-"는 선택을 새로운 레이어로 바꾸는 것이다. 이것은 떠있는 선택을 활성화시킨 상태"
-"에서 새로운 레이어를 만들면 된다. 두번째 방법은 떠있는 선택을 기존의 레이어"
-"에 고정시켜 해당 레이어에 포함시키는 것이다. 이것은 떠있는 선택의 바깥 부분"
-"을 클릭하면 된다. 그러면 떠있는 선택은 활성화된 레이어에 합쳐진다."
 
 #: src/dialogs/channel-selection-mask.xml:23(secondary)
 #: src/dialogs/channel-selection-mask.xml:27(secondary)
-#, fuzzy
 msgid "Channel mask"
-msgstr "Channel"
+msgstr ""
 
 #: src/dialogs/channel-selection-mask.xml:31(secondary)
-#, fuzzy
 msgid "Quick mask"
-msgstr "퀵마스크 사용하기"
+msgstr ""
 
 #: src/dialogs/channel-selection-mask.xml:35(title)
 msgid "A selection composed out of channels."
@@ -7159,9 +6613,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/channel-selection-mask.xml:57(term)
-#, fuzzy
 msgid "Creating Selection Masks"
-msgstr "사각 선택 만들기"
+msgstr ""
 
 #: src/dialogs/channel-selection-mask.xml:63(para)
 msgid ""
@@ -7191,9 +6644,8 @@ msgid "There are several ways to initialize a selection mask. <placeholder-1/>"
 msgstr ""
 
 #: src/dialogs/channel-selection-mask.xml:96(title)
-#, fuzzy
 msgid "Using Selection Masks"
-msgstr "현재 무늬로 선택 채우기"
+msgstr ""
 
 #: src/dialogs/channel-selection-mask.xml:97(para)
 msgid ""
@@ -7229,29 +6681,23 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/channel-menu.xml:22(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/channels-context-menu.png'; "
 "md5=eb03fd53b912b45c225a5b33382d9660"
 msgstr ""
-"@@image: 'images/dialogs/wilber-channels-red.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #: src/dialogs/channel-menu.xml:10(title)
-#, fuzzy
 msgid "Channels Context Menu"
-msgstr "아래로 펼침 메뉴"
+msgstr ""
 
 #: src/dialogs/channel-menu.xml:13(primary)
 #: src/dialogs/channel-dialog.xml:15(secondary)
-#, fuzzy
 msgid "Channels"
-msgstr "채널"
+msgstr ""
 
 #: src/dialogs/channel-menu.xml:18(title)
-#, fuzzy
 msgid "Channel Context Menu"
-msgstr "아래로 펼침 메뉴"
+msgstr ""
 
 #: src/dialogs/channel-menu.xml:30(para)
 msgid ""
@@ -7264,39 +6710,33 @@ msgstr ""
 #: src/dialogs/channel-menu.xml:39(guilabel)
 #: src/dialogs/channel-dialog.xml:285(secondary)
 #: src/dialogs/channel-dialog.xml:323(phrase)
-#, fuzzy
 msgid "Edit Channel Attributes"
-msgstr "채널 속성 편집"
+msgstr ""
 
 #: src/dialogs/channel-menu.xml:40(guilabel)
 #: src/dialogs/channel-dialog.xml:346(phrase)
-#, fuzzy
 msgid "New Channel"
-msgstr "새 채널"
+msgstr ""
 
 #: src/dialogs/channel-menu.xml:41(guilabel)
 #: src/dialogs/channel-dialog.xml:373(phrase)
-#, fuzzy
 msgid "Raise Channel"
-msgstr "채널 올리기"
+msgstr ""
 
 #: src/dialogs/channel-menu.xml:42(guilabel)
 #: src/dialogs/channel-dialog.xml:394(phrase)
-#, fuzzy
 msgid "Lower Channel"
-msgstr "채널 내리기"
+msgstr ""
 
 #: src/dialogs/channel-menu.xml:43(guilabel)
 #: src/dialogs/channel-dialog.xml:415(phrase)
-#, fuzzy
 msgid "Duplicate Channel"
-msgstr "Alpha Channel(알파 채널)"
+msgstr ""
 
 #: src/dialogs/channel-menu.xml:44(guilabel)
 #: src/dialogs/channel-dialog.xml:493(phrase)
-#, fuzzy
 msgid "Delete Channel"
-msgstr "채널 삭제"
+msgstr ""
 
 #: src/dialogs/channel-menu.xml:46(para)
 msgid "See <link linkend=\"gimp-channel-edit\">Managing channels</link>."
@@ -7305,9 +6745,8 @@ msgstr ""
 #: src/dialogs/channel-menu.xml:53(guilabel)
 #: src/dialogs/channel-dialog.xml:305(secondary)
 #: src/dialogs/channel-dialog.xml:441(phrase)
-#, fuzzy
 msgid "Channel to Selection"
-msgstr "채널을 선택으로"
+msgstr ""
 
 #: src/dialogs/channel-menu.xml:55(para)
 msgid "Selection derived from channel replaces any previous active selection."
@@ -7315,9 +6754,8 @@ msgstr ""
 
 #: src/dialogs/channel-menu.xml:62(guilabel)
 #: src/dialogs/channel-dialog.xml:452(listitem:xreflabel)
-#, fuzzy
 msgid "Add to Selection"
-msgstr "선택에 더하기(_A)"
+msgstr ""
 
 #: src/dialogs/channel-menu.xml:64(para)
 msgid ""
@@ -7327,9 +6765,8 @@ msgstr ""
 
 #: src/dialogs/channel-menu.xml:71(guilabel)
 #: src/dialogs/channel-dialog.xml:461(listitem:xreflabel)
-#, fuzzy
 msgid "Subtract from Selection"
-msgstr "선택에서 빼기(_S)"
+msgstr ""
 
 #: src/dialogs/channel-menu.xml:73(para)
 msgid ""
@@ -7339,9 +6776,8 @@ msgstr ""
 
 #: src/dialogs/channel-menu.xml:80(guilabel)
 #: src/dialogs/channel-dialog.xml:469(listitem:xreflabel)
-#, fuzzy
 msgid "Intersect with Selection"
-msgstr "선택의 교집합(_I)"
+msgstr ""
 
 #: src/dialogs/channel-menu.xml:82(para)
 msgid ""
@@ -7352,98 +6788,74 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/channel-dialog.xml:26(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/channels-dialog.png'; "
 "md5=c870d83f3a5e4473bd9babfeb071f35b"
 msgstr ""
-"@@image: 'images/dialogs/color-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/channel-dialog.xml:68(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/wilber-channels-red.png'; "
 "md5=06757160d5b8ec5228bf80f2374b685b"
 msgstr ""
-"@@image: 'images/dialogs/wilber-channels-red.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/channel-dialog.xml:77(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/wilber-channels-green.png'; "
 "md5=9cb0a78a7d3db6fc0e14138bbbd8ff69"
 msgstr ""
-"@@image: 'images/dialogs/wilber-channels-green.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/channel-dialog.xml:86(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/wilber-channels-blue.png'; "
 "md5=3a04441a2721eab40f0eda1a22803cd6"
 msgstr ""
-"@@image: 'images/dialogs/wilber-channels-blue.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/channel-dialog.xml:95(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/wilber-channels-alpha.png'; "
 "md5=4408a37d5cda31f94508d16d42671725"
 msgstr ""
-"@@image: 'images/dialogs/wilber-channels-alpha.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/channel-dialog.xml:104(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/wilber-channels-combined.png'; "
 "md5=8eabd21a9f0cf299dfc3670ec5fb4a74"
 msgstr ""
-"@@image: 'images/dialogs/wilber-channels-combined.png'; md5=THIS FILE "
-"DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/channel-dialog.xml:195(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/channel-list-entry.png'; "
 "md5=e7ea820d383a52823c1ff7131b2e91ff"
 msgstr ""
-"@@image: 'images/dialogs/patterns-dialog-list.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/channel-dialog.xml:319(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/stock-edit-16.png'; "
 "md5=57d8c3592f66b56853cdaf26b8f575c0"
 msgstr ""
-"@@image: 'images/dialogs/stock-eye-20.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/dialogs/channel-dialog.xml:11(title)
-#, fuzzy
 msgid "Channels Dialog"
-msgstr "채널 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/channel-dialog.xml:23(title)
-#, fuzzy
 msgid "The Channels dialog"
-msgstr "채널 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/channel-dialog.xml:30(para)
 msgid ""
@@ -7484,34 +6896,28 @@ msgid "GIMP doesn't support CMYK or YUV color models."
 msgstr ""
 
 #: src/dialogs/channel-dialog.xml:64(title)
-#, fuzzy
 msgid "Representation of an image with channels"
-msgstr "퀵마스크 모드의 이미지"
+msgstr ""
 
 #: src/dialogs/channel-dialog.xml:71(para)
-#, fuzzy
 msgid "Red channel"
-msgstr "빨강 채널"
+msgstr ""
 
 #: src/dialogs/channel-dialog.xml:80(para)
-#, fuzzy
 msgid "Green channel"
-msgstr "녹색 채널"
+msgstr ""
 
 #: src/dialogs/channel-dialog.xml:89(para)
-#, fuzzy
 msgid "Blue channel"
-msgstr "파랑 채널"
+msgstr ""
 
 #: src/dialogs/channel-dialog.xml:98(para)
-#, fuzzy
 msgid "Alpha channel"
-msgstr "Alpha Channel(알파 채널)"
+msgstr ""
 
 #: src/dialogs/channel-dialog.xml:107(para)
-#, fuzzy
 msgid "All channels"
-msgstr "모든 채널"
+msgstr ""
 
 #: src/dialogs/channel-dialog.xml:111(para)
 msgid ""
@@ -7555,9 +6961,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/channel-dialog.xml:168(title)
-#, fuzzy
 msgid "Using the Channel dialog"
-msgstr "파일 대화상자 포함"
+msgstr ""
 
 #: src/dialogs/channel-dialog.xml:172(para)
 msgid ""
@@ -7570,9 +6975,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/channel-dialog.xml:184(title)
-#, fuzzy
 msgid "Channel attributes"
-msgstr "채널 속성"
+msgstr ""
 
 #: src/dialogs/channel-dialog.xml:185(para)
 msgid ""
@@ -7582,9 +6986,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/channel-dialog.xml:203(phrase)
-#, fuzzy
 msgid "Channel visibility"
-msgstr "항목 표시 여부"
+msgstr ""
 
 #: src/dialogs/channel-dialog.xml:206(para)
 msgid ""
@@ -7595,9 +6998,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/channel-dialog.xml:219(phrase)
-#, fuzzy
 msgid "Chain channels"
-msgstr "알파 채널"
+msgstr ""
 
 #: src/dialogs/channel-dialog.xml:222(para)
 msgid ""
@@ -7631,9 +7033,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/channel-dialog.xml:255(term)
-#, fuzzy
 msgid "Channel name"
-msgstr "채널 이름(_N):"
+msgstr ""
 
 #: src/dialogs/channel-dialog.xml:257(para)
 msgid ""
@@ -7654,29 +7055,24 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/channel-dialog.xml:280(title)
-#, fuzzy
 msgid "Managing channels"
-msgstr "알파 채널"
+msgstr ""
 
 #: src/dialogs/channel-dialog.xml:289(secondary)
-#, fuzzy
 msgid "Create a New Channel Mask"
-msgstr "새 필터를 만들 수 없음"
+msgstr ""
 
 #: src/dialogs/channel-dialog.xml:293(secondary)
-#, fuzzy
 msgid "Move Channel Mask"
-msgstr "레이어 마스크 이동"
+msgstr ""
 
 #: src/dialogs/channel-dialog.xml:297(secondary)
-#, fuzzy
 msgid "Duplicate Channel Mask"
-msgstr "퀵마스트 이용하기"
+msgstr ""
 
 #: src/dialogs/channel-dialog.xml:301(secondary)
-#, fuzzy
 msgid "Delete Channel Mask"
-msgstr "레이어 마스크 삭제하기"
+msgstr ""
 
 #: src/dialogs/channel-dialog.xml:308(para)
 msgid ""
@@ -7764,82 +7160,66 @@ msgstr ""
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/buffers-dialog.xml:50(None)
 #: src/dialogs/buffers-dialog.xml:139(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/buffers-dialog.png'; "
 "md5=3fc07f93ddd5e217af903f4be7075729"
 msgstr ""
-"@@image: 'images/dialogs/color-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/buffers-dialog.xml:161(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/buffers-dialog-grid.png'; "
 "md5=5188c06c32bda32e437d504f1be1a6f4"
 msgstr ""
-"@@image: 'images/dialogs/undo-history-dialog.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/buffers-dialog.xml:254(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/buffers-context-menu.png'; "
 "md5=52c598a2cf4997b177d0421cb053192f"
 msgstr ""
-"@@image: 'images/dialogs/stock-menu-left-12.png'; md5=THIS FILE DOESN'T EXIST"
 
 #: src/dialogs/buffers-dialog.xml:14(title)
-#, fuzzy
 msgid "Buffers Dialog"
-msgstr "이름있는 버퍼 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:18(secondary)
 #: src/dialogs/buffers-dialog.xml:21(primary)
 #: src/dialogs/buffers-dialog.xml:25(primary)
 #: src/dialogs/buffers-dialog.xml:29(primary)
 #: src/dialogs/buffers-dialog.xml:33(primary)
-#, fuzzy
 msgid "Buffers"
-msgstr "버퍼"
+msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:26(secondary)
-#, fuzzy
 msgid "Cut named"
-msgstr "이름붙여 잘라넣기"
+msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:30(secondary)
-#, fuzzy
 msgid "Copy named"
-msgstr "이름붙여 복사하기"
+msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:34(secondary)
-#, fuzzy
 msgid "Paste named"
-msgstr "이름붙여 붙여넣기(_P)..."
+msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:37(primary)
-#, fuzzy
 msgid "Cut Named"
-msgstr "이름붙여 잘라넣기"
+msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:40(primary)
-#, fuzzy
 msgid "Copy Named"
-msgstr "이름붙여 복사하기"
+msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:43(primary)
-#, fuzzy
 msgid "Paste Named"
-msgstr "이름붙여 붙여넣기(_P)..."
+msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:47(title)
-#, fuzzy
 msgid "The Buffers dialog (as a list)"
-msgstr "목록으로 보기, 격자로 보기"
+msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:54(para)
 msgid ""
@@ -7899,14 +7279,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:134(title)
-#, fuzzy
 msgid "Using the Buffers dialog"
-msgstr "이름있는 버퍼 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:136(title)
-#, fuzzy
 msgid "The Buffers Menu"
-msgstr "버퍼 메뉴"
+msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:143(para)
 msgid ""
@@ -7926,9 +7304,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:157(title)
-#, fuzzy
 msgid "The Buffers dialog (Grid View)"
-msgstr "목록으로 보기, 격자로 보기"
+msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:165(para)
 msgid ""
@@ -7950,9 +7327,8 @@ msgid "At the bottom of the dialog you find a couple of buttons:"
 msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:193(term)
-#, fuzzy
 msgid "Paste Buffer"
-msgstr "버퍼 붙여넣기(_P)"
+msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:196(para)
 msgid ""
@@ -7963,9 +7339,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:207(term)
-#, fuzzy
 msgid "Paste Buffer Into"
-msgstr "...에 버퍼 붙여넣기(_I)"
+msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:210(para)
 msgid ""
@@ -7977,9 +7352,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:221(term)
-#, fuzzy
 msgid "Paste Buffer as New"
-msgstr "버퍼를 새 이미지로 붙여넣기(_N)"
+msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:224(para)
 msgid ""
@@ -7991,9 +7365,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:235(term)
-#, fuzzy
 msgid "Delete Buffer"
-msgstr "버퍼 삭제(_D)"
+msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:238(para)
 msgid ""
@@ -8002,14 +7375,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:248(title)
-#, fuzzy
 msgid "Context menu"
-msgstr "문맥 메뉴"
+msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:250(title)
-#, fuzzy
 msgid "The <quote>Buffers</quote> context menu"
-msgstr "<quote>탭 추가</quote> 하위 메뉴"
+msgstr ""
 
 #: src/dialogs/buffers-dialog.xml:258(para)
 msgid "These commands are explained above with Buttons."
@@ -8019,105 +7390,81 @@ msgstr ""
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/brushes-dialog.xml:33(None)
 #: src/dialogs/brushes-dialog.xml:219(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/brushes-dialog.png'; "
 "md5=a4c3fca3dd9806d49d67ae706f7708e2"
 msgstr ""
-"@@image: 'images/dialogs/color-dialog.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/brushes-dialog.xml:101(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/brushes-dialog-simple.png'; "
 "md5=21fed9f079962fc62e25b298d716d2c6"
 msgstr ""
-"@@image: 'images/dialogs/undo-history-dialog.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/brushes-dialog.xml:159(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/brushes-grid-view.png'; "
 "md5=ea848e8fea0bbe92e8946e276e10e170"
 msgstr ""
-"@@image: 'images/dialogs/patterns-dialog-list.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/brushes-dialog.xml:168(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/brushes-list-view.png'; "
 "md5=d437fdc00346a1090844a41d51ef04be"
 msgstr ""
-"@@image: 'images/dialogs/patterns-dialog-list.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/brushes-dialog.xml:273(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/brushes-buttons.png'; "
 "md5=bed9da90fbef9d67952f66935518d847"
 msgstr ""
-"@@image: 'images/dialogs/device-status.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/brushes-dialog.xml:368(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/brushes-context-menu.png'; "
 "md5=4febdaa73fcecac66e9ed9b6ab159008"
 msgstr ""
-"@@image: 'images/dialogs/stock-menu-left-12.png'; md5=THIS FILE DOESN'T EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/brushes-dialog.xml:399(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/brushes-editor-dialog.png'; "
 "md5=f24a74f38e9af97c98234dc7da782fba"
 msgstr ""
-"@@image: 'images/dialogs/undo-history-dialog.png'; md5=THIS FILE DOESN'T "
-"EXIST"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: src/dialogs/brushes-dialog.xml:519(None)
-#, fuzzy
 msgid ""
 "@@image: 'images/dialogs/brushes-dialog-clipboard.png'; "
 "md5=d02447a2d4809de31119fdd75696a5c5"
 msgstr ""
-"@@image: 'images/dialogs/patterns-dialog-clipboard.png'; md5=THIS FILE "
-"DOESN'T EXIST"
 
 #: src/dialogs/brushes-dialog.xml:15(title)
-#, fuzzy
 msgid "Brushes Dialog"
-msgstr "붓 도구 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:18(primary)
 #: src/dialogs/brushes-dialog.xml:22(secondary)
 #: src/dialogs/brushes-dialog.xml:25(primary)
 #: src/dialogs/brushes-dialog.xml:505(primary)
-#, fuzzy
 msgid "Brushes"
-msgstr "붓"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:30(title)
-#, fuzzy
 msgid "The Brushes dialog"
-msgstr "붓 도구 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:37(para)
 msgid ""
@@ -8169,39 +7516,33 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:104(para)
-#, fuzzy
 msgid "The simplified <quote>Brushes</quote> dialog"
-msgstr "<quote>파일 열기</quote> 대화상자"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:108(para)
 msgid "This window has five buttons, clearly explained by help pop-ups:"
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:112(para)
-#, fuzzy
 msgid "Smaller previews"
-msgstr "더 작은 미리보기"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:115(para)
-#, fuzzy
 msgid "Larger previews"
-msgstr "더 큰 미리보기"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:118(para)
-#, fuzzy
 msgid "View as list"
-msgstr "목록으로 보기"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:121(para)
 #: src/dialogs/brushes-dialog.xml:162(para)
-#, fuzzy
 msgid "View as Grid"
-msgstr "격자로 보기(_G)"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:124(para)
-#, fuzzy
 msgid "Open the brush selection dialog"
-msgstr "붓 선택 대화상자 표시"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:127(para)
 msgid ""
@@ -8212,14 +7553,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:138(title)
-#, fuzzy
 msgid "Using the <quote>Brushes</quote> dialog"
-msgstr "<quote>파일 열기</quote> 대화상자"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:141(title)
-#, fuzzy
 msgid "Grid/List mode"
-msgstr "친구 목록 저장 모드"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:142(para)
 msgid ""
@@ -8237,14 +7576,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:155(title)
-#, fuzzy
 msgid "Grid/List view"
-msgstr "목록으로 보기, 격자로 보기"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:171(para)
-#, fuzzy
 msgid "View as List"
-msgstr "목록으로 보기(_L)"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:179(para)
 msgid ""
@@ -8259,9 +7596,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:190(term)
-#, fuzzy
 msgid "List mode"
-msgstr "친구 목록 저장 모드"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:192(para)
 msgid ""
@@ -8282,14 +7618,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:214(title)
-#, fuzzy
 msgid "Brush previews"
-msgstr "더 큰 미리보기"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:216(title)
-#, fuzzy
 msgid "The <quote>Brushes</quote> dialog"
-msgstr "붓 도구 대화상자 열기"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:223(para)
 msgid ""
@@ -8334,9 +7668,8 @@ msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:277(term)
 #: src/dialogs/brushes-dialog.xml:487(term)
-#, fuzzy
 msgid "Spacing"
-msgstr "간격"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:279(para)
 msgid ""
@@ -8346,9 +7679,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:288(term)
-#, fuzzy
 msgid "Edit Brush"
-msgstr "붓 편집"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:290(para)
 msgid ""
@@ -8359,9 +7691,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:302(term)
-#, fuzzy
 msgid "New Brush"
-msgstr "새 붓(_B)..."
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:305(para)
 msgid ""
@@ -8371,9 +7702,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:314(term)
-#, fuzzy
 msgid "Duplicate Brush"
-msgstr "붓 복제"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:317(para)
 msgid ""
@@ -8384,9 +7714,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:327(term)
-#, fuzzy
 msgid "Delete Brush"
-msgstr "붓 삭제"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:330(para)
 msgid ""
@@ -8397,9 +7726,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:339(term)
-#, fuzzy
 msgid "Refresh Brushes"
-msgstr "붓 새로고침"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:342(para)
 msgid ""
@@ -8419,9 +7747,8 @@ msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:361(title)
 #: src/dialogs/brushes-dialog.xml:364(title)
-#, fuzzy
 msgid "The <quote>Brushes</quote> context menu"
-msgstr "<quote>탭 추가</quote> 하위 메뉴"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:373(para)
 msgid ""
@@ -8440,14 +7767,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:393(title)
-#, fuzzy
 msgid "Brush Editor"
-msgstr "붓 편집기"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:395(title)
-#, fuzzy
 msgid "The <quote>Brushes</quote> Editor dialog"
-msgstr "<quote>파일 열기</quote> 대화상자"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:402(para)
 msgid "The Brush Editor, activated for a new brush."
@@ -8480,14 +7805,12 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:426(para)
-#, fuzzy
 msgid "<emphasis>Settings</emphasis>:"
-msgstr "고급 설정"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:428(term)
-#, fuzzy
 msgid "Shape"
-msgstr "모양대로"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:430(para)
 msgid ""
@@ -8496,9 +7819,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:437(term)
-#, fuzzy
 msgid "Radius"
-msgstr "반지름"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:439(para)
 msgid ""
@@ -8508,9 +7830,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:447(term)
-#, fuzzy
 msgid "Spikes"
-msgstr "# 스파이크:"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:449(para)
 msgid ""
@@ -8519,9 +7840,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:457(term)
-#, fuzzy
 msgid "Hardness"
-msgstr "경도"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:459(para)
 msgid ""
@@ -8530,9 +7850,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:466(term)
-#, fuzzy
 msgid "Aspect ratio"
-msgstr "자유 선택"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:468(para)
 msgid ""
@@ -8542,9 +7861,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:476(term)
-#, fuzzy
 msgid "Angle"
-msgstr "각도"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:478(para)
 msgid ""
@@ -8561,19 +7879,16 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:500(title)
-#, fuzzy
 msgid "The Clipboard Brush"
-msgstr "붓 도구"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:502(primary)
-#, fuzzy
 msgid "Clipboard Brush"
-msgstr "붓 도구"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:506(secondary)
-#, fuzzy
 msgid "Clipboard brush"
-msgstr "붓 도구"
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:508(para)
 msgid ""
@@ -8584,9 +7899,8 @@ msgid ""
 msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:515(title)
-#, fuzzy
 msgid "A new <quote>Clipboard Brush</quote>"
-msgstr "클립보드에 있는 내용을 새 붓에 붙여 넣습니다."
+msgstr ""
 
 #: src/dialogs/brushes-dialog.xml:524(para)
 msgid ""
@@ -8598,183 +7912,5 @@ msgstr ""
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: src/dialogs/brushes-dialog.xml:0(None)
-#, fuzzy
 msgid "translator-credits"
-msgstr "Mr.Dust <like.a.dust@gmail.com>, 2008"
-
-#~ msgid "Tools"
-#~ msgstr "도구"
-
-#~ msgid "Customize"
-#~ msgstr "사용자 정의"
-
-#~ msgid "Toolbox"
-#~ msgstr "도구 상자"
-
-#, fuzzy
-#~ msgid "Sample Point"
-#~ msgstr "표본점"
-
-#, fuzzy
-#~ msgid "The <placeholder-1/> menu"
-#~ msgstr "메인 메뉴"
-
-#, fuzzy
-#~ msgid "<placeholder-1/> dialog description"
-#~ msgstr "아이템의 설명"
-
-#, fuzzy
-#~ msgid "<placeholder-1/> dialog options"
-#~ msgstr "도구 옵션 대화상자 열기"
-
-#, fuzzy
-#~ msgid "Pointer Information"
-#~ msgstr "포인터 정보"
-
-#, fuzzy
-#~ msgid "Add mask"
-#~ msgstr "레이어 마스크 더하기"
-
-#, fuzzy
-#~ msgid "<placeholder-1/> dialog"
-#~ msgstr "대화상자 포함"
-
-#, fuzzy
-#~ msgid "Layer modes"
-#~ msgstr "레이어 모드"
-
-#, fuzzy
-#~ msgid "Add from FG"
-#~ msgstr "전경에서 색상 더하기(_A)"
-
-#, fuzzy
-#~ msgid "This button is not working."
-#~ msgstr "GIF 파일이 아닙니다."
-
-#, fuzzy
-#~ msgid "Linear/Logarithmic buttons"
-#~ msgstr "도움말 버튼 표시(_B)"
-
-#, fuzzy
-#~ msgid ""
-#~ "@@image: 'images/dialogs/export-file-png.png'; md5=THIS FILE DOESN'T EXIST"
-#~ msgstr ""
-#~ "@@image: 'images/dialogs/dialogs-shortcuts.png'; md5=THIS FILE DOESN'T "
-#~ "EXIST"
-
-#, fuzzy
-#~ msgid ""
-#~ "@@image: 'images/dialogs/export-file-jpeg.png'; md5=THIS FILE DOESN'T "
-#~ "EXIST"
-#~ msgstr ""
-#~ "@@image: 'images/using/export-dialog.png'; md5=THIS FILE DOESN'T EXIST"
-
-#, fuzzy
-#~ msgid ""
-#~ "@@image: 'images/dialogs/export-file-mng.png'; md5=THIS FILE DOESN'T EXIST"
-#~ msgstr ""
-#~ "@@image: 'images/using/export-dialog.png'; md5=THIS FILE DOESN'T EXIST"
-
-#, fuzzy
-#~ msgid ""
-#~ "@@image: 'images/dialogs/export-file-gif.png'; md5=THIS FILE DOESN'T EXIST"
-#~ msgstr ""
-#~ "@@image: 'images/using/export-dialog.png'; md5=THIS FILE DOESN'T EXIST"
-
-#, fuzzy
-#~ msgid "PNG"
-#~ msgstr ""
-#~ "이 포맷은 <link linkend=\"file-gif-save\">GIF 포맷</link> 의 대안으로 제시"
-#~ "된 것이다. 따라서 GIF의 상표권과 특허권에 대한 대책을 가지고 있다. 그리고 "
-#~ "인덱스 색상, 그레이스케일, 트루컬러 이미지 등을 지원하며, 알파채널도 지원"
-#~ "한다. PNG 역시 압축기법을 사용하지만 <link linkend=\"file-jpeg-save"
-#~ "\">JPEG</link> 과는 달리 정보 손실이 없다."
-
-#, fuzzy
-#~ msgid ".png"
-#~ msgstr "Formats"
-
-#, fuzzy
-#~ msgid "Export PNG file dialog"
-#~ msgstr "<quote>파일 열기</quote> 대화상자"
-
-#, fuzzy
-#~ msgid "JPG"
-#~ msgstr ".jpg"
-
-#, fuzzy
-#~ msgid "JPEG"
-#~ msgstr ""
-#~ "Use JPEG to create web graphics or if you don't want your image to take "
-#~ "up a lot of space. JPEG is a good format for photographs and for computer-"
-#~ "generated images (CGI). It is not well suited for:"
-
-#, fuzzy
-#~ msgid ".jpg"
-#~ msgstr ".jpg"
-
-#, fuzzy
-#~ msgid "Export JPEG file dialog"
-#~ msgstr "<quote>파일 열기</quote> 대화상자"
-
-#, fuzzy
-#~ msgid "The file format supports animation"
-#~ msgstr "지원하지 않는 파일 포맷 버전입니다.: %d"
-
-#, fuzzy
-#~ msgid "MNG"
-#~ msgstr "MNG 옵션"
-
-#, fuzzy
-#~ msgid ".mng"
-#~ msgstr "MNG 옵션"
-
-#, fuzzy
-#~ msgid "Export MNG File Dialog"
-#~ msgstr "<quote>파일 열기</quote> 대화상자"
-
-#, fuzzy
-#~ msgid "GIF"
-#~ msgstr ""
-#~ "GIF was introduced by CompuServe in 1987. It became popular mostly "
-#~ "because of its efficient, LZW compression. The size of the image files "
-#~ "required clearly less disk space than other usual graphics formats of the "
-#~ "time, such as PCX or MacPaint. Even large images could be transmitted in "
-#~ "a reasonable time, even with slow modems. In addition, the open licensing "
-#~ "policy of CompuServe made it possible for any programmer to implement the "
-#~ "GIF format for his own applications free of charge, as long as the "
-#~ "CompuServe copyright notice was attached to them."
-
-#, fuzzy
-#~ msgid ".gif"
-#~ msgstr ".gif"
-
-#, fuzzy
-#~ msgid "The <placeholder-1/> Dialog"
-#~ msgstr "대화상자 포함"
-
-#, fuzzy
-#~ msgid "<placeholder-1/> Dialog window"
-#~ msgstr "대화상자 윈도우에서 애니메이션 분리하기"
-
-#, fuzzy
-#~ msgid "Save Error Log to file"
-#~ msgstr "파일에 오류 기록 저장"
-
-#, fuzzy
-#~ msgid "Edit channel attributes,"
-#~ msgstr "채널 속성 편집"
-
-#, fuzzy
-#~ msgid "Channel to selection"
-#~ msgstr "채널 %s을(를) 선택으로"
-
-#~ msgid ""
-#~ "@@image: 'images/dialogs/stock-undo-history-16.png'; md5=THIS FILE "
-#~ "DOESN'T EXIST"
-#~ msgstr ""
-#~ "@@image: 'images/dialogs/stock-undo-history-16.png'; md5=THIS FILE "
-#~ "DOESN'T EXIST"
-
-#~ msgid "."
-#~ msgstr "."
+msgstr ""

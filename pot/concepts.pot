@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-05-17 13:09+0000\n"
+"POT-Creation-Date: 2013-07-22 12:15+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4924,6 +4924,257 @@ msgid ""
 "window, and vice versa, using two keyboard shortcuts: <placeholder-1/>"
 msgstr ""
 
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: src/concepts/image-types.xml:51(None)
+msgid ""
+"@@image: 'images/glossary/color-model-additive.png'; "
+"md5=768bb4d50d1b49aaf5ec7ce7af7ac693"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: src/concepts/image-types.xml:63(None)
+msgid ""
+"@@image: 'images/glossary/color-model-subtractive.png'; "
+"md5=b28a8bfbda939acb39b82883b8be422b"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: src/concepts/image-types.xml:101(None)
+msgid ""
+"@@image: 'images/using/wilber-channel-rgb.png'; "
+"md5=8e0fe401c2ea88c164707f0fafc28389"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: src/concepts/image-types.xml:113(None)
+msgid ""
+"@@image: 'images/using/wilber-channel-gray.png'; "
+"md5=8f2d20cd9a07685d6413da15e7d30c1e"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: src/concepts/image-types.xml:139(None)
+msgid ""
+"@@image: 'images/dialogs/wilber-channels-red.png'; "
+"md5=06757160d5b8ec5228bf80f2374b685b"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: src/concepts/image-types.xml:148(None)
+msgid ""
+"@@image: 'images/dialogs/wilber-channels-green.png'; "
+"md5=9cb0a78a7d3db6fc0e14138bbbd8ff69"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: src/concepts/image-types.xml:157(None)
+msgid ""
+"@@image: 'images/dialogs/wilber-channels-blue.png'; "
+"md5=3a04441a2721eab40f0eda1a22803cd6"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: src/concepts/image-types.xml:166(None)
+msgid ""
+"@@image: 'images/dialogs/wilber-channels-alpha.png'; "
+"md5=4408a37d5cda31f94508d16d42671725"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: src/concepts/image-types.xml:177(None)
+msgid ""
+"@@image: 'images/dialogs/wilber-channels-combined.png'; "
+"md5=8eabd21a9f0cf299dfc3670ec5fb4a74"
+msgstr ""
+
+#: src/concepts/image-types.xml:12(title)
+msgid "Image Types"
+msgstr ""
+
+#: src/concepts/image-types.xml:14(primary) src/concepts/concepts.xml:45(term)
+msgid "Images"
+msgstr ""
+
+#: src/concepts/image-types.xml:15(secondary)
+msgid "Types"
+msgstr ""
+
+#: src/concepts/image-types.xml:17(para)
+msgid ""
+"It is tempting to think of an <emphasis>image</emphasis> as something that "
+"corresponds with a single display window, or to a single file such as a "
+"<link linkend=\"file-jpeg-load\">JPEG</link> file. In reality, however, a "
+"<acronym>GIMP</acronym> image is a a complicated structure, containing a "
+"stack of layers plus several other types of objects: a selection mask, a set "
+"of channels, a set of paths, an \"undo\" history, etc. In this section we "
+"take a detailed look at the components of a <acronym>GIMP</acronym> image, "
+"and the things that you can do with them."
+msgstr ""
+
+#: src/concepts/image-types.xml:29(para)
+msgid ""
+"The most basic property of an image is its <emphasis>mode</emphasis>. There "
+"are three possible modes: RGB, grayscale, and indexed. RGB stands for Red-"
+"Green-Blue, and indicates that each point in the image is represented by a "
+"<quote>red</quote> level, a <quote>green</quote> level, and a <quote>blue</"
+"quote> level; representing a full-color image. Each color channel has 256 "
+"possible intensity levels. More details in <link linkend=\"glossary-"
+"colormodel\"> Color Models</link>"
+msgstr ""
+
+#: src/concepts/image-types.xml:41(para)
+msgid ""
+"In a grayscale image, each point is represented by a brightness value, "
+"ranging from 0 (black) to 255 (white), with intermediate values representing "
+"different levels of gray."
+msgstr ""
+
+#: src/concepts/image-types.xml:47(title)
+msgid "Components of the RGB and CMY Color Model"
+msgstr ""
+
+#: src/concepts/image-types.xml:54(para)
+msgid ""
+"In the RGB Color Model, mixing Red, Green and Blue gives White, which is "
+"what happens on your screen."
+msgstr ""
+
+#: src/concepts/image-types.xml:66(para)
+msgid ""
+"In the CMY(K) color model, mixing Cyan, Magenta and Yellow gives Black, "
+"which is what happens when you print on a white paper. The printer will "
+"actually use the black cartridge for economical reasons and better color "
+"rendering."
+msgstr ""
+
+#: src/concepts/image-types.xml:75(para)
+msgid ""
+"Conceptually, the difference between a grayscale image and an RGB image is "
+"the number of <quote>color channels</quote>: a grayscale image has one; an "
+"RGB image has three. An RGB image can be thought of as three superimposed "
+"grayscale images, one colored red, one green, and one blue."
+msgstr ""
+
+#: src/concepts/image-types.xml:82(para)
+msgid ""
+"Actually, both RGB and grayscale images have one additional color channel "
+"called the <emphasis>alpha</emphasis> channel, which represents opacity. "
+"When the alpha value at a given location in a given layer is zero, the layer "
+"is completely transparent (you can see through it), and the color at that "
+"location is determined by what lies underneath. When alpha is maximal (255), "
+"the layer is opaque (you cannot see through it), and the color is determined "
+"by the color of the layer. Intermediate alpha values correspond to varying "
+"degrees of transparency / opacity: the color at the location is a "
+"proportional mixture of color from the layer and color from underneath."
+msgstr ""
+
+#: src/concepts/image-types.xml:98(title)
+msgid "Example of an image in RGB and Grayscale mode"
+msgstr ""
+
+#: src/concepts/image-types.xml:104(para)
+msgid ""
+"An image in RGB mode, with the channels corresponding to Red, Green and Blue."
+msgstr ""
+
+#: src/concepts/image-types.xml:116(para)
+msgid ""
+"An image in Grayscale mode, with the channel corresponding to Luminosity."
+msgstr ""
+
+#: src/concepts/image-types.xml:123(para)
+msgid ""
+"In <acronym>GIMP</acronym>, every color channel, including the alpha "
+"channel, has a range of possible values from 0 to 255; in computing "
+"terminology, a depth of 8 bits. Some digital cameras can produce image files "
+"with a depth of 16 bits per color channel. <acronym>GIMP</acronym> cannot "
+"load such a file without losing resolution. In most cases the effects are "
+"too subtle to be detected by the human eye, but in some cases, mainly where "
+"there are large areas with slowly varying color gradients, the difference "
+"may be perceptible."
+msgstr ""
+
+#: src/concepts/image-types.xml:135(title)
+msgid "Example of an image with alpha channel"
+msgstr ""
+
+#: src/concepts/image-types.xml:142(para)
+msgid "Red channel"
+msgstr ""
+
+#: src/concepts/image-types.xml:151(para)
+msgid "Green channel"
+msgstr ""
+
+#: src/concepts/image-types.xml:160(para)
+msgid "Blue channel"
+msgstr ""
+
+#: src/concepts/image-types.xml:169(para)
+msgid "The Alpha channel shows the image area which is transparent."
+msgstr ""
+
+#: src/concepts/image-types.xml:180(para)
+msgid "A color image in RGB mode with an Alpha channel."
+msgstr ""
+
+#: src/concepts/image-types.xml:186(para)
+msgid ""
+"The third type, <emphasis>indexed</emphasis> images, is a bit more "
+"complicated to understand. In an indexed image, only a limited set of "
+"discrete colors are used, usually 256 or less. These colors form the "
+"<quote>colormap</quote> of the image, and each point in the image is "
+"assigned a color from the colormap. Indexed images have the advantage that "
+"they can be represented inside a computer in a way which consumes relatively "
+"little memory, and back in the dark ages (say, ten years ago), they were "
+"very commonly used. As time goes on, they are used less and less, but they "
+"are still important enough to be worth supporting in <acronym>GIMP</"
+"acronym>. (Also, there are a few important kinds of image manipulation that "
+"are easier to implement with indexed images than with continuous-color RGB "
+"images.)"
+msgstr ""
+
+#: src/concepts/image-types.xml:201(para)
+msgid ""
+"Some very commonly used types of files (including <link linkend=\"file-gif-"
+"load\">GIF</link> and <link linkend=\"file-png-load\">PNG</link>) produce "
+"indexed images when they are opened in <acronym>GIMP</acronym>. Many of "
+"<acronym>GIMP</acronym>'s tools don't work very well on indexed images–and "
+"many filters don't work at all–because of the limited number of colors "
+"available. Because of this, it is usually best to convert an image to RGB "
+"mode before working on it. If necessary, you can convert it back to indexed "
+"mode when you are ready to save it"
+msgstr ""
+
+#: src/concepts/image-types.xml:213(para)
+msgid ""
+"<acronym>GIMP</acronym> makes it easy to convert from one image type to "
+"another, using the <link linkend=\"gimp-image-mode\">Mode</link> command in "
+"the Image menu. Some types of conversions, of course (RGB to grayscale or "
+"indexed, for example) lose information that cannot be regained by converting "
+"back in the other direction."
+msgstr ""
+
+#: src/concepts/image-types.xml:222(para)
+msgid ""
+"If you are trying to use a filter on an image, and it appears grayed out in "
+"the menu, usually the cause is that the image (or, more specifically, the "
+"layer) you are working on is the wrong type. Many filters can't be used on "
+"indexed images. Some can be used only on RGB images, or only on grayscale "
+"images. Some also require the presence or absence of an alpha channel. "
+"Usually the fix is to convert the image to a different type, most commonly "
+"RGB."
+msgstr ""
+
 #: src/concepts/images.xml:12(title)
 msgid "Creating new Files"
 msgstr ""
@@ -5252,257 +5503,6 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: src/concepts/image-types.xml:51(None)
-msgid ""
-"@@image: 'images/glossary/color-model-additive.png'; "
-"md5=768bb4d50d1b49aaf5ec7ce7af7ac693"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: src/concepts/image-types.xml:63(None)
-msgid ""
-"@@image: 'images/glossary/color-model-subtractive.png'; "
-"md5=b28a8bfbda939acb39b82883b8be422b"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: src/concepts/image-types.xml:101(None)
-msgid ""
-"@@image: 'images/using/wilber-channel-rgb.png'; "
-"md5=8e0fe401c2ea88c164707f0fafc28389"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: src/concepts/image-types.xml:113(None)
-msgid ""
-"@@image: 'images/using/wilber-channel-gray.png'; "
-"md5=8f2d20cd9a07685d6413da15e7d30c1e"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: src/concepts/image-types.xml:139(None)
-msgid ""
-"@@image: 'images/dialogs/wilber-channels-red.png'; "
-"md5=06757160d5b8ec5228bf80f2374b685b"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: src/concepts/image-types.xml:148(None)
-msgid ""
-"@@image: 'images/dialogs/wilber-channels-green.png'; "
-"md5=9cb0a78a7d3db6fc0e14138bbbd8ff69"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: src/concepts/image-types.xml:157(None)
-msgid ""
-"@@image: 'images/dialogs/wilber-channels-blue.png'; "
-"md5=3a04441a2721eab40f0eda1a22803cd6"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: src/concepts/image-types.xml:166(None)
-msgid ""
-"@@image: 'images/dialogs/wilber-channels-alpha.png'; "
-"md5=4408a37d5cda31f94508d16d42671725"
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
-#: src/concepts/image-types.xml:177(None)
-msgid ""
-"@@image: 'images/dialogs/wilber-channels-combined.png'; "
-"md5=8eabd21a9f0cf299dfc3670ec5fb4a74"
-msgstr ""
-
-#: src/concepts/image-types.xml:12(title)
-msgid "Image Types"
-msgstr ""
-
-#: src/concepts/image-types.xml:14(primary) src/concepts/concepts.xml:45(term)
-msgid "Images"
-msgstr ""
-
-#: src/concepts/image-types.xml:15(secondary)
-msgid "Types"
-msgstr ""
-
-#: src/concepts/image-types.xml:17(para)
-msgid ""
-"It is tempting to think of an <emphasis>image</emphasis> as something that "
-"corresponds with a single display window, or to a single file such as a "
-"<link linkend=\"file-jpeg-load\">JPEG</link> file. In reality, however, a "
-"<acronym>GIMP</acronym> image is a a complicated structure, containing a "
-"stack of layers plus several other types of objects: a selection mask, a set "
-"of channels, a set of paths, an \"undo\" history, etc. In this section we "
-"take a detailed look at the components of a <acronym>GIMP</acronym> image, "
-"and the things that you can do with them."
-msgstr ""
-
-#: src/concepts/image-types.xml:29(para)
-msgid ""
-"The most basic property of an image is its <emphasis>mode</emphasis>. There "
-"are three possible modes: RGB, grayscale, and indexed. RGB stands for Red-"
-"Green-Blue, and indicates that each point in the image is represented by a "
-"<quote>red</quote> level, a <quote>green</quote> level, and a <quote>blue</"
-"quote> level; representing a full-color image. Each color channel has 256 "
-"possible intensity levels. More details in <link linkend=\"glossary-"
-"colormodel\"> Color Models</link>"
-msgstr ""
-
-#: src/concepts/image-types.xml:41(para)
-msgid ""
-"In a grayscale image, each point is represented by a brightness value, "
-"ranging from 0 (black) to 255 (white), with intermediate values representing "
-"different levels of gray."
-msgstr ""
-
-#: src/concepts/image-types.xml:47(title)
-msgid "Components of the RGB and CMY Color Model"
-msgstr ""
-
-#: src/concepts/image-types.xml:54(para)
-msgid ""
-"In the RGB Color Model, mixing Red, Green and Blue gives White, which is "
-"what happens on your screen."
-msgstr ""
-
-#: src/concepts/image-types.xml:66(para)
-msgid ""
-"In the CMY(K) color model, mixing Cyan, Magenta and Yellow gives Black, "
-"which is what happens when you print on a white paper. The printer will "
-"actually use the black cartridge for economical reasons and better color "
-"rendering."
-msgstr ""
-
-#: src/concepts/image-types.xml:75(para)
-msgid ""
-"Conceptually, the difference between a grayscale image and an RGB image is "
-"the number of <quote>color channels</quote>: a grayscale image has one; an "
-"RGB image has three. An RGB image can be thought of as three superimposed "
-"grayscale images, one colored red, one green, and one blue."
-msgstr ""
-
-#: src/concepts/image-types.xml:82(para)
-msgid ""
-"Actually, both RGB and grayscale images have one additional color channel "
-"called the <emphasis>alpha</emphasis> channel, which represents opacity. "
-"When the alpha value at a given location in a given layer is zero, the layer "
-"is completely transparent (you can see through it), and the color at that "
-"location is determined by what lies underneath. When alpha is maximal (255), "
-"the layer is opaque (you cannot see through it), and the color is determined "
-"by the color of the layer. Intermediate alpha values correspond to varying "
-"degrees of transparency / opacity: the color at the location is a "
-"proportional mixture of color from the layer and color from underneath."
-msgstr ""
-
-#: src/concepts/image-types.xml:98(title)
-msgid "Example of an image in RGB and Grayscale mode"
-msgstr ""
-
-#: src/concepts/image-types.xml:104(para)
-msgid ""
-"An image in RGB mode, with the channels corresponding to Red, Green and Blue."
-msgstr ""
-
-#: src/concepts/image-types.xml:116(para)
-msgid ""
-"An image in Grayscale mode, with the channel corresponding to Luminosity."
-msgstr ""
-
-#: src/concepts/image-types.xml:123(para)
-msgid ""
-"In <acronym>GIMP</acronym>, every color channel, including the alpha "
-"channel, has a range of possible values from 0 to 255; in computing "
-"terminology, a depth of 8 bits. Some digital cameras can produce image files "
-"with a depth of 16 bits per color channel. <acronym>GIMP</acronym> cannot "
-"load such a file without losing resolution. In most cases the effects are "
-"too subtle to be detected by the human eye, but in some cases, mainly where "
-"there are large areas with slowly varying color gradients, the difference "
-"may be perceptible."
-msgstr ""
-
-#: src/concepts/image-types.xml:135(title)
-msgid "Example of an image with alpha channel"
-msgstr ""
-
-#: src/concepts/image-types.xml:142(para)
-msgid "Red channel"
-msgstr ""
-
-#: src/concepts/image-types.xml:151(para)
-msgid "Green channel"
-msgstr ""
-
-#: src/concepts/image-types.xml:160(para)
-msgid "Blue channel"
-msgstr ""
-
-#: src/concepts/image-types.xml:169(para)
-msgid "The Alpha channel shows the image area which is transparent."
-msgstr ""
-
-#: src/concepts/image-types.xml:180(para)
-msgid "A color image in RGB mode with an Alpha channel."
-msgstr ""
-
-#: src/concepts/image-types.xml:186(para)
-msgid ""
-"The third type, <emphasis>indexed</emphasis> images, is a bit more "
-"complicated to understand. In an indexed image, only a limited set of "
-"discrete colors are used, usually 256 or less. These colors form the "
-"<quote>colormap</quote> of the image, and each point in the image is "
-"assigned a color from the colormap. Indexed images have the advantage that "
-"they can be represented inside a computer in a way which consumes relatively "
-"little memory, and back in the dark ages (say, ten years ago), they were "
-"very commonly used. As time goes on, they are used less and less, but they "
-"are still important enough to be worth supporting in <acronym>GIMP</"
-"acronym>. (Also, there are a few important kinds of image manipulation that "
-"are easier to implement with indexed images than with continuous-color RGB "
-"images.)"
-msgstr ""
-
-#: src/concepts/image-types.xml:201(para)
-msgid ""
-"Some very commonly used types of files (including <link linkend=\"file-gif-"
-"load\">GIF</link> and <link linkend=\"file-png-load\">PNG</link>) produce "
-"indexed images when they are opened in <acronym>GIMP</acronym>. Many of "
-"<acronym>GIMP</acronym>'s tools don't work very well on indexed images–and "
-"many filters don't work at all–because of the limited number of colors "
-"available. Because of this, it is usually best to convert an image to RGB "
-"mode before working on it. If necessary, you can convert it back to indexed "
-"mode when you are ready to save it"
-msgstr ""
-
-#: src/concepts/image-types.xml:213(para)
-msgid ""
-"<acronym>GIMP</acronym> makes it easy to convert from one image type to "
-"another, using the <link linkend=\"gimp-image-mode\">Mode</link> command in "
-"the Image menu. Some types of conversions, of course (RGB to grayscale or "
-"indexed, for example) lose information that cannot be regained by converting "
-"back in the other direction."
-msgstr ""
-
-#: src/concepts/image-types.xml:222(para)
-msgid ""
-"If you are trying to use a filter on an image, and it appears grayed out in "
-"the menu, usually the cause is that the image (or, more specifically, the "
-"layer) you are working on is the wrong type. Many filters can't be used on "
-"indexed images. Some can be used only on RGB images, or only on grayscale "
-"images. Some also require the presence or absence of an alpha channel. "
-"Usually the fix is to convert the image to a different type, most commonly "
-"RGB."
-msgstr ""
-
-#. When image changes, this message will be marked fuzzy or untranslated for you.
-#. It doesn't matter what you translate it to: it's not used at all.
 #: src/concepts/grid-and-guides.xml:45(None)
 msgid ""
 "@@image: 'images/using/wilber-simple-nogrid.png'; "
@@ -5717,7 +5717,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: src/concepts/gradients.xml:99(None)
+#: src/concepts/gradients.xml:110(None)
 msgid ""
 "@@image: 'images/using/gradient-draw.png'; "
 "md5=3dff4b59a3ad75746473176ba9c073b2"
@@ -5725,7 +5725,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: src/concepts/gradients.xml:158(None)
+#: src/concepts/gradients.xml:138(None)
 msgid ""
 "@@image: 'images/using/color-gradient-pencil.png'; "
 "md5=5d0f45fb8aeb86fe34219e4074478906"
@@ -5733,7 +5733,7 @@ msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
-#: src/concepts/gradients.xml:179(None)
+#: src/concepts/gradients.xml:159(None)
 msgid ""
 "@@image: 'images/using/gradient-usage.png'; "
 "md5=d70171cbaaccc00565123fae0277ec01"
@@ -5769,10 +5769,21 @@ msgid ""
 msgstr ""
 
 #: src/concepts/gradients.xml:42(term)
-msgid "The Gradient Map filter"
+msgid "Painting with a gradient"
 msgstr ""
 
 #: src/concepts/gradients.xml:44(para)
+msgid ""
+"Each of <acronym>GIMP</acronym>'s basic painting tools allows you the option "
+"of using colors from a gradient. This enables you to create brushstrokes "
+"that change color from one end to the other."
+msgstr ""
+
+#: src/concepts/gradients.xml:53(term)
+msgid "The Gradient Map filter"
+msgstr ""
+
+#: src/concepts/gradients.xml:55(para)
 msgid ""
 "This filter is now in the Colors menu, and allows you to <quote>colorize</"
 "quote> an image, using the color intensity of each point with the "
@@ -5782,7 +5793,7 @@ msgid ""
 "gradient. See <xref linkend=\"plug-in-gradmap\"/> for more information."
 msgstr ""
 
-#: src/concepts/gradients.xml:57(para)
+#: src/concepts/gradients.xml:68(para)
 msgid ""
 "When you install <acronym>GIMP</acronym>, it comes presupplied with a large "
 "number of interesting gradients, and you can add new ones that you create or "
@@ -5795,89 +5806,62 @@ msgid ""
 "alternative way of bringing up the Gradients dialog."
 msgstr ""
 
-#: src/concepts/gradients.xml:70(para)
+#: src/concepts/gradients.xml:81(para)
 msgid ""
 "Many quickly examples of working with gradient (for more information see "
 "<link linkend=\"gimp-tool-blend\">Blend Tool</link>):"
 msgstr ""
 
-#: src/concepts/gradients.xml:76(para)
+#: src/concepts/gradients.xml:87(para)
 msgid "Put a gradient in a selection:"
 msgstr ""
 
-#: src/concepts/gradients.xml:79(para)
+#: src/concepts/gradients.xml:90(para)
 msgid "Choose a gradient."
 msgstr ""
 
-#: src/concepts/gradients.xml:82(para)
+#: src/concepts/gradients.xml:93(para)
 msgid ""
 "With the Blend Tool click and drag with the mouse between two points of a "
 "selection."
 msgstr ""
 
-#: src/concepts/gradients.xml:88(para)
+#: src/concepts/gradients.xml:99(para)
 msgid ""
 "Colors will distributed perpendicularly to the direction of the drag of the "
 "mouse and according to the length of it."
 msgstr ""
 
-#: src/concepts/gradients.xml:96(title)
+#: src/concepts/gradients.xml:107(title)
 msgid "How to use rapidly a gradient in a selection"
 msgstr ""
 
-#: src/concepts/gradients.xml:105(para)
+#: src/concepts/gradients.xml:116(para)
 msgid "Painting with a gradient:"
 msgstr ""
 
-#: src/concepts/gradients.xml:106(para)
+#: src/concepts/gradients.xml:117(para)
 msgid ""
-"In former versions of <acronym>GIMP</acronym>, you had a <guilabel>Color "
-"from Gradient</guilabel> option in tool options that allowed you to paint "
-"with a gradient. This option no longer exists in <acronym>GIMP-2.8</"
-"acronym>. But you can still paint with a gradient by creating a custom new "
-"dynamics. Here is the trick:"
+"You can also use a gradient with the Pencil, Paintbrush or Airbrush tools if "
+"you choose the dynamics <guilabel>Color From Gradient</guilabel>. In the "
+"next step choose a suitable gradient from <guilabel>Color options</guilabel> "
+"and in the <guilabel>Fade options</guilabel> set the gradients length and "
+"the style of the repeating. The chapter <xref linkend=\"gimp-tool-dynamic-"
+"options\"/> describes these parameters in more detail."
 msgstr ""
 
-#: src/concepts/gradients.xml:115(para)
-msgid ""
-"Open the <emphasis>Windows/Dockable Dialogs/Paint Dynamics</emphasis> dialog."
-msgstr ""
-
-#: src/concepts/gradients.xml:121(para)
-msgid ""
-"Right-click in this dialog and choose the <guilabel>New Dynamics</guilabel> "
-"command, or click on the <guilabel>Create a new dynamics</guilabel> button "
-"at the bottom of the dialog. This opens the Paint Dynamics Editor."
-msgstr ""
-
-#: src/concepts/gradients.xml:129(para)
-msgid ""
-"In this editor, rename <quote>Untitled</quote> to <quote>Color from "
-"Gradient</quote> and check the Color/Fade box. This new dynamics appears at "
-"the top of the dynamics list."
-msgstr ""
-
-#: src/concepts/gradients.xml:136(para)
-msgid ""
-"Now choose the dynamics <guilabel>Color From Gradient</guilabel> option. In "
-"the next step choose a suitable gradient from <guilabel>Color options</"
-"guilabel> and in the <guilabel>Fade options</guilabel> set the gradients "
-"length and the style of the repeating. The chapter <xref linkend=\"gimp-tool-"
-"dynamic-options\"/> describes these parameters in more detail."
-msgstr ""
-
-#: src/concepts/gradients.xml:147(para)
+#: src/concepts/gradients.xml:127(para)
 msgid ""
 "The following example shows the impact on the Pencil tool. You see in the "
 "upper side of the figure the necessary settings and the lower side of the "
 "figure shows the resulting succession of the gradients colors."
 msgstr ""
 
-#: src/concepts/gradients.xml:154(title)
+#: src/concepts/gradients.xml:134(title)
 msgid "How to use rapidly a gradient with a drawing tool"
 msgstr ""
 
-#: src/concepts/gradients.xml:162(para)
+#: src/concepts/gradients.xml:142(para)
 msgid ""
 "To use the Paint tools with the same settings as they were known as option "
 "<guilabel>Use color from gradient</guilabel> in GIMP up to version 2.6 open "
@@ -5887,15 +5871,15 @@ msgid ""
 "(Color From Gradient)</guilabel> from it."
 msgstr ""
 
-#: src/concepts/gradients.xml:174(para)
+#: src/concepts/gradients.xml:154(para)
 msgid "Different productions with the same gradient:"
 msgstr ""
 
-#: src/concepts/gradients.xml:176(title)
+#: src/concepts/gradients.xml:156(title)
 msgid "Gradient usage"
 msgstr ""
 
-#: src/concepts/gradients.xml:182(para)
+#: src/concepts/gradients.xml:162(para)
 msgid ""
 "Four ways of using the Tropical Colors gradient: a linear gradient fill, a "
 "shaped gradient fill, a stroke painted using colors from a gradient, and a "
@@ -5903,11 +5887,11 @@ msgid ""
 "\"plug-in-gradmap\">Gradient Map</link> filter."
 msgstr ""
 
-#: src/concepts/gradients.xml:194(para)
+#: src/concepts/gradients.xml:174(para)
 msgid "A few useful things to know about <acronym>GIMP</acronym>'s gradients:"
 msgstr ""
 
-#: src/concepts/gradients.xml:198(para)
+#: src/concepts/gradients.xml:178(para)
 msgid ""
 "The first four gradients in the list are special: they use the Foreground "
 "and Background colors from the Toolbox Color Area, instead of being fixed. "
@@ -5923,7 +5907,7 @@ msgid ""
 "colors you want."
 msgstr ""
 
-#: src/concepts/gradients.xml:215(para)
+#: src/concepts/gradients.xml:195(para)
 msgid ""
 "Gradients can involve not just color changes, but also changes in opacity. "
 "Some of the gradients are completely opaque; others include transparent or "
@@ -5931,7 +5915,7 @@ msgid ""
 "existing contents of the layer will show through behind it."
 msgstr ""
 
-#: src/concepts/gradients.xml:224(para)
+#: src/concepts/gradients.xml:204(para)
 msgid ""
 "You can create new <emphasis>custom</emphasis> gradients, using the <link "
 "linkend=\"gimp-gradient-editor-dialog\">Gradient Editor</link>. You cannot "
@@ -5939,7 +5923,7 @@ msgid ""
 "can duplicate them or create new ones, and then edit those."
 msgstr ""
 
-#: src/concepts/gradients.xml:233(para)
+#: src/concepts/gradients.xml:213(para)
 msgid ""
 "The gradients that are supplied with <acronym>GIMP</acronym> are stored in a "
 "system <filename>gradients</filename> folder. By default, gradients that you "
@@ -5952,7 +5936,7 @@ msgid ""
 "link> pages of the Preferences dialog."
 msgstr ""
 
-#: src/concepts/gradients.xml:246(para)
+#: src/concepts/gradients.xml:226(para)
 msgid ""
 "New in <acronym>GIMP</acronym> 2.2 is the ability to load gradient files in "
 "SVG format, used by many vector graphics programs. To make <acronym>GIMP</"
@@ -5961,7 +5945,7 @@ msgid ""
 "acronym> directory, or any other folder in your gradient search path."
 msgstr ""
 
-#: src/concepts/gradients.xml:256(para)
+#: src/concepts/gradients.xml:236(para)
 msgid ""
 "You can find a large number of interesting SVG gradients on the web, in "
 "particular at OpenClipArt Gradients <xref linkend=\"bibliography-online-"
@@ -6522,10 +6506,9 @@ msgstr ""
 #: src/concepts/docks.xml:489(para)
 msgid ""
 "This option is available in multi-window mode only. This is a toggle. If it "
-"is checked, then an Image Menu is shown at the top of the dock: "
-"<placeholder-1/> It is not available for dialogs docked below the Toolbox. "
-"This option is interesting only if you have several open images on your "
-"screen."
+"is checked, then an Image Menu is shown at the top of the dock: <placeholder-"
+"1/> It is not available for dialogs docked below the Toolbox. This option is "
+"interesting only if you have several open images on your screen."
 msgstr ""
 
 #: src/concepts/docks.xml:510(term)
