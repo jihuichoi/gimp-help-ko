@@ -2335,7 +2335,7 @@ msgid ""
 "    x\n"
 ")\n"
 "      "
-msgstr "김프 사용자 설명서가 없습니다."
+msgstr ""
 
 #: src/using/script-fu-tutorial.xml:456(para)
 msgid ""
@@ -2438,7 +2438,7 @@ msgid ""
 "               (list 5 4 3 a b c)\n"
 "        )\n"
 "      "
-msgstr "언어 목록"
+msgstr ""
 
 #: src/using/script-fu-tutorial.xml:522(para)
 #, fuzzy
@@ -3274,7 +3274,7 @@ msgid ""
 "\n"
 "        (gimp-display-new theImage)\n"
 "      "
-msgstr "새 인스턴스로 김프를 시작합니다."
+msgstr ""
 
 #: src/using/script-fu-tutorial.xml:1207(para)
 msgid "Save your work, refresh the database and give your first script a run!"
