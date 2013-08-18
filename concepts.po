@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GIMP DOCS\n"
 "POT-Creation-Date: 2013-07-22 12:15+0900\n"
-"PO-Revision-Date: 2013-08-07 22:55+0900\n"
+"PO-Revision-Date: 2013-08-11 21:47+0900\n"
 "Last-Translator: Jihui Choi <jihui.choi@gmail.com>\n"
 "Language-Team: Korean <jihui.choi@gmail.com>\n"
 "Language: Korean\n"
@@ -1634,13 +1634,13 @@ msgstr "문자열 입력란에는 Frozenriver처럼 로고 이름을 입력한�
 
 #: src/concepts/script-fu.xml:319(para)
 msgid "In the Font Size text field, type the size of your logo in pixels."
-msgstr "폰트 크기 입력란에는 로고의 크기를 픽셀단위로 입력한다."
+msgstr "글꼴 크기 입력란에는 로고의 크기를 픽셀단위로 입력한다."
 
 #: src/concepts/script-fu.xml:325(para)
 msgid ""
 "In the Font text field, type the name of the font that you want to use for "
 "your logo."
-msgstr "폰트 입력란에는 로고에 사용하려고 하는 폰트 이름을 입력한다."
+msgstr "글꼴 입력란에는 로고에 사용하려고 하는 글꼴 이름을 입력한다."
 
 #: src/concepts/script-fu.xml:331(para)
 msgid ""
@@ -8137,10 +8137,9 @@ msgstr "미리 보기 크기"
 
 #: src/concepts/docks.xml:306(title)
 msgid "Preview Size submenu of a Tab menu."
-msgstr "탭 메뉴의 하위 메뉴인 미리보기 크기"
+msgstr "탭 메뉴의 하위 메뉴인 미리보기 크기 메뉴"
 
 #: src/concepts/docks.xml:318(para)
-#, fuzzy
 msgid ""
 "Many, but not all, dialogs have Tab menus containing a <guilabel>Preview "
 "Size</guilabel> option, which opens into a submenu giving a list of sizes "
@@ -8148,60 +8147,56 @@ msgid ""
 "dialog shows pictures of all available brushes: the Preview Size determines "
 "how large the pictures are. The default is <guilabel>Medium</guilabel>."
 msgstr ""
-"대부분의 대화 상자들은 <guilabel>미리 보기 크기</guilabel>를 선택할 수 있는 "
-"탭 메뉴를 가지고 있습니다.(참조 : <xref linkend=\"figure-gimp-dock-preview-"
-"size\"/>) 예를 들어 붓 도구 대화 상자는 사용 가능한 모든 븟의 모양을 보여 줍"
-"니다. 여기서 미리 보기 크기란 대화 상자 내에서 각각의 아이템을 얼마만큼 크게 "
-"보여줄인가에 관한 것이며, 기본값은 <guilabel>중간</guilabel>입니다."
+"대부분의 대화 상자에는 <guilabel>미리 보기 크기</guilabel>를 선택할 수 있는 "
+"탭 메뉴가 있습니다. 예를 들어 붓 도구 대화 상자는 사용 가능한 븟의 모양을 보"
+"여 줍니다. 여기서 미리 보기 크기란 대화 상자 내에서 각각의 붓을 얼마만큼 크"
+"게 보여줄인가에 관한 것이며, 기본값은 <guilabel>중간</guilabel>입니다."
 
 #: src/concepts/docks.xml:331(term)
 msgid "Tab Style"
 msgstr "탭 형태"
 
 #: src/concepts/docks.xml:334(title)
-#, fuzzy
 msgid "Tab Style submenu of a Tab menu."
-msgstr "탭 형태에 관한 메뉴"
+msgstr "탭 메뉴의 하위 메뉴인 탭 형태 메뉴"
 
 #: src/concepts/docks.xml:344(secondary)
 msgid "Tab style"
 msgstr "탭 형태"
 
 #: src/concepts/docks.xml:346(para)
-#, fuzzy
 msgid ""
 "Available only when multiple dialogs are in the same dock, <guilabel>Tab "
 "Style</guilabel> opens a submenu allowing you to choose the appearance of "
 "the tabs at the top (see the figure above). There are five choices, not all "
 "are available for every dialog:"
 msgstr ""
-"탭은 하나의 독 안에서 여러 대화 상자를 사용할 수 있게 하는 기능입니다. 하위 "
-"메뉴를 통해 상단의 각 탭을 표시하는 방식을 선택할 수도 있습니다.(참조: <xref "
-"linkend=\"figure-gimp-dock-tab-style\"/>) 여기에는 다섯 가지 항목이 있는데, "
-"모든 대화 상자에서 사용 가능한 것은 아닙니다."
+"<guilabel>탭 형태</guilabel> 메뉴는 탭 모양에 관한 다섯 개의 하위 메뉴가 있으"
+"며, 여러 대화 상자가 같은 독(dock)에 있을 경우에만 사용할 수 있습니다.(스크린"
+"샷 참조) 일부 대화 상자에서는 다섯 개의 하위 메뉴 중 일부를 사용할 수 없습니"
+"다."
 
 #: src/concepts/docks.xml:358(para)
-#, fuzzy
 msgid "Use an icon to represent the dialog type."
-msgstr "대화 상자의 종류를 아이콘으로 보여줍니다."
+msgstr "대화 상자의 종류를 아이콘으로 표시합니다."
 
 #: src/concepts/docks.xml:364(term)
 msgid "Current Status"
 msgstr "현재 상태"
 
 #: src/concepts/docks.xml:366(para)
-#, fuzzy
 msgid ""
 "Is only available for dialogs that allows you to select something, such as a "
 "brush, pattern, gradient, etc. <guilabel>Current Status</guilabel> shows a "
 "representation of the currently selected item in the tab top."
 msgstr ""
 "붓, 무늬, 그라디언트 등 무언가를 선택할 수 있는 대화 상자에서만 활성화되는 항"
-"목으로, 현재 선택된 아이템의 모습을 탭에 보여줍니다."
+"목으로, 선택된 아이템의 <guilabel>현재 상태</guilabel>을 탭의 상단에 보여줍니"
+"다."
 
 #: src/concepts/docks.xml:378(para)
 msgid "Use text to display the dialog type."
-msgstr ""
+msgstr "대화 상자의 종류를 텍스트로 표시합니다."
 
 #: src/concepts/docks.xml:384(term)
 msgid "Icon and Text"
@@ -8209,7 +8204,7 @@ msgstr "아이콘과 텍스트"
 
 #: src/concepts/docks.xml:386(para)
 msgid "Using both an icon and text results in wider tabs."
-msgstr ""
+msgstr "아이콘과 텍스트를 모두 사용하여 표시합니다.(넓은 탭에 유용)"
 
 #: src/concepts/docks.xml:392(term)
 msgid "Status and Text"
@@ -8217,16 +8212,15 @@ msgstr "상태와 텍스트"
 
 #: src/concepts/docks.xml:394(para)
 msgid "Show the currently selected item and text with the dialog type."
-msgstr ""
+msgstr "현재 선택된 항목을 대화 상자 종류와 함께 표시합니다."
 
 #: src/concepts/docks.xml:406(term)
 msgid "View as List; View as Grid"
-msgstr "목록으로 보기, 격자로 보기"
+msgstr "목록으로 보기 / 격자로 보기"
 
 #: src/concepts/docks.xml:408(anchor:xreflabel)
-#, fuzzy
 msgid "View as Grid"
-msgstr "목록/격자로 보기"
+msgstr "격자로 보기"
 
 #: src/concepts/docks.xml:411(secondary)
 msgid "View as List/Grid"
@@ -8237,7 +8231,6 @@ msgid "List search field"
 msgstr "목록 검색 필드"
 
 #: src/concepts/docks.xml:414(para)
-#, fuzzy
 msgid ""
 "These entries are shown in dialogs that allow you to select an item from a "
 "set: brushes, patterns, fonts, etc. You can choose to view the items as a "
@@ -8248,55 +8241,56 @@ msgid ""
 "for brushes and patterns, the default is a grid; for most other things, the "
 "default is a list."
 msgstr ""
-"이 항목들은 대화 상자에서 붓, 무늬, 폰트 등을 직접 선택할 수 있도록 해줍니"
-"다. 아이템들은 이름이 포함된 세로 목록 형태나 이름이 없는 격자 형태로 표시됩"
-"니다. 목록 형태는 각 아이템에 대한 자세한 정보를 제공하는 반면, 격자 형태는 "
-"한번에 더 많은 아이템들을 볼 수 있는 장점이 있습니다. 기본 형태는 대화 상자마"
-"다 다른데, 붓 도구와 무늬 대화 상자는 격자로 보기고, 나머지의 대부분은 목록으"
-"로 보기입니다."
+"이 두 개의 항목을 이용하면 대화 상자에서 직접 붓, 무늬, 글꼴 등을 선택할 수 "
+"있습니다. 목록 형태는 각 아이템들을 이름과 함께 세로 목록 형태로, 격자 형태"
+"는 이름을 제외하고 아이콘만 표시합니다. 목록 형태는 각 아이템에 대한 자세한 "
+"정보를 확인할 수 있는 반면, 격자 형태는 한번에 더 많은 아이템들을 볼 수 있는 "
+"장점이 있습니다. 기본 형태는 대화 상자마다 다른데, 붓 도구와 무늬 대화 상자"
+"는 격자로 보기고, 나머지의 대부분은 목록으로 보기입니다."
 
 #: src/concepts/docks.xml:426(para)
 msgid ""
 "When the tree-view is <guilabel>View as List</guilabel>, you can use tags. "
 "Please see <xref linkend=\"gimp-tagging\"/>."
 msgstr ""
+"<guilabel>목록으로 보기</guilabel>에서는 태그를 사용할 수 있습니다. 이에 대"
+"한 더 자세한 내용은 <xref linkend=\"gimp-tagging\"/>을 참고하세요."
 
 #: src/concepts/docks.xml:434(title)
-#, fuzzy
 msgid "The list search field."
-msgstr "목록 검색 필드"
+msgstr "목록 검색란"
 
 #: src/concepts/docks.xml:441(para)
 msgid ""
 "Use <keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> to open the "
 "list search field. An item must be selected for this command to be effective."
 msgstr ""
+"<keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> 키를 눌러 목록 "
+"검색란을 엽니다. 원하는 아이템을 찾을 수 있는 유효한 검색어를 입력합니다."
 
 #: src/concepts/docks.xml:431(para)
 msgid "You can also use a list search field: <placeholder-1/>"
 msgstr ""
+"목록 검색란을 이용해서 원하는 아이템을 찾을 수도 있습니다. <placeholder-1/>"
 
 #: src/concepts/docks.xml:451(para)
-#, fuzzy
 msgid ""
 "The list search field automatically closes after five seconds if you do "
 "nothing."
 msgstr "이 검색 필드는 아무 것도 입력하지 않으면 5초 후에 사라집니다."
 
 #: src/concepts/docks.xml:456(para)
-#, fuzzy
 msgid ""
 "The search field shortcut is also available for the tree-view you get in the "
 "<quote>Brush</quote>, <quote>Font</quote> or <quote>Pattern</quote> option "
 "of several tools."
 msgstr ""
-"여러 도구의 <quote>붓</quote>, <quote>글꼴</quote>, <quote>무늬</quote> 옵션"
-"에서도 동일한 기능을 사용할 수 있습니다."
+"<quote>붓</quote>, <quote>글꼴</quote>, <quote>무늬</quote> 등 다른 도구의  "
+"옵션에서도 목록 검색 기능을 사용할 수 있습니다."
 
 #: src/concepts/docks.xml:466(term)
-#, fuzzy
 msgid "Show Button Bar"
-msgstr "버튼바 표시(_B)"
+msgstr "버튼바 표시"
 
 #: src/concepts/docks.xml:468(para)
 msgid ""
@@ -8304,23 +8298,23 @@ msgid ""
 "the Patterns, Brushes, Gradients, and Images dialogs. This is a toggle. If "
 "it is checked, then the Button Bar is displayed."
 msgstr ""
+"패턴, 붓, 그라데이션, 이미지 대화 상자와 같은 일부 대화 상자에는 대화 상자의 "
+"하단에 버튼바 표시됩니다. 이 메뉴를 이용해 버튼바를 숨기거나 표시할 수 있습니"
+"다."
 
 #: src/concepts/docks.xml:475(title)
 msgid "Button Bar on the Brushes dialog."
-msgstr ""
+msgstr "붓 대화 상자의 버튼바"
 
 #: src/concepts/docks.xml:487(term)
-#, fuzzy
 msgid "Show Image Selection"
-msgstr "선택 표시(_S)"
+msgstr "이미지 선택 표시"
 
 #: src/concepts/docks.xml:494(title)
-#, fuzzy
 msgid "A dock with an Image Menu highlighted."
-msgstr "이미지 메뉴가 밝게 표시된 독"
+msgstr "이미지 메뉴가 밝게 표시된 독(dock)"
 
 #: src/concepts/docks.xml:489(para)
-#, fuzzy
 msgid ""
 "This option is available in multi-window mode only. This is a toggle. If it "
 "is checked, then an Image Menu is shown at the top of the dock: "
@@ -8328,10 +8322,10 @@ msgid ""
 "This option is interesting only if you have several open images on your "
 "screen."
 msgstr ""
-"이미지 메뉴를 보여줄 것인가에 관한 항목입니다. 이 항목이 체크되어 있으면, 독"
-"의 상단에 이미지 메뉴가 나타납니다. 하지만 이미지 메뉴는 도구 상자에 연결된 "
-"대화 상자에는 표시할 수 없으며, 이미지 창의 메뉴와 혼동하지 마십시오. 이미지 "
-"창의 메뉴는 현재 활성화되어 있는 이미지의 메뉴입니다."
+"이 옵션은 다중창 모드에서만 사용할 수 있습니다. 이 옵션이 체크되어 있으면, 독"
+"(dock)의 상단에 이미지 메뉴가 표시됩니다. <placeholder-1/> 하지만 도구 상자"
+"에 연결된 대화 상자에는 이미지 메뉴를 표시할 수 없습니다. 이 옵션은 여러 개"
+"의 이미지를 띄워놓고 작업할 경우에만 유용합니다."
 
 #: src/concepts/docks.xml:510(term)
 msgid "Auto Follow Active Image"
@@ -8347,6 +8341,11 @@ msgid ""
 "Selection. If enabled, you can also select it by activating the image "
 "directly (clicking on its title bar)."
 msgstr ""
+"이 옵션은 다중창 모드에서만 사용할 수 있습니다. 이 옵션은 여러 개의 이미지를 "
+"띄워놓고 작업할 경우에만 유용합니다. 이 옵션을 선택하면 독(dock)의 정보 표시 "
+"영역에 항상 이미지 선택 대화 상자의 목록에서 선택한 이미지의 정보가 표시됩니"
+"다. <guilabel>자동으로 활성화된 이미지 표시하기</guilabel> 옵션을 사용 중지하"
+"면, 이미지를 이미지 선택 대화 상자에서만 선택할 수 있습니다."
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
